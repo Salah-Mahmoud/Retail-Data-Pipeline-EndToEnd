@@ -39,13 +39,13 @@ This project demonstrates an end-to-end retail data pipeline that processes, tra
 
 ### Data Storage
 1. Transformed data is stored in a **PostgreSQL** database.
-![Dwh](DwhDesign.jpeg)
+![Dwh](Dwh.png)
 
 
 ### Visualization
 1. A Streamlit dashboard provides interactive visualizations of key metrics, sales trends, top stores, top products, and promotion impacts.
 
-![Data Pipeline](Dwh.png)
+![Data Pipeline](Pipeline.png)
 
 ## Important Directories and Files
 

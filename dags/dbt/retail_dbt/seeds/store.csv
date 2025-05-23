@@ -1,0 +1,21 @@
+StoreID,StoreName,StoreLocation,StoreType,OpeningDate,ManagerName
+STORE_000001,Brown-Long,"303 Merritt Light, East Williamburgh, Utah 35693",Boutique,2025-01-09,Kevin Smith
+STORE_000002,Davis-Guzman,"71268 Johnson Club Apt. 793, Lake Nancymouth, Louisiana 20702",Boutique,2024-10-28,Heather Gonzalez
+STORE_000003,Walker-Everett,"884 Lang Land Suite 928, East Erinberg, Louisiana 34987",Department Store,2024-07-15,Mary Evans
+STORE_000004,Pollard Inc,"27781 James Heights, Steventown, California 88510",Supermarket,2024-10-22,Julie Garner
+STORE_000005,"Sherman, Allen and Adams","8694 Robert Haven, Underwoodton, Rhode Island 47379",Supermarket,2024-06-16,Taylor Williams
+STORE_000006,Dominguez Inc,"264 Davenport Coves Apt. 059, East Jessica, Indiana 98756",Supermarket,2024-07-05,Paul Fischer
+STORE_000007,Jensen-Roy,"148 Mary Key Apt. 791, Port Whitney, Hawaii 04341",Boutique,2024-09-18,Chelsea Taylor
+STORE_000008,Sanchez Ltd,"358 Daniel Wells, West Christinechester, New Mexico 53888",Boutique,2025-02-09,Aaron Romero
+STORE_000009,Harmon Ltd,"6550 Bennett Branch, Wardmouth, Maine 16163",Online,2024-12-24,Trevor Carr
+STORE_000010,Hodges-Romero,"3808 Johnson Road Apt. 727, New Anna, Oklahoma 59247",Boutique,2024-12-24,Vanessa Rogers
+STORE_000011,Young-Fisher,"8339 Darren Haven, Carterchester, Washington 99403",Boutique,2024-07-30,Austin Sharp
+STORE_000012,Johnson-Johnson,"9354 Spencer Circles, Hansenberg, Colorado 92490",Boutique,2025-01-10,Yvonne Nguyen
+STORE_000013,"Lewis, Phillips and Gonzalez","2507 Ayers Extensions Suite 466, North James, Kentucky 80997",Supermarket,2024-10-07,Charles Sandoval MD
+STORE_000014,Bullock-Smith,"511 John Turnpike Apt. 474, North Katie, Vermont 83818",Supermarket,2024-10-20,Mary Velasquez
+STORE_000015,Bennett and Sons,"335 Reed Meadows Apt. 894, Edwinton, North Dakota 02774",Boutique,2024-08-05,Daniel Williams
+STORE_000016,"Sanchez, Nolan and Noble","07477 Kimberly Common Apt. 050, Davidchester, Georgia 79366",Supermarket,2024-08-12,William Bailey
+STORE_000017,"Robles, Reynolds and Ochoa","444 Ricky Union, North Robertfurt, Ohio 64816",Online,2024-06-02,Nicholas Gibbs
+STORE_000018,"Walsh, Owens and Hernandez","6098 Mathis Plain, Port Veronica, Nebraska 19296",Supermarket,2025-04-05,Jerry Glenn
+STORE_000019,Williams-Phillips,"4566 Walker Passage, New Madison, Minnesota 57184",Online,2024-06-27,Edwin Hamilton
+STORE_000020,Mejia-Perez,"045 Matthew Square Suite 555, Stevensonchester, Massachusetts 36647",Department Store,2024-09-16,Brian Compton

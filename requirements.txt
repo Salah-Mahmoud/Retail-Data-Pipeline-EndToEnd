@@ -1,0 +1,2 @@
+astronomer-cosmos[dbt.all]
+apache-airflow-providers-postgres==5.6.0

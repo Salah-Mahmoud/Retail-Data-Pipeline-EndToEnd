@@ -1,0 +1,69 @@
+PromotionID,PromotionName,PromotionType,DiscountPercentage,PromotionStartDate,UpdatedAt
+PROMO_000001,Devolved systemic hub!,Clearance,36.42,2024-10-15,2024-10-15 00:00:00
+PROMO_000001,Devolved systemic hub!,Clearance,20.31,2024-11-14,2024-11-14 00:00:00
+PROMO_000002,Quality-focused analyzing alliance!,Clearance,48.07,2024-06-20,2024-06-20 00:00:00
+PROMO_000002,Quality-focused analyzing alliance!,Clearance,20.15,2024-07-20,2024-07-20 00:00:00
+PROMO_000002,Quality-focused analyzing alliance!,Clearance,9.17,2024-08-19,2024-08-19 00:00:00
+PROMO_000003,Ameliorated maximized superstructure!,Loyalty,43.14,2024-09-15,2024-09-15 00:00:00
+PROMO_000003,Ameliorated maximized superstructure!,Loyalty,32.17,2024-10-15,2024-10-15 00:00:00
+PROMO_000004,Customizable holistic intranet!,Holiday,29.13,2024-07-22,2024-07-22 00:00:00
+PROMO_000004,Customizable holistic intranet!,Holiday,48.79,2024-08-21,2024-08-21 00:00:00
+PROMO_000005,Open-source web-enabled system engine!,Seasonal,29.84,2024-11-07,2024-11-07 00:00:00
+PROMO_000005,Open-source web-enabled system engine!,Seasonal,42.32,2024-12-07,2024-12-07 00:00:00
+PROMO_000005,Open-source web-enabled system engine!,Seasonal,32.83,2025-01-06,2025-01-06 00:00:00
+PROMO_000005,Open-source web-enabled system engine!,Seasonal,43.78,2025-02-05,2025-02-05 00:00:00
+PROMO_000005,Open-source web-enabled system engine!,Seasonal,30.98,2025-03-07,2025-03-07 00:00:00
+PROMO_000006,Decentralized bottom-line flexibility!,Seasonal,34.76,2024-08-20,2024-08-20 00:00:00
+PROMO_000006,Decentralized bottom-line flexibility!,Seasonal,39.79,2024-09-19,2024-09-19 00:00:00
+PROMO_000007,User-friendly object-oriented encoding!,Clearance,43.99,2024-06-04,2024-06-04 00:00:00
+PROMO_000007,User-friendly object-oriented encoding!,Clearance,22.11,2024-07-04,2024-07-04 00:00:00
+PROMO_000008,Customer-focused contextually-based Internet solution!,Loyalty,12.32,2024-09-08,2024-09-08 00:00:00
+PROMO_000008,Customer-focused contextually-based Internet solution!,Loyalty,20.99,2024-10-08,2024-10-08 00:00:00
+PROMO_000008,Customer-focused contextually-based Internet solution!,Loyalty,35.16,2024-11-07,2024-11-07 00:00:00
+PROMO_000008,Customer-focused contextually-based Internet solution!,Loyalty,36.58,2024-12-07,2024-12-07 00:00:00
+PROMO_000008,Customer-focused contextually-based Internet solution!,Loyalty,35.76,2025-01-06,2025-01-06 00:00:00
+PROMO_000009,Persistent zero administration frame!,Clearance,29.04,2024-09-13,2024-09-13 00:00:00
+PROMO_000009,Persistent zero administration frame!,Clearance,16.02,2024-10-13,2024-10-13 00:00:00
+PROMO_000010,Diverse neutral throughput!,Holiday,17.15,2024-11-10,2024-11-10 00:00:00
+PROMO_000010,Diverse neutral throughput!,Holiday,46.64,2024-12-10,2024-12-10 00:00:00
+PROMO_000010,Diverse neutral throughput!,Holiday,35.97,2025-01-09,2025-01-09 00:00:00
+PROMO_000010,Diverse neutral throughput!,Holiday,14.88,2025-02-08,2025-02-08 00:00:00
+PROMO_000010,Diverse neutral throughput!,Holiday,19.59,2025-03-10,2025-03-10 00:00:00
+PROMO_000011,Cross-group disintermediate migration!,Clearance,41.98,2024-11-02,2024-11-02 00:00:00
+PROMO_000011,Cross-group disintermediate migration!,Clearance,41.23,2024-12-02,2024-12-02 00:00:00
+PROMO_000012,Fully-configurable 6thgeneration approach!,Loyalty,7.98,2024-10-06,2024-10-06 00:00:00
+PROMO_000012,Fully-configurable 6thgeneration approach!,Loyalty,46.09,2024-11-05,2024-11-05 00:00:00
+PROMO_000012,Fully-configurable 6thgeneration approach!,Loyalty,30.52,2024-12-05,2024-12-05 00:00:00
+PROMO_000012,Fully-configurable 6thgeneration approach!,Loyalty,37.31,2025-01-04,2025-01-04 00:00:00
+PROMO_000012,Fully-configurable 6thgeneration approach!,Loyalty,14.57,2025-02-03,2025-02-03 00:00:00
+PROMO_000013,Integrated transitional policy!,Holiday,44.81,2024-10-29,2024-10-29 00:00:00
+PROMO_000013,Integrated transitional policy!,Holiday,33.93,2024-11-28,2024-11-28 00:00:00
+PROMO_000013,Integrated transitional policy!,Holiday,11.43,2024-12-28,2024-12-28 00:00:00
+PROMO_000013,Integrated transitional policy!,Holiday,11.28,2025-01-27,2025-01-27 00:00:00
+PROMO_000013,Integrated transitional policy!,Holiday,38.52,2025-02-26,2025-02-26 00:00:00
+PROMO_000014,Synergistic context-sensitive moratorium!,Holiday,45.4,2024-05-30,2024-05-30 00:00:00
+PROMO_000014,Synergistic context-sensitive moratorium!,Holiday,22.97,2024-06-29,2024-06-29 00:00:00
+PROMO_000014,Synergistic context-sensitive moratorium!,Holiday,14.87,2024-07-29,2024-07-29 00:00:00
+PROMO_000014,Synergistic context-sensitive moratorium!,Holiday,49.89,2024-08-28,2024-08-28 00:00:00
+PROMO_000015,Horizontal mission-critical functionalities!,Seasonal,39.01,2024-09-28,2024-09-28 00:00:00
+PROMO_000015,Horizontal mission-critical functionalities!,Seasonal,43.75,2024-10-28,2024-10-28 00:00:00
+PROMO_000015,Horizontal mission-critical functionalities!,Seasonal,11.88,2024-11-27,2024-11-27 00:00:00
+PROMO_000015,Horizontal mission-critical functionalities!,Seasonal,12.2,2024-12-27,2024-12-27 00:00:00
+PROMO_000015,Horizontal mission-critical functionalities!,Seasonal,35.62,2025-01-26,2025-01-26 00:00:00
+PROMO_000016,Cross-platform mobile website!,Holiday,22.17,2024-07-17,2024-07-17 00:00:00
+PROMO_000016,Cross-platform mobile website!,Holiday,49.83,2024-08-16,2024-08-16 00:00:00
+PROMO_000017,Multi-tiered homogeneous conglomeration!,Seasonal,35.61,2024-07-22,2024-07-22 00:00:00
+PROMO_000017,Multi-tiered homogeneous conglomeration!,Seasonal,10.15,2024-08-21,2024-08-21 00:00:00
+PROMO_000017,Multi-tiered homogeneous conglomeration!,Seasonal,44.82,2024-09-20,2024-09-20 00:00:00
+PROMO_000017,Multi-tiered homogeneous conglomeration!,Seasonal,38.79,2024-10-20,2024-10-20 00:00:00
+PROMO_000018,Public-key object-oriented utilization!,Seasonal,18.21,2024-09-20,2024-09-20 00:00:00
+PROMO_000018,Public-key object-oriented utilization!,Seasonal,12.12,2024-10-20,2024-10-20 00:00:00
+PROMO_000018,Public-key object-oriented utilization!,Seasonal,5.15,2024-11-19,2024-11-19 00:00:00
+PROMO_000018,Public-key object-oriented utilization!,Seasonal,37.49,2024-12-19,2024-12-19 00:00:00
+PROMO_000019,Networked system-worthy success!,Clearance,27.85,2024-05-27,2024-05-27 00:00:00
+PROMO_000019,Networked system-worthy success!,Clearance,9.79,2024-06-26,2024-06-26 00:00:00
+PROMO_000019,Networked system-worthy success!,Clearance,33.14,2024-07-26,2024-07-26 00:00:00
+PROMO_000019,Networked system-worthy success!,Clearance,42.88,2024-08-25,2024-08-25 00:00:00
+PROMO_000020,Enterprise-wide holistic software!,Clearance,21.83,2024-09-11,2024-09-11 00:00:00
+PROMO_000020,Enterprise-wide holistic software!,Clearance,12.27,2024-10-11,2024-10-11 00:00:00
+PROMO_000020,Enterprise-wide holistic software!,Clearance,47.91,2024-11-10,2024-11-10 00:00:00

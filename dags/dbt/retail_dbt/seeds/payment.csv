@@ -1,0 +1,5001 @@
+PaymentMethodID,PaymentType,Provider
+PAY_000000,Cash,PayPal
+PAY_000001,credit card,Amex
+PAY_000002,debit card,Maestro
+PAY_000003,Cash,Visa
+PAY_000004,Cash,MasterCard
+PAY_000005,debit card,Visa
+PAY_000006,debit card,PayPal
+PAY_000007,credit card,PayPal
+PAY_000008,credit card,MasterCard
+PAY_000009,debit card,PayPal
+PAY_000010,Mobile Payment,Visa
+PAY_000011,debit card,PayPal
+PAY_000012,Cash,PayPal
+PAY_000013,Mobile Payment,Amex
+PAY_000014,Mobile Payment,PayPal
+PAY_000015,Cash,Amex
+PAY_000016,Cash,PayPal
+PAY_000017,credit card,Maestro
+PAY_000018,debit card,MasterCard
+PAY_000019,Mobile Payment,MasterCard
+PAY_000020,debit card,PayPal
+PAY_000021,Mobile Payment,PayPal
+PAY_000022,Mobile Payment,PayPal
+PAY_000023,debit card,Amex
+PAY_000024,debit card,Maestro
+PAY_000025,Mobile Payment,Amex
+PAY_000026,credit card,PayPal
+PAY_000027,Mobile Payment,PayPal
+PAY_000028,Cash,PayPal
+PAY_000029,Mobile Payment,MasterCard
+PAY_000030,debit card,PayPal
+PAY_000031,debit card,Visa
+PAY_000032,credit card,PayPal
+PAY_000033,Cash,PayPal
+PAY_000034,Mobile Payment,Maestro
+PAY_000035,Cash,PayPal
+PAY_000036,Mobile Payment,Visa
+PAY_000037,debit card,Maestro
+PAY_000038,debit card,Visa
+PAY_000039,debit card,Amex
+PAY_000040,credit card,PayPal
+PAY_000041,credit card,PayPal
+PAY_000042,Cash,MasterCard
+PAY_000043,debit card,MasterCard
+PAY_000044,debit card,Maestro
+PAY_000045,Mobile Payment,MasterCard
+PAY_000046,credit card,Visa
+PAY_000047,debit card,Amex
+PAY_000048,Mobile Payment,Maestro
+PAY_000049,Cash,Visa
+PAY_000050,debit card,PayPal
+PAY_000051,credit card,PayPal
+PAY_000052,Cash,Amex
+PAY_000053,Mobile Payment,PayPal
+PAY_000054,Cash,Maestro
+PAY_000055,Cash,PayPal
+PAY_000056,Mobile Payment,Maestro
+PAY_000057,Cash,MasterCard
+PAY_000058,Cash,Maestro
+PAY_000059,Cash,Amex
+PAY_000060,credit card,Visa
+PAY_000061,Mobile Payment,Amex
+PAY_000062,Mobile Payment,PayPal
+PAY_000063,debit card,Maestro
+PAY_000064,credit card,Maestro
+PAY_000065,Cash,PayPal
+PAY_000066,Cash,PayPal
+PAY_000067,Cash,Maestro
+PAY_000068,Cash,Maestro
+PAY_000069,debit card,MasterCard
+PAY_000070,credit card,MasterCard
+PAY_000071,Cash,Amex
+PAY_000072,Cash,Visa
+PAY_000073,credit card,Maestro
+PAY_000074,debit card,Amex
+PAY_000075,debit card,Visa
+PAY_000076,credit card,PayPal
+PAY_000077,Cash,PayPal
+PAY_000078,Cash,MasterCard
+PAY_000079,Mobile Payment,Visa
+PAY_000080,Mobile Payment,Visa
+PAY_000081,credit card,MasterCard
+PAY_000082,debit card,MasterCard
+PAY_000083,Mobile Payment,Amex
+PAY_000084,credit card,Amex
+PAY_000085,Mobile Payment,Maestro
+PAY_000086,Cash,Amex
+PAY_000087,debit card,MasterCard
+PAY_000088,Cash,Visa
+PAY_000089,credit card,Amex
+PAY_000090,debit card,PayPal
+PAY_000091,Mobile Payment,Maestro
+PAY_000092,Cash,Maestro
+PAY_000093,debit card,MasterCard
+PAY_000094,credit card,PayPal
+PAY_000095,credit card,MasterCard
+PAY_000096,debit card,Visa
+PAY_000097,Cash,PayPal
+PAY_000098,Cash,PayPal
+PAY_000099,Mobile Payment,PayPal
+PAY_000100,debit card,PayPal
+PAY_000101,Cash,Visa
+PAY_000102,debit card,Maestro
+PAY_000103,credit card,PayPal
+PAY_000104,Cash,MasterCard
+PAY_000105,Mobile Payment,Visa
+PAY_000106,Mobile Payment,Maestro
+PAY_000107,credit card,Maestro
+PAY_000108,Cash,PayPal
+PAY_000109,debit card,PayPal
+PAY_000110,Cash,Maestro
+PAY_000111,debit card,Amex
+PAY_000112,debit card,MasterCard
+PAY_000113,Mobile Payment,PayPal
+PAY_000114,credit card,Maestro
+PAY_000115,Cash,PayPal
+PAY_000116,debit card,Visa
+PAY_000117,credit card,MasterCard
+PAY_000118,debit card,Amex
+PAY_000119,credit card,Visa
+PAY_000120,credit card,PayPal
+PAY_000121,Cash,PayPal
+PAY_000122,credit card,PayPal
+PAY_000123,Mobile Payment,MasterCard
+PAY_000124,credit card,Visa
+PAY_000125,Cash,Amex
+PAY_000126,Cash,Maestro
+PAY_000127,Mobile Payment,MasterCard
+PAY_000128,Mobile Payment,Maestro
+PAY_000129,Mobile Payment,PayPal
+PAY_000130,credit card,Amex
+PAY_000131,Mobile Payment,Visa
+PAY_000132,Mobile Payment,PayPal
+PAY_000133,Mobile Payment,Visa
+PAY_000134,Cash,Visa
+PAY_000135,Mobile Payment,Visa
+PAY_000136,Mobile Payment,MasterCard
+PAY_000137,Cash,Maestro
+PAY_000138,debit card,Maestro
+PAY_000139,Mobile Payment,Maestro
+PAY_000140,debit card,Amex
+PAY_000141,Cash,MasterCard
+PAY_000142,Mobile Payment,Visa
+PAY_000143,Mobile Payment,MasterCard
+PAY_000144,debit card,Visa
+PAY_000145,Cash,Maestro
+PAY_000146,credit card,MasterCard
+PAY_000147,credit card,MasterCard
+PAY_000148,Mobile Payment,Amex
+PAY_000149,Mobile Payment,Amex
+PAY_000150,Mobile Payment,Maestro
+PAY_000151,debit card,PayPal
+PAY_000152,credit card,Visa
+PAY_000153,Cash,PayPal
+PAY_000154,Mobile Payment,Maestro
+PAY_000155,Mobile Payment,Visa
+PAY_000156,Cash,Amex
+PAY_000157,debit card,PayPal
+PAY_000158,debit card,Amex
+PAY_000159,Cash,MasterCard
+PAY_000160,credit card,MasterCard
+PAY_000161,credit card,Visa
+PAY_000162,Cash,PayPal
+PAY_000163,Cash,MasterCard
+PAY_000164,Cash,PayPal
+PAY_000165,credit card,Amex
+PAY_000166,Cash,MasterCard
+PAY_000167,Cash,Maestro
+PAY_000168,debit card,MasterCard
+PAY_000169,Mobile Payment,Amex
+PAY_000170,Mobile Payment,Visa
+PAY_000171,debit card,PayPal
+PAY_000172,Mobile Payment,Maestro
+PAY_000173,Mobile Payment,Visa
+PAY_000174,Cash,Amex
+PAY_000175,Mobile Payment,Maestro
+PAY_000176,debit card,MasterCard
+PAY_000177,Cash,PayPal
+PAY_000178,credit card,Amex
+PAY_000179,Mobile Payment,Maestro
+PAY_000180,Mobile Payment,Amex
+PAY_000181,Mobile Payment,Visa
+PAY_000182,Mobile Payment,Maestro
+PAY_000183,credit card,PayPal
+PAY_000184,Cash,Visa
+PAY_000185,Cash,Visa
+PAY_000186,credit card,Visa
+PAY_000187,credit card,Amex
+PAY_000188,Cash,MasterCard
+PAY_000189,credit card,Visa
+PAY_000190,credit card,Amex
+PAY_000191,Cash,MasterCard
+PAY_000192,Cash,MasterCard
+PAY_000193,Cash,MasterCard
+PAY_000194,credit card,Visa
+PAY_000195,Cash,Visa
+PAY_000196,debit card,MasterCard
+PAY_000197,debit card,Visa
+PAY_000198,Cash,Amex
+PAY_000199,Mobile Payment,Amex
+PAY_000200,debit card,Amex
+PAY_000201,debit card,Visa
+PAY_000202,Mobile Payment,Visa
+PAY_000203,debit card,Visa
+PAY_000204,credit card,Visa
+PAY_000205,Cash,PayPal
+PAY_000206,Cash,PayPal
+PAY_000207,Mobile Payment,Visa
+PAY_000208,credit card,PayPal
+PAY_000209,Mobile Payment,Maestro
+PAY_000210,Mobile Payment,Visa
+PAY_000211,Cash,Maestro
+PAY_000212,Mobile Payment,Visa
+PAY_000213,debit card,PayPal
+PAY_000214,credit card,Amex
+PAY_000215,Cash,Visa
+PAY_000216,Mobile Payment,Visa
+PAY_000217,Cash,Maestro
+PAY_000218,credit card,MasterCard
+PAY_000219,credit card,Visa
+PAY_000220,Cash,Visa
+PAY_000221,credit card,PayPal
+PAY_000222,debit card,Amex
+PAY_000223,debit card,MasterCard
+PAY_000224,Cash,Maestro
+PAY_000225,credit card,Amex
+PAY_000226,debit card,MasterCard
+PAY_000227,debit card,Amex
+PAY_000228,Mobile Payment,PayPal
+PAY_000229,Cash,Maestro
+PAY_000230,debit card,Visa
+PAY_000231,debit card,Visa
+PAY_000232,Mobile Payment,PayPal
+PAY_000233,Mobile Payment,Maestro
+PAY_000234,debit card,Maestro
+PAY_000235,Cash,Amex
+PAY_000236,Cash,Visa
+PAY_000237,debit card,Visa
+PAY_000238,credit card,MasterCard
+PAY_000239,Cash,Maestro
+PAY_000240,Mobile Payment,PayPal
+PAY_000241,Mobile Payment,Amex
+PAY_000242,Cash,Visa
+PAY_000243,Mobile Payment,Visa
+PAY_000244,Cash,Amex
+PAY_000245,Mobile Payment,PayPal
+PAY_000246,Mobile Payment,Visa
+PAY_000247,Mobile Payment,Maestro
+PAY_000248,debit card,MasterCard
+PAY_000249,Mobile Payment,Amex
+PAY_000250,Cash,Maestro
+PAY_000251,credit card,Visa
+PAY_000252,credit card,Maestro
+PAY_000253,credit card,Visa
+PAY_000254,credit card,MasterCard
+PAY_000255,debit card,MasterCard
+PAY_000256,Mobile Payment,Amex
+PAY_000257,Mobile Payment,Amex
+PAY_000258,Cash,Maestro
+PAY_000259,debit card,PayPal
+PAY_000260,Cash,Amex
+PAY_000261,debit card,Maestro
+PAY_000262,debit card,Visa
+PAY_000263,debit card,Visa
+PAY_000264,Mobile Payment,PayPal
+PAY_000265,debit card,PayPal
+PAY_000266,Cash,Amex
+PAY_000267,credit card,Visa
+PAY_000268,Cash,Visa
+PAY_000269,debit card,MasterCard
+PAY_000270,Mobile Payment,Amex
+PAY_000271,credit card,Maestro
+PAY_000272,Mobile Payment,PayPal
+PAY_000273,debit card,Maestro
+PAY_000274,debit card,Amex
+PAY_000275,Cash,Maestro
+PAY_000276,credit card,Maestro
+PAY_000277,credit card,Maestro
+PAY_000278,credit card,Amex
+PAY_000279,Cash,Amex
+PAY_000280,credit card,Amex
+PAY_000281,Cash,Visa
+PAY_000282,credit card,MasterCard
+PAY_000283,credit card,MasterCard
+PAY_000284,debit card,Maestro
+PAY_000285,debit card,Maestro
+PAY_000286,credit card,Amex
+PAY_000287,credit card,MasterCard
+PAY_000288,credit card,PayPal
+PAY_000289,Cash,MasterCard
+PAY_000290,Cash,PayPal
+PAY_000291,credit card,Maestro
+PAY_000292,Cash,Amex
+PAY_000293,Cash,PayPal
+PAY_000294,Mobile Payment,MasterCard
+PAY_000295,credit card,Maestro
+PAY_000296,Cash,Amex
+PAY_000297,debit card,Maestro
+PAY_000298,Cash,PayPal
+PAY_000299,Mobile Payment,Visa
+PAY_000300,Cash,Visa
+PAY_000301,Mobile Payment,Amex
+PAY_000302,Mobile Payment,Visa
+PAY_000303,debit card,Maestro
+PAY_000304,credit card,MasterCard
+PAY_000305,Mobile Payment,MasterCard
+PAY_000306,Mobile Payment,Amex
+PAY_000307,debit card,Maestro
+PAY_000308,Mobile Payment,Visa
+PAY_000309,credit card,Maestro
+PAY_000310,credit card,PayPal
+PAY_000311,Mobile Payment,Visa
+PAY_000312,debit card,Amex
+PAY_000313,credit card,Maestro
+PAY_000314,Cash,MasterCard
+PAY_000315,credit card,Visa
+PAY_000316,debit card,Amex
+PAY_000317,debit card,PayPal
+PAY_000318,Mobile Payment,Maestro
+PAY_000319,Cash,Visa
+PAY_000320,debit card,Amex
+PAY_000321,credit card,Visa
+PAY_000322,Cash,MasterCard
+PAY_000323,Mobile Payment,MasterCard
+PAY_000324,Mobile Payment,Visa
+PAY_000325,debit card,MasterCard
+PAY_000326,Cash,Amex
+PAY_000327,Mobile Payment,Maestro
+PAY_000328,Cash,Maestro
+PAY_000329,Cash,Maestro
+PAY_000330,Mobile Payment,PayPal
+PAY_000331,Mobile Payment,Maestro
+PAY_000332,Mobile Payment,Maestro
+PAY_000333,debit card,PayPal
+PAY_000334,credit card,Amex
+PAY_000335,debit card,Visa
+PAY_000336,Cash,PayPal
+PAY_000337,credit card,PayPal
+PAY_000338,debit card,Maestro
+PAY_000339,Cash,Visa
+PAY_000340,Cash,Amex
+PAY_000341,debit card,MasterCard
+PAY_000342,debit card,MasterCard
+PAY_000343,Cash,Maestro
+PAY_000344,debit card,Amex
+PAY_000345,Cash,Maestro
+PAY_000346,credit card,Amex
+PAY_000347,Cash,Maestro
+PAY_000348,debit card,MasterCard
+PAY_000349,Mobile Payment,Amex
+PAY_000350,Cash,PayPal
+PAY_000351,Cash,PayPal
+PAY_000352,credit card,Visa
+PAY_000353,Mobile Payment,Visa
+PAY_000354,Cash,Visa
+PAY_000355,Cash,Maestro
+PAY_000356,Cash,Amex
+PAY_000357,credit card,MasterCard
+PAY_000358,debit card,Maestro
+PAY_000359,Cash,PayPal
+PAY_000360,debit card,Visa
+PAY_000361,Mobile Payment,Amex
+PAY_000362,debit card,MasterCard
+PAY_000363,Mobile Payment,PayPal
+PAY_000364,Cash,MasterCard
+PAY_000365,credit card,MasterCard
+PAY_000366,debit card,Visa
+PAY_000367,Cash,MasterCard
+PAY_000368,credit card,Maestro
+PAY_000369,debit card,Maestro
+PAY_000370,Cash,MasterCard
+PAY_000371,debit card,Amex
+PAY_000372,credit card,MasterCard
+PAY_000373,Cash,Amex
+PAY_000374,debit card,Visa
+PAY_000375,Cash,MasterCard
+PAY_000376,Mobile Payment,Amex
+PAY_000377,Mobile Payment,Amex
+PAY_000378,Mobile Payment,MasterCard
+PAY_000379,Cash,PayPal
+PAY_000380,credit card,PayPal
+PAY_000381,Mobile Payment,MasterCard
+PAY_000382,credit card,Maestro
+PAY_000383,Cash,PayPal
+PAY_000384,debit card,Maestro
+PAY_000385,debit card,Maestro
+PAY_000386,credit card,Visa
+PAY_000387,Mobile Payment,Amex
+PAY_000388,credit card,Maestro
+PAY_000389,credit card,MasterCard
+PAY_000390,Mobile Payment,PayPal
+PAY_000391,debit card,Visa
+PAY_000392,Mobile Payment,MasterCard
+PAY_000393,Cash,Visa
+PAY_000394,Mobile Payment,Amex
+PAY_000395,Cash,Amex
+PAY_000396,Mobile Payment,MasterCard
+PAY_000397,Mobile Payment,Maestro
+PAY_000398,debit card,Amex
+PAY_000399,Cash,Amex
+PAY_000400,Mobile Payment,Amex
+PAY_000401,Cash,Amex
+PAY_000402,debit card,MasterCard
+PAY_000403,Cash,Maestro
+PAY_000404,credit card,MasterCard
+PAY_000405,Mobile Payment,Amex
+PAY_000406,debit card,MasterCard
+PAY_000407,Mobile Payment,Amex
+PAY_000408,credit card,Maestro
+PAY_000409,credit card,PayPal
+PAY_000410,Cash,Amex
+PAY_000411,Mobile Payment,Amex
+PAY_000412,debit card,Maestro
+PAY_000413,Mobile Payment,Amex
+PAY_000414,Mobile Payment,Maestro
+PAY_000415,credit card,Visa
+PAY_000416,credit card,Amex
+PAY_000417,Mobile Payment,MasterCard
+PAY_000418,debit card,Amex
+PAY_000419,credit card,Visa
+PAY_000420,Mobile Payment,MasterCard
+PAY_000421,Mobile Payment,Amex
+PAY_000422,Mobile Payment,Visa
+PAY_000423,credit card,Amex
+PAY_000424,Mobile Payment,Maestro
+PAY_000425,Cash,Amex
+PAY_000426,Mobile Payment,MasterCard
+PAY_000427,Cash,MasterCard
+PAY_000428,credit card,PayPal
+PAY_000429,Cash,Amex
+PAY_000430,Cash,Visa
+PAY_000431,Mobile Payment,PayPal
+PAY_000432,Cash,Visa
+PAY_000433,Cash,PayPal
+PAY_000434,Mobile Payment,MasterCard
+PAY_000435,Cash,Amex
+PAY_000436,credit card,Visa
+PAY_000437,credit card,MasterCard
+PAY_000438,credit card,MasterCard
+PAY_000439,Mobile Payment,Maestro
+PAY_000440,debit card,MasterCard
+PAY_000441,credit card,PayPal
+PAY_000442,Mobile Payment,MasterCard
+PAY_000443,Cash,Maestro
+PAY_000444,debit card,Amex
+PAY_000445,debit card,MasterCard
+PAY_000446,debit card,PayPal
+PAY_000447,Cash,Visa
+PAY_000448,debit card,Maestro
+PAY_000449,Mobile Payment,MasterCard
+PAY_000450,Cash,MasterCard
+PAY_000451,credit card,PayPal
+PAY_000452,credit card,Visa
+PAY_000453,Cash,Amex
+PAY_000454,credit card,Amex
+PAY_000455,Mobile Payment,Amex
+PAY_000456,Mobile Payment,Visa
+PAY_000457,Mobile Payment,Maestro
+PAY_000458,Cash,PayPal
+PAY_000459,Cash,Maestro
+PAY_000460,debit card,Maestro
+PAY_000461,credit card,Visa
+PAY_000462,Mobile Payment,Maestro
+PAY_000463,Cash,Visa
+PAY_000464,Cash,Amex
+PAY_000465,credit card,PayPal
+PAY_000466,Cash,PayPal
+PAY_000467,Mobile Payment,Amex
+PAY_000468,credit card,Amex
+PAY_000469,Mobile Payment,Amex
+PAY_000470,debit card,Amex
+PAY_000471,credit card,Amex
+PAY_000472,credit card,Maestro
+PAY_000473,debit card,MasterCard
+PAY_000474,Mobile Payment,Visa
+PAY_000475,debit card,PayPal
+PAY_000476,Mobile Payment,PayPal
+PAY_000477,Mobile Payment,Maestro
+PAY_000478,Mobile Payment,Maestro
+PAY_000479,debit card,Visa
+PAY_000480,debit card,Amex
+PAY_000481,Mobile Payment,Visa
+PAY_000482,credit card,MasterCard
+PAY_000483,Cash,PayPal
+PAY_000484,Mobile Payment,Visa
+PAY_000485,credit card,Maestro
+PAY_000486,Mobile Payment,Amex
+PAY_000487,debit card,Visa
+PAY_000488,Mobile Payment,Amex
+PAY_000489,credit card,PayPal
+PAY_000490,Cash,MasterCard
+PAY_000491,debit card,PayPal
+PAY_000492,credit card,MasterCard
+PAY_000493,debit card,PayPal
+PAY_000494,credit card,Visa
+PAY_000495,credit card,Amex
+PAY_000496,credit card,Amex
+PAY_000497,Cash,Amex
+PAY_000498,credit card,Maestro
+PAY_000499,credit card,PayPal
+PAY_000500,debit card,Amex
+PAY_000501,Mobile Payment,Amex
+PAY_000502,Cash,PayPal
+PAY_000503,Mobile Payment,PayPal
+PAY_000504,Mobile Payment,MasterCard
+PAY_000505,Mobile Payment,MasterCard
+PAY_000506,credit card,PayPal
+PAY_000507,Mobile Payment,PayPal
+PAY_000508,credit card,PayPal
+PAY_000509,credit card,Maestro
+PAY_000510,Mobile Payment,Maestro
+PAY_000511,credit card,Visa
+PAY_000512,debit card,Visa
+PAY_000513,credit card,PayPal
+PAY_000514,Cash,Visa
+PAY_000515,debit card,PayPal
+PAY_000516,credit card,PayPal
+PAY_000517,Cash,Maestro
+PAY_000518,Cash,Maestro
+PAY_000519,Mobile Payment,PayPal
+PAY_000520,Cash,MasterCard
+PAY_000521,Mobile Payment,Visa
+PAY_000522,credit card,Visa
+PAY_000523,Mobile Payment,Maestro
+PAY_000524,Cash,MasterCard
+PAY_000525,credit card,PayPal
+PAY_000526,Cash,PayPal
+PAY_000527,Mobile Payment,MasterCard
+PAY_000528,credit card,MasterCard
+PAY_000529,Mobile Payment,MasterCard
+PAY_000530,debit card,Visa
+PAY_000531,debit card,PayPal
+PAY_000532,debit card,MasterCard
+PAY_000533,Mobile Payment,Maestro
+PAY_000534,Mobile Payment,PayPal
+PAY_000535,Mobile Payment,Visa
+PAY_000536,Cash,Amex
+PAY_000537,Mobile Payment,MasterCard
+PAY_000538,credit card,MasterCard
+PAY_000539,Cash,Maestro
+PAY_000540,debit card,Maestro
+PAY_000541,credit card,MasterCard
+PAY_000542,debit card,Visa
+PAY_000543,Mobile Payment,Amex
+PAY_000544,debit card,MasterCard
+PAY_000545,Mobile Payment,Maestro
+PAY_000546,debit card,MasterCard
+PAY_000547,Mobile Payment,Maestro
+PAY_000548,Cash,Amex
+PAY_000549,credit card,Maestro
+PAY_000550,credit card,PayPal
+PAY_000551,credit card,Amex
+PAY_000552,Mobile Payment,Amex
+PAY_000553,credit card,Visa
+PAY_000554,debit card,Visa
+PAY_000555,debit card,Maestro
+PAY_000556,Mobile Payment,Maestro
+PAY_000557,Mobile Payment,PayPal
+PAY_000558,Mobile Payment,PayPal
+PAY_000559,Mobile Payment,Visa
+PAY_000560,Cash,MasterCard
+PAY_000561,debit card,Maestro
+PAY_000562,credit card,PayPal
+PAY_000563,debit card,Visa
+PAY_000564,Mobile Payment,Maestro
+PAY_000565,debit card,MasterCard
+PAY_000566,Mobile Payment,PayPal
+PAY_000567,Mobile Payment,Visa
+PAY_000568,Cash,Amex
+PAY_000569,Cash,PayPal
+PAY_000570,Mobile Payment,PayPal
+PAY_000571,credit card,Amex
+PAY_000572,Mobile Payment,MasterCard
+PAY_000573,Cash,Maestro
+PAY_000574,debit card,MasterCard
+PAY_000575,Mobile Payment,Maestro
+PAY_000576,Cash,Maestro
+PAY_000577,credit card,PayPal
+PAY_000578,Cash,Visa
+PAY_000579,Mobile Payment,Maestro
+PAY_000580,Mobile Payment,Amex
+PAY_000581,Cash,Amex
+PAY_000582,Mobile Payment,Maestro
+PAY_000583,Cash,Maestro
+PAY_000584,credit card,Maestro
+PAY_000585,Mobile Payment,Maestro
+PAY_000586,credit card,Amex
+PAY_000587,debit card,PayPal
+PAY_000588,Mobile Payment,Maestro
+PAY_000589,Mobile Payment,PayPal
+PAY_000590,credit card,Maestro
+PAY_000591,Mobile Payment,PayPal
+PAY_000592,Mobile Payment,Amex
+PAY_000593,Mobile Payment,Amex
+PAY_000594,debit card,Visa
+PAY_000595,Cash,MasterCard
+PAY_000596,debit card,Amex
+PAY_000597,Cash,PayPal
+PAY_000598,debit card,Maestro
+PAY_000599,credit card,PayPal
+PAY_000600,Mobile Payment,Amex
+PAY_000601,credit card,Maestro
+PAY_000602,debit card,Maestro
+PAY_000603,debit card,MasterCard
+PAY_000604,Cash,PayPal
+PAY_000605,Mobile Payment,Maestro
+PAY_000606,Mobile Payment,PayPal
+PAY_000607,Cash,Visa
+PAY_000608,debit card,Maestro
+PAY_000609,credit card,MasterCard
+PAY_000610,credit card,Maestro
+PAY_000611,Mobile Payment,MasterCard
+PAY_000612,credit card,PayPal
+PAY_000613,credit card,PayPal
+PAY_000614,Mobile Payment,Visa
+PAY_000615,credit card,Maestro
+PAY_000616,debit card,Amex
+PAY_000617,Cash,MasterCard
+PAY_000618,Cash,PayPal
+PAY_000619,Mobile Payment,Amex
+PAY_000620,debit card,Maestro
+PAY_000621,credit card,Maestro
+PAY_000622,debit card,MasterCard
+PAY_000623,credit card,Maestro
+PAY_000624,Cash,MasterCard
+PAY_000625,Mobile Payment,Amex
+PAY_000626,Mobile Payment,PayPal
+PAY_000627,credit card,Amex
+PAY_000628,Cash,MasterCard
+PAY_000629,Mobile Payment,Amex
+PAY_000630,debit card,PayPal
+PAY_000631,Mobile Payment,Amex
+PAY_000632,Mobile Payment,PayPal
+PAY_000633,Mobile Payment,MasterCard
+PAY_000634,debit card,MasterCard
+PAY_000635,Cash,MasterCard
+PAY_000636,credit card,PayPal
+PAY_000637,debit card,Amex
+PAY_000638,Cash,Amex
+PAY_000639,Mobile Payment,Amex
+PAY_000640,debit card,MasterCard
+PAY_000641,Mobile Payment,Maestro
+PAY_000642,Mobile Payment,Visa
+PAY_000643,credit card,Amex
+PAY_000644,Mobile Payment,MasterCard
+PAY_000645,credit card,MasterCard
+PAY_000646,Cash,Amex
+PAY_000647,credit card,Maestro
+PAY_000648,Cash,Amex
+PAY_000649,debit card,MasterCard
+PAY_000650,debit card,Maestro
+PAY_000651,credit card,MasterCard
+PAY_000652,credit card,PayPal
+PAY_000653,Cash,PayPal
+PAY_000654,debit card,Visa
+PAY_000655,Cash,Maestro
+PAY_000656,Cash,Amex
+PAY_000657,Mobile Payment,Maestro
+PAY_000658,Mobile Payment,MasterCard
+PAY_000659,Mobile Payment,Maestro
+PAY_000660,Cash,Amex
+PAY_000661,Mobile Payment,Maestro
+PAY_000662,debit card,Visa
+PAY_000663,debit card,Visa
+PAY_000664,Mobile Payment,Visa
+PAY_000665,credit card,Maestro
+PAY_000666,debit card,Maestro
+PAY_000667,Cash,MasterCard
+PAY_000668,Cash,MasterCard
+PAY_000669,debit card,Visa
+PAY_000670,debit card,MasterCard
+PAY_000671,Mobile Payment,Visa
+PAY_000672,debit card,PayPal
+PAY_000673,Mobile Payment,Visa
+PAY_000674,debit card,Visa
+PAY_000675,Cash,Maestro
+PAY_000676,credit card,MasterCard
+PAY_000677,debit card,Amex
+PAY_000678,Mobile Payment,Maestro
+PAY_000679,credit card,PayPal
+PAY_000680,credit card,Visa
+PAY_000681,debit card,Amex
+PAY_000682,Cash,PayPal
+PAY_000683,credit card,Maestro
+PAY_000684,credit card,Amex
+PAY_000685,Cash,Visa
+PAY_000686,credit card,Amex
+PAY_000687,credit card,PayPal
+PAY_000688,credit card,PayPal
+PAY_000689,credit card,PayPal
+PAY_000690,debit card,Amex
+PAY_000691,Cash,MasterCard
+PAY_000692,Mobile Payment,Maestro
+PAY_000693,Mobile Payment,Visa
+PAY_000694,debit card,Visa
+PAY_000695,debit card,Visa
+PAY_000696,Cash,Amex
+PAY_000697,Mobile Payment,PayPal
+PAY_000698,credit card,Maestro
+PAY_000699,debit card,Amex
+PAY_000700,Cash,PayPal
+PAY_000701,Cash,PayPal
+PAY_000702,debit card,MasterCard
+PAY_000703,debit card,PayPal
+PAY_000704,debit card,Maestro
+PAY_000705,debit card,Visa
+PAY_000706,debit card,MasterCard
+PAY_000707,Cash,MasterCard
+PAY_000708,Cash,Visa
+PAY_000709,Cash,PayPal
+PAY_000710,debit card,Maestro
+PAY_000711,debit card,PayPal
+PAY_000712,Cash,Visa
+PAY_000713,credit card,Maestro
+PAY_000714,debit card,Amex
+PAY_000715,credit card,Amex
+PAY_000716,debit card,MasterCard
+PAY_000717,Cash,PayPal
+PAY_000718,debit card,Amex
+PAY_000719,credit card,Maestro
+PAY_000720,Cash,Maestro
+PAY_000721,Cash,Visa
+PAY_000722,credit card,MasterCard
+PAY_000723,Mobile Payment,Visa
+PAY_000724,Cash,Maestro
+PAY_000725,Mobile Payment,Visa
+PAY_000726,Cash,Amex
+PAY_000727,credit card,PayPal
+PAY_000728,Mobile Payment,MasterCard
+PAY_000729,credit card,MasterCard
+PAY_000730,debit card,MasterCard
+PAY_000731,debit card,Maestro
+PAY_000732,Cash,Visa
+PAY_000733,credit card,PayPal
+PAY_000734,credit card,Maestro
+PAY_000735,credit card,Amex
+PAY_000736,Mobile Payment,Visa
+PAY_000737,credit card,PayPal
+PAY_000738,debit card,PayPal
+PAY_000739,credit card,Maestro
+PAY_000740,Mobile Payment,Maestro
+PAY_000741,Cash,MasterCard
+PAY_000742,credit card,Amex
+PAY_000743,debit card,MasterCard
+PAY_000744,Cash,PayPal
+PAY_000745,Cash,MasterCard
+PAY_000746,Mobile Payment,Maestro
+PAY_000747,credit card,Maestro
+PAY_000748,debit card,MasterCard
+PAY_000749,debit card,MasterCard
+PAY_000750,debit card,Maestro
+PAY_000751,debit card,PayPal
+PAY_000752,credit card,Visa
+PAY_000753,credit card,Visa
+PAY_000754,credit card,MasterCard
+PAY_000755,Cash,Visa
+PAY_000756,Cash,Visa
+PAY_000757,credit card,PayPal
+PAY_000758,Cash,Visa
+PAY_000759,debit card,MasterCard
+PAY_000760,Mobile Payment,PayPal
+PAY_000761,Mobile Payment,MasterCard
+PAY_000762,credit card,Maestro
+PAY_000763,credit card,Visa
+PAY_000764,credit card,Maestro
+PAY_000765,Mobile Payment,Visa
+PAY_000766,Mobile Payment,MasterCard
+PAY_000767,credit card,Amex
+PAY_000768,Cash,PayPal
+PAY_000769,Cash,Amex
+PAY_000770,Mobile Payment,Maestro
+PAY_000771,Cash,Amex
+PAY_000772,Cash,Visa
+PAY_000773,Cash,Amex
+PAY_000774,debit card,MasterCard
+PAY_000775,Cash,Amex
+PAY_000776,credit card,Amex
+PAY_000777,credit card,MasterCard
+PAY_000778,Cash,Maestro
+PAY_000779,Cash,Amex
+PAY_000780,credit card,PayPal
+PAY_000781,credit card,PayPal
+PAY_000782,debit card,MasterCard
+PAY_000783,debit card,Amex
+PAY_000784,Cash,Amex
+PAY_000785,Cash,MasterCard
+PAY_000786,debit card,MasterCard
+PAY_000787,debit card,Amex
+PAY_000788,Cash,PayPal
+PAY_000789,Cash,Maestro
+PAY_000790,credit card,PayPal
+PAY_000791,Cash,MasterCard
+PAY_000792,Cash,MasterCard
+PAY_000793,credit card,PayPal
+PAY_000794,credit card,MasterCard
+PAY_000795,Mobile Payment,Amex
+PAY_000796,Cash,Amex
+PAY_000797,debit card,PayPal
+PAY_000798,debit card,MasterCard
+PAY_000799,credit card,Visa
+PAY_000800,Mobile Payment,Visa
+PAY_000801,credit card,Visa
+PAY_000802,debit card,Visa
+PAY_000803,Mobile Payment,PayPal
+PAY_000804,Mobile Payment,PayPal
+PAY_000805,Mobile Payment,Visa
+PAY_000806,credit card,MasterCard
+PAY_000807,debit card,Maestro
+PAY_000808,Cash,Visa
+PAY_000809,credit card,PayPal
+PAY_000810,debit card,Maestro
+PAY_000811,Mobile Payment,Visa
+PAY_000812,Mobile Payment,MasterCard
+PAY_000813,Cash,MasterCard
+PAY_000814,Cash,Maestro
+PAY_000815,debit card,Visa
+PAY_000816,Mobile Payment,MasterCard
+PAY_000817,debit card,PayPal
+PAY_000818,Mobile Payment,MasterCard
+PAY_000819,credit card,MasterCard
+PAY_000820,debit card,PayPal
+PAY_000821,Mobile Payment,PayPal
+PAY_000822,debit card,Amex
+PAY_000823,Cash,PayPal
+PAY_000824,Mobile Payment,Visa
+PAY_000825,Mobile Payment,Maestro
+PAY_000826,debit card,MasterCard
+PAY_000827,debit card,Maestro
+PAY_000828,credit card,Amex
+PAY_000829,Mobile Payment,Amex
+PAY_000830,credit card,PayPal
+PAY_000831,Mobile Payment,Visa
+PAY_000832,credit card,Visa
+PAY_000833,credit card,MasterCard
+PAY_000834,credit card,Visa
+PAY_000835,Mobile Payment,MasterCard
+PAY_000836,Cash,Maestro
+PAY_000837,debit card,PayPal
+PAY_000838,Cash,Maestro
+PAY_000839,debit card,Amex
+PAY_000840,Mobile Payment,Visa
+PAY_000841,credit card,Amex
+PAY_000842,debit card,Visa
+PAY_000843,Cash,Amex
+PAY_000844,Cash,PayPal
+PAY_000845,Mobile Payment,Visa
+PAY_000846,Mobile Payment,MasterCard
+PAY_000847,Mobile Payment,Visa
+PAY_000848,credit card,Visa
+PAY_000849,Cash,Maestro
+PAY_000850,Cash,Maestro
+PAY_000851,debit card,MasterCard
+PAY_000852,Mobile Payment,Maestro
+PAY_000853,debit card,MasterCard
+PAY_000854,Mobile Payment,PayPal
+PAY_000855,Cash,Visa
+PAY_000856,debit card,Maestro
+PAY_000857,Mobile Payment,MasterCard
+PAY_000858,debit card,MasterCard
+PAY_000859,debit card,MasterCard
+PAY_000860,debit card,Maestro
+PAY_000861,Cash,Maestro
+PAY_000862,Mobile Payment,Visa
+PAY_000863,credit card,Maestro
+PAY_000864,Mobile Payment,MasterCard
+PAY_000865,Cash,Maestro
+PAY_000866,debit card,Maestro
+PAY_000867,debit card,MasterCard
+PAY_000868,credit card,MasterCard
+PAY_000869,Cash,PayPal
+PAY_000870,debit card,PayPal
+PAY_000871,debit card,MasterCard
+PAY_000872,Cash,Maestro
+PAY_000873,Cash,PayPal
+PAY_000874,Mobile Payment,Maestro
+PAY_000875,Mobile Payment,Amex
+PAY_000876,Cash,Amex
+PAY_000877,Cash,Maestro
+PAY_000878,Mobile Payment,Visa
+PAY_000879,Cash,Maestro
+PAY_000880,credit card,MasterCard
+PAY_000881,debit card,Amex
+PAY_000882,credit card,Visa
+PAY_000883,Cash,Maestro
+PAY_000884,Mobile Payment,Visa
+PAY_000885,credit card,Maestro
+PAY_000886,Mobile Payment,Maestro
+PAY_000887,credit card,Amex
+PAY_000888,debit card,PayPal
+PAY_000889,credit card,Maestro
+PAY_000890,credit card,Maestro
+PAY_000891,Mobile Payment,Maestro
+PAY_000892,Cash,PayPal
+PAY_000893,debit card,Amex
+PAY_000894,debit card,PayPal
+PAY_000895,debit card,PayPal
+PAY_000896,Mobile Payment,Visa
+PAY_000897,credit card,Maestro
+PAY_000898,Mobile Payment,MasterCard
+PAY_000899,debit card,PayPal
+PAY_000900,Cash,Visa
+PAY_000901,Cash,MasterCard
+PAY_000902,credit card,PayPal
+PAY_000903,credit card,Amex
+PAY_000904,Mobile Payment,PayPal
+PAY_000905,debit card,Visa
+PAY_000906,Cash,Visa
+PAY_000907,credit card,Visa
+PAY_000908,credit card,MasterCard
+PAY_000909,Cash,MasterCard
+PAY_000910,Cash,MasterCard
+PAY_000911,Cash,Maestro
+PAY_000912,Cash,PayPal
+PAY_000913,Cash,PayPal
+PAY_000914,credit card,PayPal
+PAY_000915,credit card,MasterCard
+PAY_000916,credit card,Visa
+PAY_000917,Mobile Payment,Maestro
+PAY_000918,debit card,Amex
+PAY_000919,debit card,Visa
+PAY_000920,Mobile Payment,PayPal
+PAY_000921,Cash,PayPal
+PAY_000922,credit card,Visa
+PAY_000923,debit card,Amex
+PAY_000924,credit card,PayPal
+PAY_000925,debit card,Maestro
+PAY_000926,Mobile Payment,MasterCard
+PAY_000927,Cash,Amex
+PAY_000928,Mobile Payment,Maestro
+PAY_000929,Mobile Payment,MasterCard
+PAY_000930,Cash,MasterCard
+PAY_000931,debit card,Visa
+PAY_000932,credit card,Visa
+PAY_000933,debit card,Visa
+PAY_000934,Mobile Payment,Maestro
+PAY_000935,debit card,Visa
+PAY_000936,Cash,Maestro
+PAY_000937,Mobile Payment,Visa
+PAY_000938,debit card,MasterCard
+PAY_000939,Cash,Maestro
+PAY_000940,Cash,Visa
+PAY_000941,credit card,Visa
+PAY_000942,Mobile Payment,Maestro
+PAY_000943,Mobile Payment,MasterCard
+PAY_000944,debit card,MasterCard
+PAY_000945,Mobile Payment,Amex
+PAY_000946,credit card,Amex
+PAY_000947,debit card,MasterCard
+PAY_000948,debit card,PayPal
+PAY_000949,debit card,Maestro
+PAY_000950,debit card,Amex
+PAY_000951,credit card,Maestro
+PAY_000952,debit card,PayPal
+PAY_000953,Mobile Payment,Maestro
+PAY_000954,credit card,Amex
+PAY_000955,debit card,MasterCard
+PAY_000956,Mobile Payment,MasterCard
+PAY_000957,Cash,MasterCard
+PAY_000958,debit card,Amex
+PAY_000959,Mobile Payment,PayPal
+PAY_000960,Mobile Payment,PayPal
+PAY_000961,debit card,PayPal
+PAY_000962,debit card,PayPal
+PAY_000963,debit card,PayPal
+PAY_000964,debit card,Visa
+PAY_000965,Cash,Amex
+PAY_000966,Mobile Payment,Maestro
+PAY_000967,credit card,PayPal
+PAY_000968,Mobile Payment,Maestro
+PAY_000969,debit card,Visa
+PAY_000970,debit card,Maestro
+PAY_000971,Cash,Visa
+PAY_000972,Mobile Payment,MasterCard
+PAY_000973,debit card,Maestro
+PAY_000974,credit card,Visa
+PAY_000975,Mobile Payment,MasterCard
+PAY_000976,debit card,PayPal
+PAY_000977,debit card,PayPal
+PAY_000978,credit card,PayPal
+PAY_000979,debit card,Amex
+PAY_000980,Mobile Payment,Amex
+PAY_000981,credit card,MasterCard
+PAY_000982,Cash,Amex
+PAY_000983,credit card,Maestro
+PAY_000984,Cash,PayPal
+PAY_000985,Mobile Payment,Amex
+PAY_000986,Cash,Amex
+PAY_000987,credit card,MasterCard
+PAY_000988,Cash,Maestro
+PAY_000989,credit card,Amex
+PAY_000990,debit card,Maestro
+PAY_000991,Mobile Payment,Amex
+PAY_000992,debit card,Amex
+PAY_000993,Mobile Payment,MasterCard
+PAY_000994,credit card,Maestro
+PAY_000995,Cash,Maestro
+PAY_000996,Cash,MasterCard
+PAY_000997,debit card,Maestro
+PAY_000998,credit card,Amex
+PAY_000999,Cash,Visa
+PAY_001000,Mobile Payment,Maestro
+PAY_001001,debit card,Maestro
+PAY_001002,Mobile Payment,MasterCard
+PAY_001003,credit card,MasterCard
+PAY_001004,credit card,Visa
+PAY_001005,debit card,PayPal
+PAY_001006,Cash,Amex
+PAY_001007,credit card,Amex
+PAY_001008,Cash,PayPal
+PAY_001009,debit card,MasterCard
+PAY_001010,debit card,Amex
+PAY_001011,Mobile Payment,Amex
+PAY_001012,debit card,Maestro
+PAY_001013,credit card,Amex
+PAY_001014,credit card,PayPal
+PAY_001015,Mobile Payment,Visa
+PAY_001016,credit card,Maestro
+PAY_001017,Cash,MasterCard
+PAY_001018,Mobile Payment,Amex
+PAY_001019,debit card,Maestro
+PAY_001020,credit card,Visa
+PAY_001021,Mobile Payment,Visa
+PAY_001022,Cash,Visa
+PAY_001023,Mobile Payment,PayPal
+PAY_001024,credit card,Maestro
+PAY_001025,debit card,MasterCard
+PAY_001026,debit card,Visa
+PAY_001027,Mobile Payment,Visa
+PAY_001028,Mobile Payment,Visa
+PAY_001029,debit card,PayPal
+PAY_001030,debit card,Visa
+PAY_001031,credit card,Maestro
+PAY_001032,credit card,Maestro
+PAY_001033,Mobile Payment,PayPal
+PAY_001034,debit card,PayPal
+PAY_001035,debit card,Amex
+PAY_001036,debit card,Visa
+PAY_001037,debit card,Maestro
+PAY_001038,debit card,Maestro
+PAY_001039,Mobile Payment,PayPal
+PAY_001040,Mobile Payment,MasterCard
+PAY_001041,credit card,PayPal
+PAY_001042,credit card,Maestro
+PAY_001043,debit card,Amex
+PAY_001044,debit card,Visa
+PAY_001045,Mobile Payment,Amex
+PAY_001046,Cash,MasterCard
+PAY_001047,credit card,PayPal
+PAY_001048,credit card,MasterCard
+PAY_001049,Cash,MasterCard
+PAY_001050,debit card,Amex
+PAY_001051,debit card,Maestro
+PAY_001052,Cash,Visa
+PAY_001053,Mobile Payment,Maestro
+PAY_001054,credit card,Visa
+PAY_001055,debit card,MasterCard
+PAY_001056,Mobile Payment,Maestro
+PAY_001057,credit card,Amex
+PAY_001058,Cash,PayPal
+PAY_001059,Cash,MasterCard
+PAY_001060,Cash,Maestro
+PAY_001061,Mobile Payment,PayPal
+PAY_001062,Cash,PayPal
+PAY_001063,credit card,Amex
+PAY_001064,credit card,Amex
+PAY_001065,debit card,Visa
+PAY_001066,debit card,Amex
+PAY_001067,credit card,Visa
+PAY_001068,Mobile Payment,MasterCard
+PAY_001069,credit card,Amex
+PAY_001070,credit card,PayPal
+PAY_001071,debit card,PayPal
+PAY_001072,debit card,MasterCard
+PAY_001073,credit card,PayPal
+PAY_001074,credit card,PayPal
+PAY_001075,credit card,PayPal
+PAY_001076,Cash,Maestro
+PAY_001077,credit card,Amex
+PAY_001078,Mobile Payment,PayPal
+PAY_001079,Cash,Visa
+PAY_001080,Cash,Maestro
+PAY_001081,credit card,PayPal
+PAY_001082,Cash,Amex
+PAY_001083,Cash,PayPal
+PAY_001084,Mobile Payment,Maestro
+PAY_001085,Mobile Payment,Amex
+PAY_001086,credit card,PayPal
+PAY_001087,debit card,Amex
+PAY_001088,credit card,MasterCard
+PAY_001089,Cash,Amex
+PAY_001090,credit card,PayPal
+PAY_001091,Mobile Payment,PayPal
+PAY_001092,credit card,PayPal
+PAY_001093,debit card,MasterCard
+PAY_001094,credit card,MasterCard
+PAY_001095,debit card,Amex
+PAY_001096,credit card,Maestro
+PAY_001097,Mobile Payment,Amex
+PAY_001098,Cash,Visa
+PAY_001099,Mobile Payment,PayPal
+PAY_001100,Mobile Payment,Amex
+PAY_001101,credit card,Amex
+PAY_001102,Cash,MasterCard
+PAY_001103,Mobile Payment,Amex
+PAY_001104,credit card,PayPal
+PAY_001105,debit card,Visa
+PAY_001106,Mobile Payment,MasterCard
+PAY_001107,credit card,PayPal
+PAY_001108,debit card,Amex
+PAY_001109,debit card,PayPal
+PAY_001110,debit card,PayPal
+PAY_001111,Cash,Visa
+PAY_001112,Mobile Payment,MasterCard
+PAY_001113,Cash,Amex
+PAY_001114,debit card,PayPal
+PAY_001115,Mobile Payment,MasterCard
+PAY_001116,Mobile Payment,Maestro
+PAY_001117,debit card,Amex
+PAY_001118,debit card,PayPal
+PAY_001119,Cash,PayPal
+PAY_001120,credit card,PayPal
+PAY_001121,Cash,Maestro
+PAY_001122,Cash,Amex
+PAY_001123,credit card,PayPal
+PAY_001124,Mobile Payment,MasterCard
+PAY_001125,Mobile Payment,Maestro
+PAY_001126,Cash,PayPal
+PAY_001127,debit card,MasterCard
+PAY_001128,debit card,MasterCard
+PAY_001129,Cash,Amex
+PAY_001130,credit card,PayPal
+PAY_001131,debit card,MasterCard
+PAY_001132,Mobile Payment,Visa
+PAY_001133,credit card,Maestro
+PAY_001134,debit card,PayPal
+PAY_001135,Cash,Amex
+PAY_001136,Mobile Payment,PayPal
+PAY_001137,Cash,MasterCard
+PAY_001138,credit card,Amex
+PAY_001139,Cash,MasterCard
+PAY_001140,credit card,Visa
+PAY_001141,Cash,PayPal
+PAY_001142,credit card,Amex
+PAY_001143,debit card,Amex
+PAY_001144,Cash,Maestro
+PAY_001145,credit card,PayPal
+PAY_001146,debit card,Maestro
+PAY_001147,debit card,Amex
+PAY_001148,Cash,Maestro
+PAY_001149,Cash,Amex
+PAY_001150,Mobile Payment,PayPal
+PAY_001151,credit card,Maestro
+PAY_001152,Mobile Payment,Amex
+PAY_001153,debit card,Maestro
+PAY_001154,credit card,MasterCard
+PAY_001155,Cash,Amex
+PAY_001156,Cash,MasterCard
+PAY_001157,Mobile Payment,Maestro
+PAY_001158,credit card,PayPal
+PAY_001159,credit card,Amex
+PAY_001160,credit card,PayPal
+PAY_001161,credit card,MasterCard
+PAY_001162,credit card,MasterCard
+PAY_001163,Cash,MasterCard
+PAY_001164,debit card,Visa
+PAY_001165,debit card,Amex
+PAY_001166,Cash,Amex
+PAY_001167,Cash,PayPal
+PAY_001168,Cash,PayPal
+PAY_001169,credit card,Visa
+PAY_001170,Mobile Payment,Amex
+PAY_001171,Cash,PayPal
+PAY_001172,Mobile Payment,Visa
+PAY_001173,Mobile Payment,Maestro
+PAY_001174,debit card,MasterCard
+PAY_001175,debit card,Maestro
+PAY_001176,Cash,MasterCard
+PAY_001177,credit card,Maestro
+PAY_001178,Cash,Maestro
+PAY_001179,Mobile Payment,MasterCard
+PAY_001180,Cash,PayPal
+PAY_001181,credit card,Amex
+PAY_001182,credit card,Visa
+PAY_001183,credit card,Amex
+PAY_001184,credit card,MasterCard
+PAY_001185,Mobile Payment,Visa
+PAY_001186,Mobile Payment,MasterCard
+PAY_001187,Cash,PayPal
+PAY_001188,debit card,PayPal
+PAY_001189,debit card,MasterCard
+PAY_001190,debit card,PayPal
+PAY_001191,Cash,Maestro
+PAY_001192,Cash,Maestro
+PAY_001193,debit card,Maestro
+PAY_001194,credit card,Amex
+PAY_001195,credit card,Maestro
+PAY_001196,Mobile Payment,PayPal
+PAY_001197,Cash,PayPal
+PAY_001198,credit card,Maestro
+PAY_001199,Mobile Payment,Visa
+PAY_001200,Cash,MasterCard
+PAY_001201,Cash,Maestro
+PAY_001202,Cash,PayPal
+PAY_001203,Mobile Payment,PayPal
+PAY_001204,debit card,MasterCard
+PAY_001205,Cash,Visa
+PAY_001206,Mobile Payment,Visa
+PAY_001207,Mobile Payment,Amex
+PAY_001208,Mobile Payment,Amex
+PAY_001209,debit card,Maestro
+PAY_001210,debit card,PayPal
+PAY_001211,credit card,Maestro
+PAY_001212,credit card,Amex
+PAY_001213,debit card,Maestro
+PAY_001214,Mobile Payment,Amex
+PAY_001215,Mobile Payment,MasterCard
+PAY_001216,credit card,Amex
+PAY_001217,Mobile Payment,Amex
+PAY_001218,Cash,Maestro
+PAY_001219,credit card,Visa
+PAY_001220,Cash,PayPal
+PAY_001221,Cash,Visa
+PAY_001222,credit card,Maestro
+PAY_001223,debit card,PayPal
+PAY_001224,Cash,Visa
+PAY_001225,Cash,Amex
+PAY_001226,Cash,MasterCard
+PAY_001227,Mobile Payment,PayPal
+PAY_001228,Mobile Payment,PayPal
+PAY_001229,debit card,PayPal
+PAY_001230,Cash,Maestro
+PAY_001231,Cash,PayPal
+PAY_001232,credit card,MasterCard
+PAY_001233,Mobile Payment,Amex
+PAY_001234,Mobile Payment,MasterCard
+PAY_001235,credit card,Visa
+PAY_001236,credit card,Visa
+PAY_001237,credit card,PayPal
+PAY_001238,credit card,Visa
+PAY_001239,Mobile Payment,MasterCard
+PAY_001240,Cash,PayPal
+PAY_001241,debit card,Maestro
+PAY_001242,debit card,Maestro
+PAY_001243,debit card,Amex
+PAY_001244,credit card,Maestro
+PAY_001245,debit card,MasterCard
+PAY_001246,credit card,Visa
+PAY_001247,debit card,Amex
+PAY_001248,Mobile Payment,PayPal
+PAY_001249,Cash,MasterCard
+PAY_001250,debit card,Maestro
+PAY_001251,credit card,Maestro
+PAY_001252,debit card,MasterCard
+PAY_001253,Cash,Visa
+PAY_001254,debit card,PayPal
+PAY_001255,debit card,Amex
+PAY_001256,credit card,Maestro
+PAY_001257,credit card,MasterCard
+PAY_001258,Cash,Visa
+PAY_001259,credit card,Amex
+PAY_001260,Mobile Payment,MasterCard
+PAY_001261,Cash,PayPal
+PAY_001262,debit card,PayPal
+PAY_001263,Cash,Visa
+PAY_001264,Cash,Amex
+PAY_001265,credit card,Amex
+PAY_001266,Cash,Maestro
+PAY_001267,Cash,Amex
+PAY_001268,debit card,Amex
+PAY_001269,Cash,Maestro
+PAY_001270,Mobile Payment,Visa
+PAY_001271,Mobile Payment,MasterCard
+PAY_001272,Cash,Amex
+PAY_001273,debit card,Amex
+PAY_001274,Mobile Payment,Amex
+PAY_001275,Cash,Maestro
+PAY_001276,debit card,Visa
+PAY_001277,debit card,MasterCard
+PAY_001278,credit card,Visa
+PAY_001279,debit card,Visa
+PAY_001280,Mobile Payment,Amex
+PAY_001281,Cash,Visa
+PAY_001282,debit card,Visa
+PAY_001283,debit card,PayPal
+PAY_001284,Cash,Amex
+PAY_001285,Cash,Visa
+PAY_001286,debit card,Visa
+PAY_001287,credit card,Amex
+PAY_001288,credit card,Amex
+PAY_001289,credit card,Amex
+PAY_001290,credit card,Amex
+PAY_001291,Mobile Payment,Visa
+PAY_001292,Cash,PayPal
+PAY_001293,debit card,MasterCard
+PAY_001294,Mobile Payment,Amex
+PAY_001295,Mobile Payment,Maestro
+PAY_001296,Cash,Maestro
+PAY_001297,Cash,Amex
+PAY_001298,credit card,PayPal
+PAY_001299,Cash,Maestro
+PAY_001300,Mobile Payment,Visa
+PAY_001301,Cash,Amex
+PAY_001302,credit card,Maestro
+PAY_001303,credit card,MasterCard
+PAY_001304,Cash,Amex
+PAY_001305,credit card,Visa
+PAY_001306,Cash,MasterCard
+PAY_001307,Cash,Amex
+PAY_001308,Cash,Maestro
+PAY_001309,Mobile Payment,Amex
+PAY_001310,Cash,PayPal
+PAY_001311,debit card,Amex
+PAY_001312,debit card,Amex
+PAY_001313,debit card,Maestro
+PAY_001314,Mobile Payment,Visa
+PAY_001315,debit card,PayPal
+PAY_001316,debit card,Maestro
+PAY_001317,credit card,Maestro
+PAY_001318,credit card,Visa
+PAY_001319,Mobile Payment,Amex
+PAY_001320,debit card,MasterCard
+PAY_001321,Mobile Payment,MasterCard
+PAY_001322,debit card,PayPal
+PAY_001323,Mobile Payment,Maestro
+PAY_001324,Mobile Payment,MasterCard
+PAY_001325,Mobile Payment,Amex
+PAY_001326,Mobile Payment,Amex
+PAY_001327,credit card,MasterCard
+PAY_001328,Mobile Payment,Maestro
+PAY_001329,debit card,Visa
+PAY_001330,Mobile Payment,Maestro
+PAY_001331,Cash,Maestro
+PAY_001332,Cash,MasterCard
+PAY_001333,Mobile Payment,Amex
+PAY_001334,debit card,MasterCard
+PAY_001335,credit card,Visa
+PAY_001336,credit card,Amex
+PAY_001337,debit card,Maestro
+PAY_001338,Cash,PayPal
+PAY_001339,Cash,MasterCard
+PAY_001340,credit card,MasterCard
+PAY_001341,Cash,Amex
+PAY_001342,credit card,Visa
+PAY_001343,debit card,Maestro
+PAY_001344,Cash,MasterCard
+PAY_001345,Cash,Visa
+PAY_001346,debit card,PayPal
+PAY_001347,Cash,Visa
+PAY_001348,Mobile Payment,MasterCard
+PAY_001349,debit card,Maestro
+PAY_001350,debit card,MasterCard
+PAY_001351,Mobile Payment,Amex
+PAY_001352,debit card,MasterCard
+PAY_001353,Cash,PayPal
+PAY_001354,debit card,Maestro
+PAY_001355,Cash,Maestro
+PAY_001356,Cash,Visa
+PAY_001357,Mobile Payment,Visa
+PAY_001358,credit card,MasterCard
+PAY_001359,credit card,Visa
+PAY_001360,credit card,PayPal
+PAY_001361,credit card,PayPal
+PAY_001362,Cash,PayPal
+PAY_001363,credit card,MasterCard
+PAY_001364,credit card,MasterCard
+PAY_001365,credit card,PayPal
+PAY_001366,credit card,Maestro
+PAY_001367,debit card,MasterCard
+PAY_001368,debit card,Maestro
+PAY_001369,Cash,PayPal
+PAY_001370,credit card,MasterCard
+PAY_001371,credit card,Visa
+PAY_001372,Cash,Amex
+PAY_001373,credit card,Amex
+PAY_001374,debit card,Maestro
+PAY_001375,credit card,Amex
+PAY_001376,Cash,MasterCard
+PAY_001377,Mobile Payment,MasterCard
+PAY_001378,credit card,Visa
+PAY_001379,Cash,PayPal
+PAY_001380,credit card,Visa
+PAY_001381,Mobile Payment,Maestro
+PAY_001382,Mobile Payment,PayPal
+PAY_001383,Mobile Payment,Maestro
+PAY_001384,debit card,Amex
+PAY_001385,Mobile Payment,Visa
+PAY_001386,Mobile Payment,Visa
+PAY_001387,debit card,MasterCard
+PAY_001388,Mobile Payment,Maestro
+PAY_001389,Mobile Payment,MasterCard
+PAY_001390,debit card,Amex
+PAY_001391,Mobile Payment,Visa
+PAY_001392,debit card,MasterCard
+PAY_001393,credit card,PayPal
+PAY_001394,Mobile Payment,Visa
+PAY_001395,credit card,PayPal
+PAY_001396,Cash,MasterCard
+PAY_001397,debit card,Visa
+PAY_001398,Cash,Visa
+PAY_001399,credit card,PayPal
+PAY_001400,debit card,MasterCard
+PAY_001401,credit card,MasterCard
+PAY_001402,debit card,PayPal
+PAY_001403,Mobile Payment,Maestro
+PAY_001404,debit card,MasterCard
+PAY_001405,Cash,Visa
+PAY_001406,Mobile Payment,Amex
+PAY_001407,Mobile Payment,MasterCard
+PAY_001408,Mobile Payment,PayPal
+PAY_001409,debit card,Amex
+PAY_001410,credit card,Amex
+PAY_001411,credit card,Visa
+PAY_001412,debit card,Maestro
+PAY_001413,debit card,Amex
+PAY_001414,Cash,Visa
+PAY_001415,Mobile Payment,MasterCard
+PAY_001416,credit card,PayPal
+PAY_001417,Cash,Visa
+PAY_001418,Cash,Maestro
+PAY_001419,Mobile Payment,Amex
+PAY_001420,Mobile Payment,MasterCard
+PAY_001421,Cash,Amex
+PAY_001422,credit card,MasterCard
+PAY_001423,debit card,Amex
+PAY_001424,debit card,PayPal
+PAY_001425,Cash,PayPal
+PAY_001426,Cash,Amex
+PAY_001427,Cash,MasterCard
+PAY_001428,Mobile Payment,Amex
+PAY_001429,Mobile Payment,MasterCard
+PAY_001430,Cash,MasterCard
+PAY_001431,debit card,PayPal
+PAY_001432,credit card,Amex
+PAY_001433,debit card,Maestro
+PAY_001434,credit card,Visa
+PAY_001435,Cash,Maestro
+PAY_001436,Cash,Amex
+PAY_001437,debit card,Visa
+PAY_001438,Cash,PayPal
+PAY_001439,debit card,MasterCard
+PAY_001440,Cash,PayPal
+PAY_001441,credit card,PayPal
+PAY_001442,Cash,PayPal
+PAY_001443,Cash,Amex
+PAY_001444,debit card,MasterCard
+PAY_001445,Cash,Visa
+PAY_001446,debit card,Maestro
+PAY_001447,credit card,Amex
+PAY_001448,credit card,Amex
+PAY_001449,Cash,Visa
+PAY_001450,debit card,PayPal
+PAY_001451,Mobile Payment,Maestro
+PAY_001452,Cash,MasterCard
+PAY_001453,debit card,MasterCard
+PAY_001454,debit card,PayPal
+PAY_001455,credit card,Maestro
+PAY_001456,Cash,Maestro
+PAY_001457,credit card,MasterCard
+PAY_001458,Mobile Payment,PayPal
+PAY_001459,debit card,Visa
+PAY_001460,debit card,Maestro
+PAY_001461,debit card,Amex
+PAY_001462,debit card,Amex
+PAY_001463,credit card,Maestro
+PAY_001464,Cash,Maestro
+PAY_001465,Mobile Payment,Visa
+PAY_001466,credit card,Maestro
+PAY_001467,debit card,MasterCard
+PAY_001468,Cash,Maestro
+PAY_001469,credit card,MasterCard
+PAY_001470,Cash,Amex
+PAY_001471,credit card,Visa
+PAY_001472,debit card,PayPal
+PAY_001473,Mobile Payment,PayPal
+PAY_001474,Mobile Payment,Amex
+PAY_001475,Cash,MasterCard
+PAY_001476,debit card,PayPal
+PAY_001477,debit card,PayPal
+PAY_001478,Cash,PayPal
+PAY_001479,credit card,MasterCard
+PAY_001480,Cash,PayPal
+PAY_001481,Cash,PayPal
+PAY_001482,debit card,PayPal
+PAY_001483,Mobile Payment,PayPal
+PAY_001484,Cash,Amex
+PAY_001485,debit card,PayPal
+PAY_001486,Cash,Amex
+PAY_001487,Cash,Amex
+PAY_001488,Mobile Payment,MasterCard
+PAY_001489,credit card,PayPal
+PAY_001490,Cash,MasterCard
+PAY_001491,Mobile Payment,PayPal
+PAY_001492,credit card,MasterCard
+PAY_001493,Mobile Payment,Visa
+PAY_001494,Mobile Payment,Maestro
+PAY_001495,Mobile Payment,MasterCard
+PAY_001496,debit card,Amex
+PAY_001497,Mobile Payment,Maestro
+PAY_001498,debit card,MasterCard
+PAY_001499,debit card,MasterCard
+PAY_001500,Mobile Payment,Amex
+PAY_001501,Mobile Payment,MasterCard
+PAY_001502,Cash,Amex
+PAY_001503,Mobile Payment,Maestro
+PAY_001504,debit card,Amex
+PAY_001505,credit card,Maestro
+PAY_001506,debit card,Visa
+PAY_001507,Cash,Visa
+PAY_001508,credit card,PayPal
+PAY_001509,Mobile Payment,Maestro
+PAY_001510,Mobile Payment,PayPal
+PAY_001511,credit card,MasterCard
+PAY_001512,credit card,Amex
+PAY_001513,Mobile Payment,MasterCard
+PAY_001514,credit card,Visa
+PAY_001515,credit card,PayPal
+PAY_001516,credit card,Visa
+PAY_001517,Mobile Payment,Amex
+PAY_001518,credit card,PayPal
+PAY_001519,Mobile Payment,PayPal
+PAY_001520,credit card,PayPal
+PAY_001521,Mobile Payment,MasterCard
+PAY_001522,Cash,PayPal
+PAY_001523,Cash,Visa
+PAY_001524,Mobile Payment,Maestro
+PAY_001525,Mobile Payment,Visa
+PAY_001526,Cash,PayPal
+PAY_001527,debit card,MasterCard
+PAY_001528,Cash,Amex
+PAY_001529,debit card,PayPal
+PAY_001530,Mobile Payment,Amex
+PAY_001531,Mobile Payment,Maestro
+PAY_001532,credit card,Visa
+PAY_001533,Cash,Amex
+PAY_001534,Mobile Payment,Amex
+PAY_001535,debit card,Maestro
+PAY_001536,debit card,Maestro
+PAY_001537,credit card,Amex
+PAY_001538,Cash,MasterCard
+PAY_001539,Cash,Maestro
+PAY_001540,credit card,Amex
+PAY_001541,Mobile Payment,Maestro
+PAY_001542,credit card,PayPal
+PAY_001543,debit card,Maestro
+PAY_001544,credit card,PayPal
+PAY_001545,Mobile Payment,MasterCard
+PAY_001546,credit card,MasterCard
+PAY_001547,debit card,Maestro
+PAY_001548,debit card,MasterCard
+PAY_001549,Mobile Payment,Maestro
+PAY_001550,credit card,PayPal
+PAY_001551,Mobile Payment,Maestro
+PAY_001552,Mobile Payment,Visa
+PAY_001553,Mobile Payment,Maestro
+PAY_001554,debit card,Amex
+PAY_001555,Mobile Payment,Amex
+PAY_001556,Cash,Maestro
+PAY_001557,Cash,Amex
+PAY_001558,credit card,Amex
+PAY_001559,Cash,MasterCard
+PAY_001560,debit card,Visa
+PAY_001561,Mobile Payment,Visa
+PAY_001562,Mobile Payment,Maestro
+PAY_001563,Cash,MasterCard
+PAY_001564,debit card,Visa
+PAY_001565,debit card,Visa
+PAY_001566,credit card,PayPal
+PAY_001567,credit card,Visa
+PAY_001568,Cash,Maestro
+PAY_001569,Mobile Payment,Maestro
+PAY_001570,Cash,Maestro
+PAY_001571,Cash,Visa
+PAY_001572,Cash,Visa
+PAY_001573,credit card,PayPal
+PAY_001574,credit card,Amex
+PAY_001575,Mobile Payment,Visa
+PAY_001576,Mobile Payment,MasterCard
+PAY_001577,Mobile Payment,Maestro
+PAY_001578,debit card,Visa
+PAY_001579,Mobile Payment,Visa
+PAY_001580,debit card,Visa
+PAY_001581,Cash,MasterCard
+PAY_001582,Mobile Payment,Amex
+PAY_001583,Mobile Payment,PayPal
+PAY_001584,debit card,Amex
+PAY_001585,Mobile Payment,PayPal
+PAY_001586,Cash,Maestro
+PAY_001587,Mobile Payment,Visa
+PAY_001588,Cash,Amex
+PAY_001589,Mobile Payment,Maestro
+PAY_001590,credit card,Amex
+PAY_001591,credit card,Maestro
+PAY_001592,debit card,Maestro
+PAY_001593,Mobile Payment,MasterCard
+PAY_001594,credit card,Visa
+PAY_001595,credit card,PayPal
+PAY_001596,Cash,PayPal
+PAY_001597,debit card,Visa
+PAY_001598,Cash,Visa
+PAY_001599,credit card,Amex
+PAY_001600,credit card,Amex
+PAY_001601,debit card,MasterCard
+PAY_001602,Mobile Payment,Amex
+PAY_001603,credit card,Visa
+PAY_001604,Cash,Visa
+PAY_001605,credit card,Amex
+PAY_001606,debit card,PayPal
+PAY_001607,credit card,Visa
+PAY_001608,Cash,PayPal
+PAY_001609,credit card,Maestro
+PAY_001610,credit card,Maestro
+PAY_001611,Cash,MasterCard
+PAY_001612,credit card,Maestro
+PAY_001613,Mobile Payment,MasterCard
+PAY_001614,credit card,Visa
+PAY_001615,Mobile Payment,MasterCard
+PAY_001616,debit card,Visa
+PAY_001617,debit card,Amex
+PAY_001618,Mobile Payment,MasterCard
+PAY_001619,Cash,Amex
+PAY_001620,credit card,MasterCard
+PAY_001621,credit card,PayPal
+PAY_001622,Cash,Maestro
+PAY_001623,credit card,MasterCard
+PAY_001624,debit card,Amex
+PAY_001625,credit card,PayPal
+PAY_001626,Cash,Visa
+PAY_001627,credit card,PayPal
+PAY_001628,credit card,Visa
+PAY_001629,Cash,MasterCard
+PAY_001630,Cash,Amex
+PAY_001631,debit card,Visa
+PAY_001632,credit card,MasterCard
+PAY_001633,debit card,Visa
+PAY_001634,Cash,PayPal
+PAY_001635,credit card,Visa
+PAY_001636,debit card,MasterCard
+PAY_001637,credit card,PayPal
+PAY_001638,Mobile Payment,Amex
+PAY_001639,Mobile Payment,MasterCard
+PAY_001640,Mobile Payment,MasterCard
+PAY_001641,credit card,PayPal
+PAY_001642,Cash,Maestro
+PAY_001643,credit card,Visa
+PAY_001644,debit card,Maestro
+PAY_001645,Mobile Payment,PayPal
+PAY_001646,Cash,MasterCard
+PAY_001647,credit card,Amex
+PAY_001648,credit card,Visa
+PAY_001649,Mobile Payment,MasterCard
+PAY_001650,Mobile Payment,Maestro
+PAY_001651,credit card,MasterCard
+PAY_001652,credit card,Amex
+PAY_001653,debit card,PayPal
+PAY_001654,Mobile Payment,Amex
+PAY_001655,Mobile Payment,PayPal
+PAY_001656,Mobile Payment,PayPal
+PAY_001657,debit card,PayPal
+PAY_001658,Cash,Maestro
+PAY_001659,debit card,PayPal
+PAY_001660,credit card,PayPal
+PAY_001661,debit card,PayPal
+PAY_001662,Mobile Payment,MasterCard
+PAY_001663,debit card,Visa
+PAY_001664,debit card,Maestro
+PAY_001665,credit card,Visa
+PAY_001666,debit card,Amex
+PAY_001667,debit card,Visa
+PAY_001668,Mobile Payment,Amex
+PAY_001669,Cash,MasterCard
+PAY_001670,debit card,Amex
+PAY_001671,credit card,Maestro
+PAY_001672,debit card,PayPal
+PAY_001673,credit card,MasterCard
+PAY_001674,Cash,Amex
+PAY_001675,Cash,Visa
+PAY_001676,Cash,PayPal
+PAY_001677,debit card,PayPal
+PAY_001678,Cash,PayPal
+PAY_001679,debit card,MasterCard
+PAY_001680,debit card,PayPal
+PAY_001681,debit card,Visa
+PAY_001682,debit card,MasterCard
+PAY_001683,credit card,Amex
+PAY_001684,Cash,PayPal
+PAY_001685,credit card,PayPal
+PAY_001686,Mobile Payment,Visa
+PAY_001687,debit card,Visa
+PAY_001688,Cash,PayPal
+PAY_001689,Cash,PayPal
+PAY_001690,Mobile Payment,PayPal
+PAY_001691,credit card,Maestro
+PAY_001692,credit card,PayPal
+PAY_001693,debit card,MasterCard
+PAY_001694,Mobile Payment,MasterCard
+PAY_001695,Cash,MasterCard
+PAY_001696,credit card,MasterCard
+PAY_001697,Cash,Amex
+PAY_001698,Cash,Maestro
+PAY_001699,debit card,Maestro
+PAY_001700,Cash,PayPal
+PAY_001701,Cash,Visa
+PAY_001702,Mobile Payment,MasterCard
+PAY_001703,credit card,Visa
+PAY_001704,Cash,Maestro
+PAY_001705,credit card,Amex
+PAY_001706,Cash,Visa
+PAY_001707,debit card,MasterCard
+PAY_001708,debit card,Maestro
+PAY_001709,credit card,PayPal
+PAY_001710,Cash,Visa
+PAY_001711,credit card,Maestro
+PAY_001712,debit card,Amex
+PAY_001713,Mobile Payment,MasterCard
+PAY_001714,debit card,Maestro
+PAY_001715,Mobile Payment,Maestro
+PAY_001716,debit card,Maestro
+PAY_001717,Cash,PayPal
+PAY_001718,credit card,PayPal
+PAY_001719,Mobile Payment,Maestro
+PAY_001720,Mobile Payment,MasterCard
+PAY_001721,debit card,MasterCard
+PAY_001722,Mobile Payment,Amex
+PAY_001723,Mobile Payment,Visa
+PAY_001724,Cash,PayPal
+PAY_001725,Mobile Payment,Amex
+PAY_001726,credit card,MasterCard
+PAY_001727,Mobile Payment,Visa
+PAY_001728,Cash,PayPal
+PAY_001729,credit card,Visa
+PAY_001730,Cash,Maestro
+PAY_001731,debit card,Maestro
+PAY_001732,Mobile Payment,MasterCard
+PAY_001733,Cash,PayPal
+PAY_001734,Cash,Amex
+PAY_001735,Mobile Payment,Maestro
+PAY_001736,debit card,Maestro
+PAY_001737,debit card,Maestro
+PAY_001738,debit card,MasterCard
+PAY_001739,credit card,Maestro
+PAY_001740,Cash,Maestro
+PAY_001741,debit card,Maestro
+PAY_001742,debit card,Amex
+PAY_001743,debit card,Amex
+PAY_001744,Cash,Maestro
+PAY_001745,Cash,Maestro
+PAY_001746,Cash,MasterCard
+PAY_001747,Cash,Maestro
+PAY_001748,Mobile Payment,Maestro
+PAY_001749,credit card,MasterCard
+PAY_001750,credit card,Amex
+PAY_001751,debit card,PayPal
+PAY_001752,debit card,MasterCard
+PAY_001753,Cash,Maestro
+PAY_001754,credit card,PayPal
+PAY_001755,Cash,MasterCard
+PAY_001756,debit card,Visa
+PAY_001757,credit card,MasterCard
+PAY_001758,credit card,MasterCard
+PAY_001759,debit card,Visa
+PAY_001760,Mobile Payment,Visa
+PAY_001761,debit card,Amex
+PAY_001762,Mobile Payment,Visa
+PAY_001763,debit card,Maestro
+PAY_001764,debit card,Visa
+PAY_001765,credit card,MasterCard
+PAY_001766,debit card,Visa
+PAY_001767,Cash,Maestro
+PAY_001768,credit card,Amex
+PAY_001769,debit card,Amex
+PAY_001770,credit card,MasterCard
+PAY_001771,debit card,Visa
+PAY_001772,Mobile Payment,Maestro
+PAY_001773,credit card,PayPal
+PAY_001774,credit card,Maestro
+PAY_001775,credit card,Amex
+PAY_001776,debit card,Maestro
+PAY_001777,debit card,Amex
+PAY_001778,Cash,Maestro
+PAY_001779,debit card,Maestro
+PAY_001780,Mobile Payment,Maestro
+PAY_001781,Cash,PayPal
+PAY_001782,Mobile Payment,Maestro
+PAY_001783,debit card,PayPal
+PAY_001784,credit card,Visa
+PAY_001785,debit card,PayPal
+PAY_001786,debit card,Visa
+PAY_001787,Mobile Payment,Amex
+PAY_001788,debit card,Maestro
+PAY_001789,credit card,Amex
+PAY_001790,credit card,PayPal
+PAY_001791,Cash,Amex
+PAY_001792,Mobile Payment,Maestro
+PAY_001793,Mobile Payment,PayPal
+PAY_001794,credit card,PayPal
+PAY_001795,Cash,PayPal
+PAY_001796,credit card,Visa
+PAY_001797,debit card,PayPal
+PAY_001798,credit card,PayPal
+PAY_001799,credit card,Maestro
+PAY_001800,debit card,Visa
+PAY_001801,Mobile Payment,PayPal
+PAY_001802,Mobile Payment,PayPal
+PAY_001803,Cash,Amex
+PAY_001804,debit card,PayPal
+PAY_001805,Mobile Payment,Maestro
+PAY_001806,Mobile Payment,Visa
+PAY_001807,Cash,MasterCard
+PAY_001808,credit card,Maestro
+PAY_001809,Mobile Payment,Visa
+PAY_001810,Mobile Payment,PayPal
+PAY_001811,debit card,PayPal
+PAY_001812,Mobile Payment,Amex
+PAY_001813,Cash,Maestro
+PAY_001814,debit card,MasterCard
+PAY_001815,debit card,Maestro
+PAY_001816,Mobile Payment,Maestro
+PAY_001817,Cash,Visa
+PAY_001818,credit card,MasterCard
+PAY_001819,debit card,Visa
+PAY_001820,Cash,MasterCard
+PAY_001821,Cash,Visa
+PAY_001822,Mobile Payment,Maestro
+PAY_001823,debit card,Maestro
+PAY_001824,Mobile Payment,Maestro
+PAY_001825,Mobile Payment,Visa
+PAY_001826,Cash,PayPal
+PAY_001827,credit card,Amex
+PAY_001828,Mobile Payment,MasterCard
+PAY_001829,credit card,Maestro
+PAY_001830,Cash,Amex
+PAY_001831,debit card,Amex
+PAY_001832,Cash,Maestro
+PAY_001833,Mobile Payment,PayPal
+PAY_001834,debit card,Maestro
+PAY_001835,Mobile Payment,Amex
+PAY_001836,Mobile Payment,PayPal
+PAY_001837,Mobile Payment,Amex
+PAY_001838,credit card,Amex
+PAY_001839,Mobile Payment,Maestro
+PAY_001840,Mobile Payment,Amex
+PAY_001841,credit card,Maestro
+PAY_001842,credit card,MasterCard
+PAY_001843,Mobile Payment,PayPal
+PAY_001844,credit card,PayPal
+PAY_001845,credit card,Maestro
+PAY_001846,credit card,PayPal
+PAY_001847,credit card,MasterCard
+PAY_001848,Cash,PayPal
+PAY_001849,Mobile Payment,PayPal
+PAY_001850,credit card,MasterCard
+PAY_001851,debit card,Maestro
+PAY_001852,credit card,Visa
+PAY_001853,debit card,Visa
+PAY_001854,Cash,Visa
+PAY_001855,debit card,PayPal
+PAY_001856,credit card,Visa
+PAY_001857,debit card,Amex
+PAY_001858,Cash,PayPal
+PAY_001859,debit card,Maestro
+PAY_001860,Mobile Payment,MasterCard
+PAY_001861,credit card,Visa
+PAY_001862,Cash,PayPal
+PAY_001863,debit card,PayPal
+PAY_001864,debit card,Maestro
+PAY_001865,Mobile Payment,MasterCard
+PAY_001866,Cash,PayPal
+PAY_001867,Cash,Visa
+PAY_001868,debit card,Visa
+PAY_001869,Cash,Amex
+PAY_001870,Cash,Visa
+PAY_001871,Mobile Payment,PayPal
+PAY_001872,Cash,Maestro
+PAY_001873,Cash,MasterCard
+PAY_001874,Cash,PayPal
+PAY_001875,debit card,PayPal
+PAY_001876,Cash,PayPal
+PAY_001877,Cash,Amex
+PAY_001878,Mobile Payment,Amex
+PAY_001879,Cash,PayPal
+PAY_001880,debit card,MasterCard
+PAY_001881,credit card,Visa
+PAY_001882,Cash,Maestro
+PAY_001883,debit card,MasterCard
+PAY_001884,credit card,Amex
+PAY_001885,Cash,PayPal
+PAY_001886,Cash,MasterCard
+PAY_001887,Cash,Maestro
+PAY_001888,Mobile Payment,Maestro
+PAY_001889,Mobile Payment,Amex
+PAY_001890,debit card,Amex
+PAY_001891,credit card,Visa
+PAY_001892,Cash,MasterCard
+PAY_001893,Mobile Payment,Amex
+PAY_001894,debit card,Maestro
+PAY_001895,debit card,Visa
+PAY_001896,Mobile Payment,PayPal
+PAY_001897,debit card,MasterCard
+PAY_001898,credit card,Maestro
+PAY_001899,Mobile Payment,MasterCard
+PAY_001900,credit card,Maestro
+PAY_001901,Mobile Payment,MasterCard
+PAY_001902,debit card,Maestro
+PAY_001903,Mobile Payment,MasterCard
+PAY_001904,Mobile Payment,Visa
+PAY_001905,credit card,Maestro
+PAY_001906,credit card,PayPal
+PAY_001907,Cash,Visa
+PAY_001908,debit card,Visa
+PAY_001909,Mobile Payment,Maestro
+PAY_001910,debit card,Visa
+PAY_001911,Mobile Payment,Maestro
+PAY_001912,credit card,Amex
+PAY_001913,credit card,Maestro
+PAY_001914,Mobile Payment,Maestro
+PAY_001915,debit card,Maestro
+PAY_001916,Mobile Payment,MasterCard
+PAY_001917,Cash,Visa
+PAY_001918,Cash,Maestro
+PAY_001919,Cash,Amex
+PAY_001920,Cash,PayPal
+PAY_001921,Mobile Payment,MasterCard
+PAY_001922,debit card,MasterCard
+PAY_001923,credit card,MasterCard
+PAY_001924,Cash,MasterCard
+PAY_001925,Mobile Payment,Visa
+PAY_001926,Mobile Payment,Maestro
+PAY_001927,Mobile Payment,PayPal
+PAY_001928,credit card,Visa
+PAY_001929,credit card,Maestro
+PAY_001930,Cash,Amex
+PAY_001931,credit card,Amex
+PAY_001932,credit card,PayPal
+PAY_001933,Mobile Payment,Visa
+PAY_001934,Cash,Visa
+PAY_001935,debit card,Maestro
+PAY_001936,debit card,PayPal
+PAY_001937,Mobile Payment,Maestro
+PAY_001938,Cash,Visa
+PAY_001939,Mobile Payment,Maestro
+PAY_001940,credit card,MasterCard
+PAY_001941,Cash,Visa
+PAY_001942,Mobile Payment,Visa
+PAY_001943,credit card,MasterCard
+PAY_001944,debit card,Visa
+PAY_001945,Mobile Payment,PayPal
+PAY_001946,debit card,Maestro
+PAY_001947,Cash,Amex
+PAY_001948,debit card,Maestro
+PAY_001949,Mobile Payment,PayPal
+PAY_001950,Cash,Amex
+PAY_001951,debit card,PayPal
+PAY_001952,credit card,PayPal
+PAY_001953,debit card,Visa
+PAY_001954,Mobile Payment,MasterCard
+PAY_001955,Mobile Payment,Amex
+PAY_001956,debit card,Maestro
+PAY_001957,debit card,PayPal
+PAY_001958,credit card,Maestro
+PAY_001959,Mobile Payment,Maestro
+PAY_001960,debit card,Visa
+PAY_001961,Mobile Payment,PayPal
+PAY_001962,Cash,Maestro
+PAY_001963,debit card,Amex
+PAY_001964,Mobile Payment,MasterCard
+PAY_001965,debit card,Visa
+PAY_001966,Cash,Amex
+PAY_001967,Mobile Payment,Amex
+PAY_001968,credit card,MasterCard
+PAY_001969,Cash,Visa
+PAY_001970,debit card,Visa
+PAY_001971,debit card,MasterCard
+PAY_001972,Mobile Payment,PayPal
+PAY_001973,Mobile Payment,Maestro
+PAY_001974,Cash,PayPal
+PAY_001975,credit card,MasterCard
+PAY_001976,debit card,Visa
+PAY_001977,debit card,MasterCard
+PAY_001978,credit card,PayPal
+PAY_001979,credit card,Visa
+PAY_001980,credit card,PayPal
+PAY_001981,debit card,MasterCard
+PAY_001982,Mobile Payment,PayPal
+PAY_001983,credit card,MasterCard
+PAY_001984,Mobile Payment,Visa
+PAY_001985,debit card,PayPal
+PAY_001986,Cash,Visa
+PAY_001987,Mobile Payment,Amex
+PAY_001988,Mobile Payment,MasterCard
+PAY_001989,debit card,PayPal
+PAY_001990,debit card,Maestro
+PAY_001991,Mobile Payment,Visa
+PAY_001992,Cash,PayPal
+PAY_001993,debit card,MasterCard
+PAY_001994,Mobile Payment,Maestro
+PAY_001995,credit card,Amex
+PAY_001996,Mobile Payment,MasterCard
+PAY_001997,Mobile Payment,Maestro
+PAY_001998,credit card,Maestro
+PAY_001999,Mobile Payment,MasterCard
+PAY_002000,credit card,Amex
+PAY_002001,Mobile Payment,PayPal
+PAY_002002,credit card,Amex
+PAY_002003,Cash,Maestro
+PAY_002004,credit card,Amex
+PAY_002005,Cash,PayPal
+PAY_002006,credit card,Visa
+PAY_002007,Mobile Payment,Maestro
+PAY_002008,debit card,Amex
+PAY_002009,debit card,Visa
+PAY_002010,debit card,Visa
+PAY_002011,debit card,Amex
+PAY_002012,debit card,MasterCard
+PAY_002013,credit card,Maestro
+PAY_002014,Mobile Payment,Amex
+PAY_002015,credit card,Maestro
+PAY_002016,debit card,MasterCard
+PAY_002017,debit card,MasterCard
+PAY_002018,Cash,Amex
+PAY_002019,Cash,Maestro
+PAY_002020,Cash,MasterCard
+PAY_002021,Mobile Payment,MasterCard
+PAY_002022,Mobile Payment,PayPal
+PAY_002023,Cash,Visa
+PAY_002024,debit card,Amex
+PAY_002025,Cash,Maestro
+PAY_002026,Mobile Payment,Visa
+PAY_002027,credit card,Amex
+PAY_002028,Cash,PayPal
+PAY_002029,Cash,Maestro
+PAY_002030,Cash,Amex
+PAY_002031,Mobile Payment,PayPal
+PAY_002032,Mobile Payment,Maestro
+PAY_002033,credit card,Maestro
+PAY_002034,Cash,PayPal
+PAY_002035,Cash,MasterCard
+PAY_002036,Cash,Amex
+PAY_002037,debit card,Visa
+PAY_002038,Cash,MasterCard
+PAY_002039,Mobile Payment,Amex
+PAY_002040,Cash,Maestro
+PAY_002041,Cash,Visa
+PAY_002042,Mobile Payment,Maestro
+PAY_002043,Mobile Payment,Maestro
+PAY_002044,credit card,Maestro
+PAY_002045,credit card,PayPal
+PAY_002046,debit card,Maestro
+PAY_002047,credit card,Maestro
+PAY_002048,credit card,PayPal
+PAY_002049,debit card,Visa
+PAY_002050,Mobile Payment,MasterCard
+PAY_002051,Cash,Amex
+PAY_002052,Mobile Payment,Maestro
+PAY_002053,Mobile Payment,PayPal
+PAY_002054,Mobile Payment,MasterCard
+PAY_002055,credit card,PayPal
+PAY_002056,credit card,Amex
+PAY_002057,credit card,PayPal
+PAY_002058,credit card,Amex
+PAY_002059,Mobile Payment,Visa
+PAY_002060,Cash,Visa
+PAY_002061,debit card,Maestro
+PAY_002062,Cash,Maestro
+PAY_002063,credit card,MasterCard
+PAY_002064,debit card,Maestro
+PAY_002065,credit card,PayPal
+PAY_002066,Cash,Visa
+PAY_002067,Mobile Payment,Amex
+PAY_002068,Mobile Payment,Maestro
+PAY_002069,credit card,MasterCard
+PAY_002070,Mobile Payment,PayPal
+PAY_002071,debit card,Amex
+PAY_002072,Mobile Payment,PayPal
+PAY_002073,Cash,Amex
+PAY_002074,Cash,Visa
+PAY_002075,Cash,Amex
+PAY_002076,debit card,MasterCard
+PAY_002077,debit card,Amex
+PAY_002078,Mobile Payment,Amex
+PAY_002079,credit card,Visa
+PAY_002080,credit card,Amex
+PAY_002081,Cash,PayPal
+PAY_002082,Mobile Payment,Visa
+PAY_002083,credit card,PayPal
+PAY_002084,Cash,PayPal
+PAY_002085,debit card,Visa
+PAY_002086,Cash,MasterCard
+PAY_002087,debit card,MasterCard
+PAY_002088,credit card,Visa
+PAY_002089,credit card,Visa
+PAY_002090,Cash,PayPal
+PAY_002091,credit card,PayPal
+PAY_002092,Mobile Payment,Visa
+PAY_002093,credit card,Amex
+PAY_002094,Mobile Payment,Amex
+PAY_002095,Mobile Payment,Visa
+PAY_002096,Cash,PayPal
+PAY_002097,debit card,PayPal
+PAY_002098,credit card,Visa
+PAY_002099,debit card,MasterCard
+PAY_002100,credit card,Maestro
+PAY_002101,Mobile Payment,Visa
+PAY_002102,credit card,MasterCard
+PAY_002103,credit card,MasterCard
+PAY_002104,Mobile Payment,Visa
+PAY_002105,Cash,MasterCard
+PAY_002106,Mobile Payment,Maestro
+PAY_002107,Mobile Payment,Maestro
+PAY_002108,Cash,Visa
+PAY_002109,debit card,Maestro
+PAY_002110,debit card,MasterCard
+PAY_002111,Cash,PayPal
+PAY_002112,Cash,Maestro
+PAY_002113,Mobile Payment,Maestro
+PAY_002114,Cash,MasterCard
+PAY_002115,Cash,Visa
+PAY_002116,debit card,Amex
+PAY_002117,debit card,MasterCard
+PAY_002118,Mobile Payment,PayPal
+PAY_002119,debit card,Amex
+PAY_002120,debit card,Maestro
+PAY_002121,Cash,PayPal
+PAY_002122,debit card,PayPal
+PAY_002123,Mobile Payment,Visa
+PAY_002124,Cash,Maestro
+PAY_002125,Cash,MasterCard
+PAY_002126,Cash,Visa
+PAY_002127,credit card,Visa
+PAY_002128,debit card,Maestro
+PAY_002129,Mobile Payment,MasterCard
+PAY_002130,credit card,Visa
+PAY_002131,debit card,MasterCard
+PAY_002132,credit card,Amex
+PAY_002133,credit card,Visa
+PAY_002134,Cash,Amex
+PAY_002135,Mobile Payment,Visa
+PAY_002136,Mobile Payment,Maestro
+PAY_002137,Mobile Payment,PayPal
+PAY_002138,debit card,MasterCard
+PAY_002139,Mobile Payment,Amex
+PAY_002140,debit card,PayPal
+PAY_002141,debit card,Amex
+PAY_002142,Mobile Payment,Visa
+PAY_002143,credit card,Maestro
+PAY_002144,debit card,Visa
+PAY_002145,debit card,Amex
+PAY_002146,Cash,MasterCard
+PAY_002147,credit card,Maestro
+PAY_002148,credit card,Visa
+PAY_002149,Mobile Payment,Visa
+PAY_002150,debit card,Visa
+PAY_002151,Mobile Payment,Maestro
+PAY_002152,credit card,Visa
+PAY_002153,Cash,Amex
+PAY_002154,debit card,Visa
+PAY_002155,debit card,Maestro
+PAY_002156,debit card,Amex
+PAY_002157,credit card,Amex
+PAY_002158,debit card,PayPal
+PAY_002159,Mobile Payment,Amex
+PAY_002160,Cash,Visa
+PAY_002161,Cash,Amex
+PAY_002162,debit card,Visa
+PAY_002163,credit card,Amex
+PAY_002164,Cash,Maestro
+PAY_002165,Mobile Payment,MasterCard
+PAY_002166,debit card,Visa
+PAY_002167,Mobile Payment,Amex
+PAY_002168,Cash,Amex
+PAY_002169,credit card,PayPal
+PAY_002170,Cash,Maestro
+PAY_002171,credit card,Visa
+PAY_002172,debit card,PayPal
+PAY_002173,credit card,MasterCard
+PAY_002174,credit card,PayPal
+PAY_002175,Cash,Amex
+PAY_002176,Cash,PayPal
+PAY_002177,debit card,PayPal
+PAY_002178,credit card,Visa
+PAY_002179,credit card,PayPal
+PAY_002180,credit card,PayPal
+PAY_002181,Mobile Payment,MasterCard
+PAY_002182,debit card,Maestro
+PAY_002183,Cash,Visa
+PAY_002184,credit card,Maestro
+PAY_002185,Cash,Visa
+PAY_002186,credit card,Maestro
+PAY_002187,Cash,MasterCard
+PAY_002188,credit card,MasterCard
+PAY_002189,credit card,Maestro
+PAY_002190,credit card,PayPal
+PAY_002191,Cash,MasterCard
+PAY_002192,credit card,Maestro
+PAY_002193,Mobile Payment,Visa
+PAY_002194,credit card,MasterCard
+PAY_002195,Mobile Payment,Maestro
+PAY_002196,Mobile Payment,MasterCard
+PAY_002197,credit card,Amex
+PAY_002198,Cash,MasterCard
+PAY_002199,credit card,Amex
+PAY_002200,credit card,Visa
+PAY_002201,debit card,MasterCard
+PAY_002202,Cash,PayPal
+PAY_002203,credit card,Maestro
+PAY_002204,Mobile Payment,PayPal
+PAY_002205,Mobile Payment,Amex
+PAY_002206,credit card,MasterCard
+PAY_002207,credit card,PayPal
+PAY_002208,Mobile Payment,PayPal
+PAY_002209,Cash,Maestro
+PAY_002210,credit card,Visa
+PAY_002211,Cash,MasterCard
+PAY_002212,Mobile Payment,Amex
+PAY_002213,Mobile Payment,PayPal
+PAY_002214,Mobile Payment,Maestro
+PAY_002215,Cash,PayPal
+PAY_002216,Mobile Payment,MasterCard
+PAY_002217,Cash,Visa
+PAY_002218,debit card,Maestro
+PAY_002219,debit card,Visa
+PAY_002220,credit card,Maestro
+PAY_002221,Cash,Maestro
+PAY_002222,credit card,Amex
+PAY_002223,Cash,Visa
+PAY_002224,Cash,Maestro
+PAY_002225,debit card,PayPal
+PAY_002226,credit card,PayPal
+PAY_002227,credit card,PayPal
+PAY_002228,Mobile Payment,PayPal
+PAY_002229,Cash,MasterCard
+PAY_002230,credit card,PayPal
+PAY_002231,debit card,Maestro
+PAY_002232,credit card,Maestro
+PAY_002233,Mobile Payment,Maestro
+PAY_002234,Mobile Payment,PayPal
+PAY_002235,Cash,Maestro
+PAY_002236,debit card,MasterCard
+PAY_002237,Mobile Payment,PayPal
+PAY_002238,debit card,Amex
+PAY_002239,Mobile Payment,Visa
+PAY_002240,Mobile Payment,Maestro
+PAY_002241,debit card,Amex
+PAY_002242,Mobile Payment,Visa
+PAY_002243,debit card,PayPal
+PAY_002244,credit card,Maestro
+PAY_002245,debit card,PayPal
+PAY_002246,debit card,MasterCard
+PAY_002247,Mobile Payment,MasterCard
+PAY_002248,Mobile Payment,PayPal
+PAY_002249,Mobile Payment,MasterCard
+PAY_002250,Cash,PayPal
+PAY_002251,credit card,Amex
+PAY_002252,credit card,Amex
+PAY_002253,Cash,MasterCard
+PAY_002254,Mobile Payment,Visa
+PAY_002255,credit card,Amex
+PAY_002256,Mobile Payment,PayPal
+PAY_002257,debit card,Visa
+PAY_002258,Cash,Maestro
+PAY_002259,credit card,PayPal
+PAY_002260,Mobile Payment,PayPal
+PAY_002261,debit card,PayPal
+PAY_002262,credit card,MasterCard
+PAY_002263,Cash,Visa
+PAY_002264,Mobile Payment,PayPal
+PAY_002265,debit card,Maestro
+PAY_002266,Cash,PayPal
+PAY_002267,Cash,MasterCard
+PAY_002268,Mobile Payment,Visa
+PAY_002269,Mobile Payment,Maestro
+PAY_002270,credit card,PayPal
+PAY_002271,Cash,Visa
+PAY_002272,Cash,PayPal
+PAY_002273,debit card,Visa
+PAY_002274,Mobile Payment,MasterCard
+PAY_002275,credit card,MasterCard
+PAY_002276,debit card,MasterCard
+PAY_002277,Mobile Payment,MasterCard
+PAY_002278,Cash,MasterCard
+PAY_002279,credit card,MasterCard
+PAY_002280,credit card,PayPal
+PAY_002281,debit card,PayPal
+PAY_002282,Mobile Payment,Visa
+PAY_002283,debit card,PayPal
+PAY_002284,credit card,Maestro
+PAY_002285,debit card,Visa
+PAY_002286,debit card,Maestro
+PAY_002287,credit card,Visa
+PAY_002288,credit card,Visa
+PAY_002289,debit card,Maestro
+PAY_002290,credit card,Amex
+PAY_002291,Mobile Payment,PayPal
+PAY_002292,credit card,Visa
+PAY_002293,credit card,Visa
+PAY_002294,debit card,PayPal
+PAY_002295,credit card,Visa
+PAY_002296,Cash,Visa
+PAY_002297,Mobile Payment,Maestro
+PAY_002298,Mobile Payment,Visa
+PAY_002299,credit card,Maestro
+PAY_002300,Cash,PayPal
+PAY_002301,Cash,MasterCard
+PAY_002302,Mobile Payment,Visa
+PAY_002303,Mobile Payment,PayPal
+PAY_002304,debit card,MasterCard
+PAY_002305,debit card,Maestro
+PAY_002306,credit card,Amex
+PAY_002307,credit card,Maestro
+PAY_002308,credit card,MasterCard
+PAY_002309,debit card,MasterCard
+PAY_002310,Mobile Payment,Maestro
+PAY_002311,Cash,Visa
+PAY_002312,Cash,Visa
+PAY_002313,Cash,MasterCard
+PAY_002314,debit card,MasterCard
+PAY_002315,Mobile Payment,Amex
+PAY_002316,Mobile Payment,Visa
+PAY_002317,debit card,MasterCard
+PAY_002318,credit card,MasterCard
+PAY_002319,credit card,MasterCard
+PAY_002320,Mobile Payment,PayPal
+PAY_002321,credit card,MasterCard
+PAY_002322,credit card,Maestro
+PAY_002323,Mobile Payment,MasterCard
+PAY_002324,debit card,Maestro
+PAY_002325,credit card,PayPal
+PAY_002326,Mobile Payment,MasterCard
+PAY_002327,Mobile Payment,PayPal
+PAY_002328,credit card,Amex
+PAY_002329,Cash,PayPal
+PAY_002330,Mobile Payment,Maestro
+PAY_002331,Mobile Payment,Visa
+PAY_002332,Mobile Payment,MasterCard
+PAY_002333,debit card,Visa
+PAY_002334,Mobile Payment,PayPal
+PAY_002335,Cash,PayPal
+PAY_002336,debit card,PayPal
+PAY_002337,Mobile Payment,Amex
+PAY_002338,Mobile Payment,Maestro
+PAY_002339,Mobile Payment,Maestro
+PAY_002340,Mobile Payment,PayPal
+PAY_002341,credit card,PayPal
+PAY_002342,debit card,MasterCard
+PAY_002343,Mobile Payment,MasterCard
+PAY_002344,credit card,Visa
+PAY_002345,Mobile Payment,PayPal
+PAY_002346,debit card,Amex
+PAY_002347,credit card,PayPal
+PAY_002348,Mobile Payment,Amex
+PAY_002349,debit card,Visa
+PAY_002350,Cash,MasterCard
+PAY_002351,Mobile Payment,Maestro
+PAY_002352,Mobile Payment,Visa
+PAY_002353,Mobile Payment,Amex
+PAY_002354,Mobile Payment,MasterCard
+PAY_002355,credit card,MasterCard
+PAY_002356,credit card,Amex
+PAY_002357,credit card,MasterCard
+PAY_002358,credit card,MasterCard
+PAY_002359,Mobile Payment,Amex
+PAY_002360,debit card,Maestro
+PAY_002361,debit card,Maestro
+PAY_002362,debit card,Amex
+PAY_002363,Mobile Payment,Visa
+PAY_002364,Cash,Visa
+PAY_002365,debit card,Visa
+PAY_002366,debit card,PayPal
+PAY_002367,Cash,PayPal
+PAY_002368,Mobile Payment,Maestro
+PAY_002369,Cash,MasterCard
+PAY_002370,Mobile Payment,Amex
+PAY_002371,Cash,Visa
+PAY_002372,Mobile Payment,MasterCard
+PAY_002373,debit card,Amex
+PAY_002374,Cash,PayPal
+PAY_002375,Mobile Payment,MasterCard
+PAY_002376,debit card,Maestro
+PAY_002377,Mobile Payment,MasterCard
+PAY_002378,Mobile Payment,Amex
+PAY_002379,Mobile Payment,PayPal
+PAY_002380,Mobile Payment,Maestro
+PAY_002381,credit card,Amex
+PAY_002382,debit card,MasterCard
+PAY_002383,Cash,Amex
+PAY_002384,Mobile Payment,Visa
+PAY_002385,credit card,MasterCard
+PAY_002386,debit card,Visa
+PAY_002387,credit card,Maestro
+PAY_002388,credit card,Maestro
+PAY_002389,debit card,MasterCard
+PAY_002390,debit card,Maestro
+PAY_002391,debit card,Maestro
+PAY_002392,Mobile Payment,MasterCard
+PAY_002393,debit card,Maestro
+PAY_002394,debit card,Maestro
+PAY_002395,credit card,Visa
+PAY_002396,credit card,Maestro
+PAY_002397,debit card,Maestro
+PAY_002398,credit card,PayPal
+PAY_002399,Cash,MasterCard
+PAY_002400,credit card,Visa
+PAY_002401,Mobile Payment,Maestro
+PAY_002402,credit card,PayPal
+PAY_002403,credit card,Amex
+PAY_002404,debit card,Amex
+PAY_002405,debit card,Maestro
+PAY_002406,Mobile Payment,MasterCard
+PAY_002407,Mobile Payment,Visa
+PAY_002408,credit card,MasterCard
+PAY_002409,credit card,PayPal
+PAY_002410,Cash,MasterCard
+PAY_002411,Mobile Payment,Maestro
+PAY_002412,Cash,PayPal
+PAY_002413,Cash,Maestro
+PAY_002414,Mobile Payment,Visa
+PAY_002415,debit card,Maestro
+PAY_002416,credit card,PayPal
+PAY_002417,Cash,MasterCard
+PAY_002418,credit card,Visa
+PAY_002419,debit card,MasterCard
+PAY_002420,credit card,Visa
+PAY_002421,Mobile Payment,MasterCard
+PAY_002422,Cash,Amex
+PAY_002423,Mobile Payment,MasterCard
+PAY_002424,credit card,PayPal
+PAY_002425,credit card,PayPal
+PAY_002426,Mobile Payment,PayPal
+PAY_002427,Cash,Visa
+PAY_002428,debit card,Visa
+PAY_002429,credit card,Visa
+PAY_002430,Mobile Payment,Maestro
+PAY_002431,credit card,PayPal
+PAY_002432,Cash,Amex
+PAY_002433,Cash,Visa
+PAY_002434,credit card,PayPal
+PAY_002435,Mobile Payment,Amex
+PAY_002436,Mobile Payment,Visa
+PAY_002437,debit card,MasterCard
+PAY_002438,credit card,Amex
+PAY_002439,debit card,Amex
+PAY_002440,debit card,Visa
+PAY_002441,credit card,MasterCard
+PAY_002442,Cash,Visa
+PAY_002443,Cash,Maestro
+PAY_002444,Mobile Payment,Visa
+PAY_002445,debit card,Amex
+PAY_002446,Mobile Payment,MasterCard
+PAY_002447,Cash,Amex
+PAY_002448,credit card,Visa
+PAY_002449,credit card,Visa
+PAY_002450,Cash,MasterCard
+PAY_002451,credit card,Amex
+PAY_002452,credit card,Amex
+PAY_002453,Cash,Maestro
+PAY_002454,Mobile Payment,PayPal
+PAY_002455,Mobile Payment,MasterCard
+PAY_002456,debit card,Maestro
+PAY_002457,Cash,Amex
+PAY_002458,credit card,PayPal
+PAY_002459,Mobile Payment,PayPal
+PAY_002460,credit card,Visa
+PAY_002461,debit card,Amex
+PAY_002462,Cash,Visa
+PAY_002463,Cash,MasterCard
+PAY_002464,debit card,Visa
+PAY_002465,Mobile Payment,Visa
+PAY_002466,Cash,Amex
+PAY_002467,Cash,Amex
+PAY_002468,Cash,Amex
+PAY_002469,credit card,Maestro
+PAY_002470,credit card,Maestro
+PAY_002471,Mobile Payment,PayPal
+PAY_002472,Cash,Visa
+PAY_002473,credit card,MasterCard
+PAY_002474,Cash,Visa
+PAY_002475,credit card,Amex
+PAY_002476,credit card,PayPal
+PAY_002477,Cash,Maestro
+PAY_002478,credit card,Maestro
+PAY_002479,Cash,PayPal
+PAY_002480,debit card,Visa
+PAY_002481,debit card,MasterCard
+PAY_002482,debit card,Maestro
+PAY_002483,debit card,PayPal
+PAY_002484,credit card,PayPal
+PAY_002485,debit card,PayPal
+PAY_002486,credit card,Visa
+PAY_002487,Cash,MasterCard
+PAY_002488,debit card,Amex
+PAY_002489,credit card,MasterCard
+PAY_002490,credit card,Amex
+PAY_002491,Mobile Payment,PayPal
+PAY_002492,Cash,Visa
+PAY_002493,debit card,Maestro
+PAY_002494,Cash,Maestro
+PAY_002495,Mobile Payment,MasterCard
+PAY_002496,debit card,PayPal
+PAY_002497,debit card,Maestro
+PAY_002498,Mobile Payment,Maestro
+PAY_002499,debit card,Visa
+PAY_002500,Mobile Payment,Maestro
+PAY_002501,Mobile Payment,PayPal
+PAY_002502,credit card,PayPal
+PAY_002503,debit card,MasterCard
+PAY_002504,credit card,PayPal
+PAY_002505,Cash,Maestro
+PAY_002506,Cash,Visa
+PAY_002507,credit card,MasterCard
+PAY_002508,debit card,Maestro
+PAY_002509,debit card,MasterCard
+PAY_002510,credit card,PayPal
+PAY_002511,debit card,MasterCard
+PAY_002512,Mobile Payment,Maestro
+PAY_002513,Mobile Payment,Amex
+PAY_002514,Cash,PayPal
+PAY_002515,credit card,Visa
+PAY_002516,credit card,MasterCard
+PAY_002517,debit card,MasterCard
+PAY_002518,Mobile Payment,Amex
+PAY_002519,Mobile Payment,PayPal
+PAY_002520,Mobile Payment,Visa
+PAY_002521,credit card,Amex
+PAY_002522,credit card,MasterCard
+PAY_002523,Cash,MasterCard
+PAY_002524,credit card,PayPal
+PAY_002525,credit card,MasterCard
+PAY_002526,credit card,Visa
+PAY_002527,debit card,Maestro
+PAY_002528,Mobile Payment,Visa
+PAY_002529,debit card,Visa
+PAY_002530,Cash,MasterCard
+PAY_002531,Mobile Payment,PayPal
+PAY_002532,Mobile Payment,Visa
+PAY_002533,Cash,Maestro
+PAY_002534,Mobile Payment,MasterCard
+PAY_002535,credit card,Visa
+PAY_002536,Cash,MasterCard
+PAY_002537,Cash,Amex
+PAY_002538,credit card,Maestro
+PAY_002539,Cash,Maestro
+PAY_002540,debit card,Amex
+PAY_002541,Cash,Maestro
+PAY_002542,Cash,MasterCard
+PAY_002543,credit card,Amex
+PAY_002544,debit card,MasterCard
+PAY_002545,debit card,Visa
+PAY_002546,credit card,PayPal
+PAY_002547,Cash,Maestro
+PAY_002548,credit card,Amex
+PAY_002549,debit card,MasterCard
+PAY_002550,Cash,Amex
+PAY_002551,Mobile Payment,Visa
+PAY_002552,Mobile Payment,PayPal
+PAY_002553,debit card,MasterCard
+PAY_002554,credit card,Maestro
+PAY_002555,debit card,MasterCard
+PAY_002556,Mobile Payment,Amex
+PAY_002557,credit card,PayPal
+PAY_002558,Mobile Payment,Amex
+PAY_002559,Mobile Payment,Amex
+PAY_002560,credit card,Visa
+PAY_002561,credit card,Amex
+PAY_002562,Mobile Payment,Amex
+PAY_002563,Cash,Maestro
+PAY_002564,Cash,Amex
+PAY_002565,credit card,Visa
+PAY_002566,Cash,Visa
+PAY_002567,Cash,MasterCard
+PAY_002568,credit card,MasterCard
+PAY_002569,debit card,Maestro
+PAY_002570,Cash,Maestro
+PAY_002571,Cash,MasterCard
+PAY_002572,Cash,Maestro
+PAY_002573,Cash,MasterCard
+PAY_002574,credit card,Maestro
+PAY_002575,debit card,PayPal
+PAY_002576,credit card,PayPal
+PAY_002577,Cash,MasterCard
+PAY_002578,credit card,PayPal
+PAY_002579,Cash,MasterCard
+PAY_002580,Mobile Payment,MasterCard
+PAY_002581,credit card,MasterCard
+PAY_002582,credit card,Maestro
+PAY_002583,credit card,MasterCard
+PAY_002584,credit card,Visa
+PAY_002585,Mobile Payment,MasterCard
+PAY_002586,debit card,Amex
+PAY_002587,debit card,PayPal
+PAY_002588,debit card,Visa
+PAY_002589,credit card,MasterCard
+PAY_002590,Cash,MasterCard
+PAY_002591,debit card,Visa
+PAY_002592,Cash,Visa
+PAY_002593,Mobile Payment,Amex
+PAY_002594,Cash,Maestro
+PAY_002595,credit card,Visa
+PAY_002596,debit card,Visa
+PAY_002597,Cash,Visa
+PAY_002598,credit card,Visa
+PAY_002599,credit card,PayPal
+PAY_002600,Cash,Maestro
+PAY_002601,debit card,PayPal
+PAY_002602,credit card,Visa
+PAY_002603,debit card,Amex
+PAY_002604,Cash,Visa
+PAY_002605,credit card,MasterCard
+PAY_002606,Cash,Amex
+PAY_002607,credit card,Maestro
+PAY_002608,Cash,Visa
+PAY_002609,Cash,Maestro
+PAY_002610,debit card,MasterCard
+PAY_002611,Cash,MasterCard
+PAY_002612,Mobile Payment,Visa
+PAY_002613,Mobile Payment,Maestro
+PAY_002614,Cash,MasterCard
+PAY_002615,Cash,Maestro
+PAY_002616,Mobile Payment,PayPal
+PAY_002617,credit card,MasterCard
+PAY_002618,Mobile Payment,Amex
+PAY_002619,credit card,PayPal
+PAY_002620,Mobile Payment,Amex
+PAY_002621,debit card,MasterCard
+PAY_002622,credit card,Visa
+PAY_002623,Mobile Payment,MasterCard
+PAY_002624,Cash,Maestro
+PAY_002625,Cash,PayPal
+PAY_002626,Mobile Payment,MasterCard
+PAY_002627,debit card,MasterCard
+PAY_002628,Mobile Payment,Visa
+PAY_002629,Cash,Visa
+PAY_002630,debit card,PayPal
+PAY_002631,debit card,MasterCard
+PAY_002632,debit card,MasterCard
+PAY_002633,Mobile Payment,MasterCard
+PAY_002634,Mobile Payment,MasterCard
+PAY_002635,Cash,PayPal
+PAY_002636,Mobile Payment,Visa
+PAY_002637,credit card,Visa
+PAY_002638,credit card,Amex
+PAY_002639,Mobile Payment,PayPal
+PAY_002640,Cash,Amex
+PAY_002641,credit card,PayPal
+PAY_002642,debit card,Amex
+PAY_002643,credit card,PayPal
+PAY_002644,credit card,PayPal
+PAY_002645,debit card,PayPal
+PAY_002646,Mobile Payment,PayPal
+PAY_002647,Cash,PayPal
+PAY_002648,debit card,Visa
+PAY_002649,Cash,Visa
+PAY_002650,credit card,Amex
+PAY_002651,credit card,Amex
+PAY_002652,credit card,Amex
+PAY_002653,credit card,Maestro
+PAY_002654,debit card,Amex
+PAY_002655,debit card,Maestro
+PAY_002656,debit card,Maestro
+PAY_002657,Mobile Payment,Amex
+PAY_002658,Mobile Payment,Maestro
+PAY_002659,Cash,PayPal
+PAY_002660,debit card,Amex
+PAY_002661,debit card,Amex
+PAY_002662,debit card,Maestro
+PAY_002663,Mobile Payment,Visa
+PAY_002664,credit card,MasterCard
+PAY_002665,credit card,Amex
+PAY_002666,Cash,PayPal
+PAY_002667,Cash,Maestro
+PAY_002668,debit card,PayPal
+PAY_002669,debit card,MasterCard
+PAY_002670,debit card,Visa
+PAY_002671,debit card,PayPal
+PAY_002672,Cash,MasterCard
+PAY_002673,debit card,Maestro
+PAY_002674,Cash,Visa
+PAY_002675,Mobile Payment,Maestro
+PAY_002676,Mobile Payment,MasterCard
+PAY_002677,Mobile Payment,Visa
+PAY_002678,Mobile Payment,PayPal
+PAY_002679,Mobile Payment,Maestro
+PAY_002680,Cash,Maestro
+PAY_002681,Mobile Payment,Maestro
+PAY_002682,debit card,MasterCard
+PAY_002683,debit card,MasterCard
+PAY_002684,Mobile Payment,MasterCard
+PAY_002685,debit card,MasterCard
+PAY_002686,debit card,Maestro
+PAY_002687,Mobile Payment,Visa
+PAY_002688,debit card,PayPal
+PAY_002689,credit card,PayPal
+PAY_002690,Cash,Maestro
+PAY_002691,credit card,PayPal
+PAY_002692,Mobile Payment,Visa
+PAY_002693,Mobile Payment,MasterCard
+PAY_002694,Cash,Amex
+PAY_002695,Mobile Payment,Visa
+PAY_002696,Mobile Payment,MasterCard
+PAY_002697,debit card,PayPal
+PAY_002698,credit card,Visa
+PAY_002699,Cash,PayPal
+PAY_002700,Mobile Payment,PayPal
+PAY_002701,Cash,MasterCard
+PAY_002702,Mobile Payment,Maestro
+PAY_002703,credit card,MasterCard
+PAY_002704,Mobile Payment,PayPal
+PAY_002705,Mobile Payment,Maestro
+PAY_002706,Mobile Payment,Visa
+PAY_002707,credit card,Visa
+PAY_002708,credit card,Maestro
+PAY_002709,debit card,MasterCard
+PAY_002710,Mobile Payment,Maestro
+PAY_002711,Cash,Amex
+PAY_002712,Mobile Payment,MasterCard
+PAY_002713,debit card,Visa
+PAY_002714,Mobile Payment,Amex
+PAY_002715,Mobile Payment,MasterCard
+PAY_002716,credit card,Amex
+PAY_002717,Cash,Visa
+PAY_002718,debit card,PayPal
+PAY_002719,Mobile Payment,PayPal
+PAY_002720,Mobile Payment,Amex
+PAY_002721,debit card,MasterCard
+PAY_002722,Cash,MasterCard
+PAY_002723,credit card,Amex
+PAY_002724,Cash,PayPal
+PAY_002725,debit card,Visa
+PAY_002726,debit card,Amex
+PAY_002727,Mobile Payment,Amex
+PAY_002728,Mobile Payment,Amex
+PAY_002729,Cash,PayPal
+PAY_002730,Mobile Payment,Amex
+PAY_002731,credit card,PayPal
+PAY_002732,Mobile Payment,PayPal
+PAY_002733,debit card,Maestro
+PAY_002734,Cash,Maestro
+PAY_002735,Cash,PayPal
+PAY_002736,debit card,PayPal
+PAY_002737,debit card,MasterCard
+PAY_002738,Cash,Maestro
+PAY_002739,Mobile Payment,MasterCard
+PAY_002740,credit card,Amex
+PAY_002741,debit card,Amex
+PAY_002742,Mobile Payment,MasterCard
+PAY_002743,credit card,PayPal
+PAY_002744,credit card,Amex
+PAY_002745,Mobile Payment,Maestro
+PAY_002746,Cash,MasterCard
+PAY_002747,debit card,PayPal
+PAY_002748,credit card,Visa
+PAY_002749,debit card,Amex
+PAY_002750,credit card,PayPal
+PAY_002751,credit card,MasterCard
+PAY_002752,Cash,MasterCard
+PAY_002753,Mobile Payment,Maestro
+PAY_002754,Cash,Visa
+PAY_002755,debit card,Visa
+PAY_002756,debit card,Visa
+PAY_002757,Cash,MasterCard
+PAY_002758,Mobile Payment,Maestro
+PAY_002759,debit card,PayPal
+PAY_002760,debit card,PayPal
+PAY_002761,credit card,PayPal
+PAY_002762,Mobile Payment,MasterCard
+PAY_002763,debit card,MasterCard
+PAY_002764,debit card,Visa
+PAY_002765,Mobile Payment,Amex
+PAY_002766,debit card,MasterCard
+PAY_002767,debit card,MasterCard
+PAY_002768,debit card,Amex
+PAY_002769,credit card,Maestro
+PAY_002770,debit card,Maestro
+PAY_002771,debit card,MasterCard
+PAY_002772,Mobile Payment,MasterCard
+PAY_002773,Cash,PayPal
+PAY_002774,Mobile Payment,Amex
+PAY_002775,Cash,MasterCard
+PAY_002776,Mobile Payment,Visa
+PAY_002777,Cash,MasterCard
+PAY_002778,Mobile Payment,PayPal
+PAY_002779,Cash,Maestro
+PAY_002780,Mobile Payment,PayPal
+PAY_002781,Cash,Maestro
+PAY_002782,Mobile Payment,MasterCard
+PAY_002783,Cash,Amex
+PAY_002784,Cash,PayPal
+PAY_002785,credit card,Maestro
+PAY_002786,Cash,MasterCard
+PAY_002787,Cash,Maestro
+PAY_002788,debit card,Visa
+PAY_002789,Cash,MasterCard
+PAY_002790,Cash,MasterCard
+PAY_002791,Mobile Payment,Maestro
+PAY_002792,credit card,Visa
+PAY_002793,debit card,Amex
+PAY_002794,Mobile Payment,Maestro
+PAY_002795,credit card,Visa
+PAY_002796,debit card,Maestro
+PAY_002797,debit card,PayPal
+PAY_002798,Cash,Amex
+PAY_002799,debit card,Maestro
+PAY_002800,debit card,PayPal
+PAY_002801,Mobile Payment,Visa
+PAY_002802,debit card,Maestro
+PAY_002803,debit card,PayPal
+PAY_002804,Cash,Maestro
+PAY_002805,Mobile Payment,Visa
+PAY_002806,Mobile Payment,Amex
+PAY_002807,Cash,PayPal
+PAY_002808,Cash,Amex
+PAY_002809,credit card,Visa
+PAY_002810,debit card,Maestro
+PAY_002811,credit card,MasterCard
+PAY_002812,Cash,Amex
+PAY_002813,Cash,Visa
+PAY_002814,Cash,Visa
+PAY_002815,Mobile Payment,Maestro
+PAY_002816,credit card,Amex
+PAY_002817,credit card,Maestro
+PAY_002818,Mobile Payment,PayPal
+PAY_002819,credit card,Amex
+PAY_002820,Cash,Maestro
+PAY_002821,credit card,Visa
+PAY_002822,debit card,Maestro
+PAY_002823,credit card,Visa
+PAY_002824,debit card,MasterCard
+PAY_002825,Mobile Payment,PayPal
+PAY_002826,debit card,Maestro
+PAY_002827,Cash,Maestro
+PAY_002828,credit card,Amex
+PAY_002829,credit card,Maestro
+PAY_002830,credit card,PayPal
+PAY_002831,Cash,PayPal
+PAY_002832,debit card,MasterCard
+PAY_002833,debit card,MasterCard
+PAY_002834,credit card,Maestro
+PAY_002835,Mobile Payment,Maestro
+PAY_002836,debit card,Maestro
+PAY_002837,credit card,PayPal
+PAY_002838,Cash,Visa
+PAY_002839,Cash,Visa
+PAY_002840,Mobile Payment,MasterCard
+PAY_002841,Mobile Payment,MasterCard
+PAY_002842,Mobile Payment,Amex
+PAY_002843,debit card,MasterCard
+PAY_002844,debit card,Visa
+PAY_002845,Cash,MasterCard
+PAY_002846,debit card,Maestro
+PAY_002847,Mobile Payment,PayPal
+PAY_002848,credit card,Maestro
+PAY_002849,credit card,MasterCard
+PAY_002850,Cash,Visa
+PAY_002851,Mobile Payment,Maestro
+PAY_002852,credit card,Maestro
+PAY_002853,credit card,MasterCard
+PAY_002854,credit card,Visa
+PAY_002855,Mobile Payment,Maestro
+PAY_002856,Cash,Visa
+PAY_002857,Cash,PayPal
+PAY_002858,Mobile Payment,MasterCard
+PAY_002859,debit card,Visa
+PAY_002860,credit card,Amex
+PAY_002861,credit card,Visa
+PAY_002862,Cash,PayPal
+PAY_002863,Cash,PayPal
+PAY_002864,Mobile Payment,Visa
+PAY_002865,Cash,Amex
+PAY_002866,Mobile Payment,Visa
+PAY_002867,debit card,MasterCard
+PAY_002868,credit card,Maestro
+PAY_002869,credit card,Amex
+PAY_002870,Cash,MasterCard
+PAY_002871,credit card,PayPal
+PAY_002872,Cash,Amex
+PAY_002873,credit card,Maestro
+PAY_002874,Cash,PayPal
+PAY_002875,Cash,Maestro
+PAY_002876,Cash,Amex
+PAY_002877,Mobile Payment,Amex
+PAY_002878,debit card,Visa
+PAY_002879,Mobile Payment,MasterCard
+PAY_002880,credit card,Maestro
+PAY_002881,debit card,Maestro
+PAY_002882,debit card,MasterCard
+PAY_002883,debit card,Visa
+PAY_002884,debit card,PayPal
+PAY_002885,debit card,Maestro
+PAY_002886,Cash,Amex
+PAY_002887,credit card,Visa
+PAY_002888,credit card,MasterCard
+PAY_002889,debit card,Maestro
+PAY_002890,Mobile Payment,Maestro
+PAY_002891,Mobile Payment,PayPal
+PAY_002892,Cash,Amex
+PAY_002893,Mobile Payment,Maestro
+PAY_002894,credit card,Maestro
+PAY_002895,credit card,Maestro
+PAY_002896,Cash,Amex
+PAY_002897,credit card,PayPal
+PAY_002898,credit card,Amex
+PAY_002899,Cash,PayPal
+PAY_002900,Mobile Payment,PayPal
+PAY_002901,debit card,Amex
+PAY_002902,debit card,MasterCard
+PAY_002903,credit card,Amex
+PAY_002904,credit card,Amex
+PAY_002905,Cash,Visa
+PAY_002906,credit card,PayPal
+PAY_002907,Mobile Payment,Amex
+PAY_002908,debit card,Visa
+PAY_002909,Cash,Amex
+PAY_002910,Mobile Payment,Maestro
+PAY_002911,debit card,MasterCard
+PAY_002912,Mobile Payment,MasterCard
+PAY_002913,Cash,Maestro
+PAY_002914,Mobile Payment,Amex
+PAY_002915,debit card,Visa
+PAY_002916,debit card,Amex
+PAY_002917,credit card,Visa
+PAY_002918,Mobile Payment,PayPal
+PAY_002919,Cash,PayPal
+PAY_002920,credit card,Amex
+PAY_002921,Mobile Payment,Amex
+PAY_002922,credit card,Visa
+PAY_002923,credit card,MasterCard
+PAY_002924,credit card,PayPal
+PAY_002925,Cash,Visa
+PAY_002926,Cash,Maestro
+PAY_002927,debit card,PayPal
+PAY_002928,credit card,Visa
+PAY_002929,debit card,Amex
+PAY_002930,Cash,Visa
+PAY_002931,Mobile Payment,Visa
+PAY_002932,Mobile Payment,PayPal
+PAY_002933,credit card,Maestro
+PAY_002934,credit card,Maestro
+PAY_002935,Mobile Payment,Amex
+PAY_002936,credit card,Maestro
+PAY_002937,Cash,PayPal
+PAY_002938,Cash,Maestro
+PAY_002939,Mobile Payment,PayPal
+PAY_002940,credit card,Amex
+PAY_002941,Cash,MasterCard
+PAY_002942,Cash,Amex
+PAY_002943,debit card,Visa
+PAY_002944,credit card,Visa
+PAY_002945,Mobile Payment,PayPal
+PAY_002946,credit card,Visa
+PAY_002947,Mobile Payment,Visa
+PAY_002948,Cash,Visa
+PAY_002949,Mobile Payment,Maestro
+PAY_002950,credit card,Maestro
+PAY_002951,Mobile Payment,MasterCard
+PAY_002952,credit card,MasterCard
+PAY_002953,Mobile Payment,Maestro
+PAY_002954,credit card,PayPal
+PAY_002955,debit card,Amex
+PAY_002956,credit card,Visa
+PAY_002957,Cash,PayPal
+PAY_002958,debit card,Maestro
+PAY_002959,Mobile Payment,MasterCard
+PAY_002960,Mobile Payment,Amex
+PAY_002961,credit card,Visa
+PAY_002962,Mobile Payment,Visa
+PAY_002963,credit card,Amex
+PAY_002964,debit card,PayPal
+PAY_002965,Cash,Visa
+PAY_002966,Cash,PayPal
+PAY_002967,debit card,MasterCard
+PAY_002968,credit card,Amex
+PAY_002969,Cash,PayPal
+PAY_002970,debit card,Amex
+PAY_002971,debit card,Visa
+PAY_002972,Cash,MasterCard
+PAY_002973,credit card,MasterCard
+PAY_002974,debit card,MasterCard
+PAY_002975,debit card,Maestro
+PAY_002976,debit card,Amex
+PAY_002977,Cash,Visa
+PAY_002978,Mobile Payment,Amex
+PAY_002979,Mobile Payment,PayPal
+PAY_002980,debit card,Visa
+PAY_002981,Mobile Payment,Visa
+PAY_002982,debit card,PayPal
+PAY_002983,credit card,PayPal
+PAY_002984,credit card,Visa
+PAY_002985,Cash,Maestro
+PAY_002986,Mobile Payment,Visa
+PAY_002987,debit card,Amex
+PAY_002988,Mobile Payment,Amex
+PAY_002989,debit card,MasterCard
+PAY_002990,debit card,MasterCard
+PAY_002991,Cash,Visa
+PAY_002992,credit card,Maestro
+PAY_002993,Mobile Payment,PayPal
+PAY_002994,debit card,Visa
+PAY_002995,credit card,PayPal
+PAY_002996,credit card,PayPal
+PAY_002997,Cash,Amex
+PAY_002998,Cash,Maestro
+PAY_002999,debit card,Visa
+PAY_003000,Mobile Payment,Maestro
+PAY_003001,credit card,Amex
+PAY_003002,credit card,Visa
+PAY_003003,debit card,MasterCard
+PAY_003004,Mobile Payment,Visa
+PAY_003005,debit card,Maestro
+PAY_003006,Mobile Payment,Maestro
+PAY_003007,Cash,Amex
+PAY_003008,debit card,PayPal
+PAY_003009,debit card,MasterCard
+PAY_003010,credit card,PayPal
+PAY_003011,Cash,Visa
+PAY_003012,debit card,Amex
+PAY_003013,Cash,Amex
+PAY_003014,Cash,Amex
+PAY_003015,debit card,Visa
+PAY_003016,Cash,Amex
+PAY_003017,Cash,MasterCard
+PAY_003018,credit card,MasterCard
+PAY_003019,Cash,Visa
+PAY_003020,Cash,Maestro
+PAY_003021,debit card,Amex
+PAY_003022,Cash,Maestro
+PAY_003023,debit card,Visa
+PAY_003024,Cash,Maestro
+PAY_003025,Mobile Payment,Visa
+PAY_003026,Mobile Payment,Visa
+PAY_003027,credit card,PayPal
+PAY_003028,debit card,Maestro
+PAY_003029,Cash,Visa
+PAY_003030,Cash,Maestro
+PAY_003031,credit card,MasterCard
+PAY_003032,credit card,Amex
+PAY_003033,credit card,Visa
+PAY_003034,credit card,Amex
+PAY_003035,Cash,Visa
+PAY_003036,debit card,Maestro
+PAY_003037,Cash,Amex
+PAY_003038,credit card,Maestro
+PAY_003039,Mobile Payment,Visa
+PAY_003040,credit card,MasterCard
+PAY_003041,Cash,PayPal
+PAY_003042,Cash,MasterCard
+PAY_003043,Cash,Maestro
+PAY_003044,Mobile Payment,Maestro
+PAY_003045,credit card,Maestro
+PAY_003046,credit card,Amex
+PAY_003047,credit card,Maestro
+PAY_003048,Cash,MasterCard
+PAY_003049,debit card,MasterCard
+PAY_003050,debit card,MasterCard
+PAY_003051,Mobile Payment,Amex
+PAY_003052,debit card,Amex
+PAY_003053,Mobile Payment,Maestro
+PAY_003054,Cash,MasterCard
+PAY_003055,Cash,MasterCard
+PAY_003056,debit card,MasterCard
+PAY_003057,Cash,Visa
+PAY_003058,debit card,Maestro
+PAY_003059,credit card,PayPal
+PAY_003060,credit card,Amex
+PAY_003061,credit card,Amex
+PAY_003062,Cash,Maestro
+PAY_003063,Mobile Payment,PayPal
+PAY_003064,Mobile Payment,MasterCard
+PAY_003065,debit card,MasterCard
+PAY_003066,Cash,Amex
+PAY_003067,debit card,MasterCard
+PAY_003068,debit card,MasterCard
+PAY_003069,Mobile Payment,PayPal
+PAY_003070,Mobile Payment,Amex
+PAY_003071,debit card,Maestro
+PAY_003072,debit card,Visa
+PAY_003073,Mobile Payment,PayPal
+PAY_003074,Mobile Payment,Maestro
+PAY_003075,credit card,MasterCard
+PAY_003076,debit card,MasterCard
+PAY_003077,Cash,PayPal
+PAY_003078,Mobile Payment,MasterCard
+PAY_003079,Cash,Visa
+PAY_003080,Mobile Payment,Maestro
+PAY_003081,Mobile Payment,Maestro
+PAY_003082,Cash,MasterCard
+PAY_003083,credit card,PayPal
+PAY_003084,Cash,Visa
+PAY_003085,credit card,Visa
+PAY_003086,Mobile Payment,PayPal
+PAY_003087,Cash,Maestro
+PAY_003088,credit card,Maestro
+PAY_003089,credit card,Amex
+PAY_003090,debit card,Amex
+PAY_003091,credit card,Visa
+PAY_003092,Cash,MasterCard
+PAY_003093,Mobile Payment,PayPal
+PAY_003094,Mobile Payment,Maestro
+PAY_003095,Mobile Payment,PayPal
+PAY_003096,debit card,MasterCard
+PAY_003097,Cash,Visa
+PAY_003098,debit card,Maestro
+PAY_003099,Cash,Maestro
+PAY_003100,debit card,Maestro
+PAY_003101,debit card,Amex
+PAY_003102,debit card,Visa
+PAY_003103,Mobile Payment,MasterCard
+PAY_003104,Cash,PayPal
+PAY_003105,credit card,PayPal
+PAY_003106,credit card,Visa
+PAY_003107,debit card,PayPal
+PAY_003108,credit card,MasterCard
+PAY_003109,Cash,Amex
+PAY_003110,credit card,Maestro
+PAY_003111,credit card,Maestro
+PAY_003112,Mobile Payment,PayPal
+PAY_003113,Cash,Amex
+PAY_003114,debit card,MasterCard
+PAY_003115,Mobile Payment,PayPal
+PAY_003116,Mobile Payment,Visa
+PAY_003117,Cash,Visa
+PAY_003118,credit card,PayPal
+PAY_003119,Mobile Payment,MasterCard
+PAY_003120,Cash,Amex
+PAY_003121,debit card,Amex
+PAY_003122,Cash,Maestro
+PAY_003123,Mobile Payment,PayPal
+PAY_003124,debit card,Maestro
+PAY_003125,Cash,Visa
+PAY_003126,Mobile Payment,MasterCard
+PAY_003127,credit card,Visa
+PAY_003128,Cash,MasterCard
+PAY_003129,debit card,Visa
+PAY_003130,Cash,Maestro
+PAY_003131,debit card,Visa
+PAY_003132,Cash,Amex
+PAY_003133,Mobile Payment,MasterCard
+PAY_003134,Cash,Maestro
+PAY_003135,credit card,Visa
+PAY_003136,debit card,Amex
+PAY_003137,debit card,MasterCard
+PAY_003138,debit card,MasterCard
+PAY_003139,debit card,Maestro
+PAY_003140,Mobile Payment,PayPal
+PAY_003141,debit card,Visa
+PAY_003142,Mobile Payment,Visa
+PAY_003143,credit card,Visa
+PAY_003144,Mobile Payment,MasterCard
+PAY_003145,Cash,PayPal
+PAY_003146,Cash,Maestro
+PAY_003147,debit card,Maestro
+PAY_003148,Mobile Payment,PayPal
+PAY_003149,debit card,MasterCard
+PAY_003150,Cash,PayPal
+PAY_003151,credit card,PayPal
+PAY_003152,Mobile Payment,Maestro
+PAY_003153,debit card,PayPal
+PAY_003154,debit card,PayPal
+PAY_003155,Mobile Payment,Maestro
+PAY_003156,debit card,Maestro
+PAY_003157,debit card,Visa
+PAY_003158,credit card,PayPal
+PAY_003159,debit card,MasterCard
+PAY_003160,Mobile Payment,Amex
+PAY_003161,credit card,Visa
+PAY_003162,Cash,PayPal
+PAY_003163,credit card,Visa
+PAY_003164,Mobile Payment,Visa
+PAY_003165,Mobile Payment,Amex
+PAY_003166,credit card,Maestro
+PAY_003167,debit card,Visa
+PAY_003168,Mobile Payment,MasterCard
+PAY_003169,credit card,Amex
+PAY_003170,credit card,MasterCard
+PAY_003171,debit card,PayPal
+PAY_003172,Mobile Payment,MasterCard
+PAY_003173,Mobile Payment,PayPal
+PAY_003174,debit card,PayPal
+PAY_003175,Cash,Amex
+PAY_003176,credit card,MasterCard
+PAY_003177,credit card,Amex
+PAY_003178,Cash,PayPal
+PAY_003179,Cash,MasterCard
+PAY_003180,Mobile Payment,Visa
+PAY_003181,credit card,MasterCard
+PAY_003182,debit card,Maestro
+PAY_003183,credit card,Visa
+PAY_003184,Cash,Visa
+PAY_003185,Mobile Payment,Amex
+PAY_003186,Cash,Amex
+PAY_003187,debit card,MasterCard
+PAY_003188,Mobile Payment,Amex
+PAY_003189,Cash,Amex
+PAY_003190,Cash,Amex
+PAY_003191,debit card,Amex
+PAY_003192,credit card,Maestro
+PAY_003193,debit card,MasterCard
+PAY_003194,Mobile Payment,Maestro
+PAY_003195,Cash,Amex
+PAY_003196,credit card,MasterCard
+PAY_003197,credit card,Visa
+PAY_003198,credit card,MasterCard
+PAY_003199,Cash,Visa
+PAY_003200,Mobile Payment,PayPal
+PAY_003201,Cash,Maestro
+PAY_003202,credit card,Amex
+PAY_003203,Mobile Payment,PayPal
+PAY_003204,Cash,Amex
+PAY_003205,credit card,MasterCard
+PAY_003206,credit card,PayPal
+PAY_003207,Mobile Payment,Maestro
+PAY_003208,Mobile Payment,Maestro
+PAY_003209,Cash,PayPal
+PAY_003210,Mobile Payment,MasterCard
+PAY_003211,credit card,PayPal
+PAY_003212,debit card,MasterCard
+PAY_003213,credit card,Visa
+PAY_003214,Cash,Visa
+PAY_003215,debit card,Amex
+PAY_003216,Cash,PayPal
+PAY_003217,Cash,Maestro
+PAY_003218,debit card,PayPal
+PAY_003219,Mobile Payment,MasterCard
+PAY_003220,debit card,Visa
+PAY_003221,credit card,MasterCard
+PAY_003222,Mobile Payment,Visa
+PAY_003223,debit card,Maestro
+PAY_003224,Cash,MasterCard
+PAY_003225,debit card,Maestro
+PAY_003226,credit card,Amex
+PAY_003227,debit card,PayPal
+PAY_003228,debit card,MasterCard
+PAY_003229,credit card,Maestro
+PAY_003230,Mobile Payment,Visa
+PAY_003231,credit card,Amex
+PAY_003232,debit card,Maestro
+PAY_003233,Cash,Visa
+PAY_003234,debit card,Amex
+PAY_003235,debit card,Visa
+PAY_003236,credit card,Maestro
+PAY_003237,credit card,Visa
+PAY_003238,Mobile Payment,Visa
+PAY_003239,Cash,MasterCard
+PAY_003240,Cash,Visa
+PAY_003241,credit card,Maestro
+PAY_003242,Cash,PayPal
+PAY_003243,Cash,MasterCard
+PAY_003244,Cash,PayPal
+PAY_003245,Mobile Payment,Maestro
+PAY_003246,Cash,Amex
+PAY_003247,debit card,Amex
+PAY_003248,credit card,PayPal
+PAY_003249,credit card,Maestro
+PAY_003250,Cash,Visa
+PAY_003251,Cash,MasterCard
+PAY_003252,debit card,Visa
+PAY_003253,Mobile Payment,MasterCard
+PAY_003254,Cash,Maestro
+PAY_003255,debit card,Maestro
+PAY_003256,Cash,Visa
+PAY_003257,Mobile Payment,Maestro
+PAY_003258,credit card,Maestro
+PAY_003259,Mobile Payment,Amex
+PAY_003260,Mobile Payment,Amex
+PAY_003261,Mobile Payment,PayPal
+PAY_003262,Cash,Maestro
+PAY_003263,Mobile Payment,PayPal
+PAY_003264,credit card,Amex
+PAY_003265,Mobile Payment,Maestro
+PAY_003266,debit card,MasterCard
+PAY_003267,Cash,Amex
+PAY_003268,credit card,Amex
+PAY_003269,credit card,Maestro
+PAY_003270,Cash,MasterCard
+PAY_003271,Mobile Payment,MasterCard
+PAY_003272,credit card,MasterCard
+PAY_003273,Cash,Visa
+PAY_003274,credit card,PayPal
+PAY_003275,credit card,Amex
+PAY_003276,debit card,PayPal
+PAY_003277,debit card,PayPal
+PAY_003278,credit card,PayPal
+PAY_003279,Mobile Payment,MasterCard
+PAY_003280,Mobile Payment,MasterCard
+PAY_003281,Mobile Payment,Maestro
+PAY_003282,Mobile Payment,Amex
+PAY_003283,Mobile Payment,Amex
+PAY_003284,credit card,MasterCard
+PAY_003285,Cash,Amex
+PAY_003286,Mobile Payment,Visa
+PAY_003287,credit card,PayPal
+PAY_003288,credit card,Maestro
+PAY_003289,Cash,PayPal
+PAY_003290,Mobile Payment,MasterCard
+PAY_003291,Mobile Payment,PayPal
+PAY_003292,Mobile Payment,MasterCard
+PAY_003293,debit card,PayPal
+PAY_003294,debit card,PayPal
+PAY_003295,Cash,MasterCard
+PAY_003296,Mobile Payment,PayPal
+PAY_003297,Mobile Payment,PayPal
+PAY_003298,Cash,PayPal
+PAY_003299,Mobile Payment,Amex
+PAY_003300,Cash,Amex
+PAY_003301,credit card,PayPal
+PAY_003302,debit card,MasterCard
+PAY_003303,Cash,MasterCard
+PAY_003304,Mobile Payment,PayPal
+PAY_003305,Cash,Visa
+PAY_003306,Mobile Payment,Maestro
+PAY_003307,Cash,Maestro
+PAY_003308,Cash,Visa
+PAY_003309,credit card,Maestro
+PAY_003310,debit card,PayPal
+PAY_003311,debit card,Amex
+PAY_003312,debit card,Amex
+PAY_003313,credit card,MasterCard
+PAY_003314,debit card,MasterCard
+PAY_003315,Mobile Payment,PayPal
+PAY_003316,Mobile Payment,Amex
+PAY_003317,Mobile Payment,Visa
+PAY_003318,Cash,Visa
+PAY_003319,debit card,PayPal
+PAY_003320,Cash,Maestro
+PAY_003321,debit card,MasterCard
+PAY_003322,debit card,PayPal
+PAY_003323,Cash,Maestro
+PAY_003324,credit card,Visa
+PAY_003325,Mobile Payment,MasterCard
+PAY_003326,Cash,MasterCard
+PAY_003327,debit card,Amex
+PAY_003328,Cash,Maestro
+PAY_003329,credit card,Visa
+PAY_003330,Cash,Maestro
+PAY_003331,Cash,Visa
+PAY_003332,debit card,Maestro
+PAY_003333,Cash,Amex
+PAY_003334,Mobile Payment,Amex
+PAY_003335,Mobile Payment,PayPal
+PAY_003336,Cash,Maestro
+PAY_003337,Mobile Payment,MasterCard
+PAY_003338,credit card,Amex
+PAY_003339,Mobile Payment,Maestro
+PAY_003340,debit card,PayPal
+PAY_003341,debit card,MasterCard
+PAY_003342,Cash,Maestro
+PAY_003343,Mobile Payment,PayPal
+PAY_003344,credit card,Amex
+PAY_003345,Mobile Payment,PayPal
+PAY_003346,Cash,Amex
+PAY_003347,credit card,PayPal
+PAY_003348,Mobile Payment,Amex
+PAY_003349,Mobile Payment,MasterCard
+PAY_003350,Cash,MasterCard
+PAY_003351,Mobile Payment,Maestro
+PAY_003352,Mobile Payment,Amex
+PAY_003353,Cash,Visa
+PAY_003354,Mobile Payment,MasterCard
+PAY_003355,Mobile Payment,Maestro
+PAY_003356,credit card,PayPal
+PAY_003357,Cash,PayPal
+PAY_003358,debit card,PayPal
+PAY_003359,Mobile Payment,PayPal
+PAY_003360,credit card,MasterCard
+PAY_003361,debit card,Amex
+PAY_003362,debit card,Maestro
+PAY_003363,credit card,Amex
+PAY_003364,debit card,Maestro
+PAY_003365,Mobile Payment,Amex
+PAY_003366,credit card,PayPal
+PAY_003367,credit card,PayPal
+PAY_003368,Cash,MasterCard
+PAY_003369,debit card,MasterCard
+PAY_003370,Mobile Payment,MasterCard
+PAY_003371,Mobile Payment,MasterCard
+PAY_003372,debit card,Amex
+PAY_003373,credit card,PayPal
+PAY_003374,debit card,Visa
+PAY_003375,Mobile Payment,PayPal
+PAY_003376,Cash,Amex
+PAY_003377,debit card,PayPal
+PAY_003378,Cash,PayPal
+PAY_003379,Cash,PayPal
+PAY_003380,Mobile Payment,PayPal
+PAY_003381,credit card,Maestro
+PAY_003382,debit card,MasterCard
+PAY_003383,Cash,MasterCard
+PAY_003384,credit card,Maestro
+PAY_003385,debit card,PayPal
+PAY_003386,credit card,Maestro
+PAY_003387,Mobile Payment,Maestro
+PAY_003388,Cash,Amex
+PAY_003389,credit card,Amex
+PAY_003390,credit card,Maestro
+PAY_003391,Cash,Maestro
+PAY_003392,Cash,PayPal
+PAY_003393,Cash,MasterCard
+PAY_003394,credit card,Amex
+PAY_003395,Cash,MasterCard
+PAY_003396,Cash,MasterCard
+PAY_003397,Cash,Maestro
+PAY_003398,Mobile Payment,PayPal
+PAY_003399,Cash,MasterCard
+PAY_003400,Cash,Amex
+PAY_003401,Mobile Payment,MasterCard
+PAY_003402,credit card,PayPal
+PAY_003403,debit card,Maestro
+PAY_003404,credit card,MasterCard
+PAY_003405,debit card,MasterCard
+PAY_003406,Mobile Payment,Amex
+PAY_003407,credit card,MasterCard
+PAY_003408,Mobile Payment,Visa
+PAY_003409,debit card,Maestro
+PAY_003410,debit card,Visa
+PAY_003411,credit card,MasterCard
+PAY_003412,credit card,MasterCard
+PAY_003413,credit card,Visa
+PAY_003414,Cash,Visa
+PAY_003415,debit card,MasterCard
+PAY_003416,debit card,MasterCard
+PAY_003417,Mobile Payment,PayPal
+PAY_003418,debit card,Maestro
+PAY_003419,credit card,PayPal
+PAY_003420,debit card,PayPal
+PAY_003421,credit card,Amex
+PAY_003422,debit card,Amex
+PAY_003423,Mobile Payment,MasterCard
+PAY_003424,Mobile Payment,Visa
+PAY_003425,Cash,PayPal
+PAY_003426,Cash,Amex
+PAY_003427,Cash,Maestro
+PAY_003428,credit card,Maestro
+PAY_003429,Cash,PayPal
+PAY_003430,Mobile Payment,Visa
+PAY_003431,Mobile Payment,PayPal
+PAY_003432,debit card,PayPal
+PAY_003433,debit card,PayPal
+PAY_003434,credit card,MasterCard
+PAY_003435,credit card,MasterCard
+PAY_003436,Cash,Maestro
+PAY_003437,Mobile Payment,Visa
+PAY_003438,credit card,Amex
+PAY_003439,Cash,MasterCard
+PAY_003440,credit card,MasterCard
+PAY_003441,Cash,Amex
+PAY_003442,Mobile Payment,Maestro
+PAY_003443,Mobile Payment,Maestro
+PAY_003444,Cash,Maestro
+PAY_003445,Cash,PayPal
+PAY_003446,Mobile Payment,PayPal
+PAY_003447,debit card,PayPal
+PAY_003448,Mobile Payment,Maestro
+PAY_003449,credit card,Maestro
+PAY_003450,debit card,Maestro
+PAY_003451,Cash,Amex
+PAY_003452,credit card,Amex
+PAY_003453,Cash,Visa
+PAY_003454,credit card,Maestro
+PAY_003455,Mobile Payment,Visa
+PAY_003456,Mobile Payment,MasterCard
+PAY_003457,Mobile Payment,Visa
+PAY_003458,Cash,Maestro
+PAY_003459,Mobile Payment,Maestro
+PAY_003460,credit card,Visa
+PAY_003461,credit card,MasterCard
+PAY_003462,credit card,Amex
+PAY_003463,credit card,Maestro
+PAY_003464,Cash,Amex
+PAY_003465,debit card,MasterCard
+PAY_003466,Cash,Maestro
+PAY_003467,credit card,MasterCard
+PAY_003468,credit card,PayPal
+PAY_003469,credit card,Maestro
+PAY_003470,debit card,MasterCard
+PAY_003471,Mobile Payment,PayPal
+PAY_003472,debit card,Amex
+PAY_003473,Mobile Payment,Visa
+PAY_003474,Mobile Payment,Maestro
+PAY_003475,debit card,Visa
+PAY_003476,debit card,Amex
+PAY_003477,debit card,Amex
+PAY_003478,credit card,Visa
+PAY_003479,Cash,PayPal
+PAY_003480,Cash,Visa
+PAY_003481,Cash,PayPal
+PAY_003482,debit card,PayPal
+PAY_003483,debit card,Amex
+PAY_003484,debit card,MasterCard
+PAY_003485,credit card,Maestro
+PAY_003486,Cash,Amex
+PAY_003487,Cash,Amex
+PAY_003488,credit card,MasterCard
+PAY_003489,debit card,Visa
+PAY_003490,debit card,MasterCard
+PAY_003491,debit card,Maestro
+PAY_003492,credit card,MasterCard
+PAY_003493,Mobile Payment,Maestro
+PAY_003494,Cash,Visa
+PAY_003495,debit card,PayPal
+PAY_003496,credit card,PayPal
+PAY_003497,Mobile Payment,PayPal
+PAY_003498,Mobile Payment,Amex
+PAY_003499,credit card,Amex
+PAY_003500,debit card,MasterCard
+PAY_003501,debit card,PayPal
+PAY_003502,Cash,Maestro
+PAY_003503,credit card,Visa
+PAY_003504,Mobile Payment,Maestro
+PAY_003505,Mobile Payment,Visa
+PAY_003506,Mobile Payment,PayPal
+PAY_003507,Cash,Maestro
+PAY_003508,Cash,MasterCard
+PAY_003509,Mobile Payment,PayPal
+PAY_003510,Cash,Visa
+PAY_003511,credit card,Amex
+PAY_003512,credit card,MasterCard
+PAY_003513,debit card,Visa
+PAY_003514,Cash,Maestro
+PAY_003515,credit card,PayPal
+PAY_003516,credit card,MasterCard
+PAY_003517,credit card,Visa
+PAY_003518,Cash,PayPal
+PAY_003519,Cash,Amex
+PAY_003520,debit card,Maestro
+PAY_003521,debit card,MasterCard
+PAY_003522,Mobile Payment,Amex
+PAY_003523,credit card,MasterCard
+PAY_003524,Cash,MasterCard
+PAY_003525,debit card,Visa
+PAY_003526,Mobile Payment,Amex
+PAY_003527,debit card,Maestro
+PAY_003528,Cash,MasterCard
+PAY_003529,Cash,Amex
+PAY_003530,Mobile Payment,PayPal
+PAY_003531,credit card,MasterCard
+PAY_003532,credit card,MasterCard
+PAY_003533,debit card,PayPal
+PAY_003534,debit card,MasterCard
+PAY_003535,credit card,Maestro
+PAY_003536,Cash,MasterCard
+PAY_003537,Cash,MasterCard
+PAY_003538,Mobile Payment,Visa
+PAY_003539,debit card,MasterCard
+PAY_003540,credit card,MasterCard
+PAY_003541,debit card,Amex
+PAY_003542,Cash,MasterCard
+PAY_003543,Mobile Payment,PayPal
+PAY_003544,Cash,Amex
+PAY_003545,Cash,Amex
+PAY_003546,credit card,Maestro
+PAY_003547,Mobile Payment,Visa
+PAY_003548,Cash,Visa
+PAY_003549,debit card,Amex
+PAY_003550,credit card,PayPal
+PAY_003551,Cash,MasterCard
+PAY_003552,Mobile Payment,PayPal
+PAY_003553,credit card,PayPal
+PAY_003554,credit card,MasterCard
+PAY_003555,credit card,Maestro
+PAY_003556,credit card,Amex
+PAY_003557,debit card,Amex
+PAY_003558,credit card,Amex
+PAY_003559,credit card,Visa
+PAY_003560,credit card,MasterCard
+PAY_003561,Mobile Payment,MasterCard
+PAY_003562,Mobile Payment,Maestro
+PAY_003563,Mobile Payment,PayPal
+PAY_003564,credit card,Maestro
+PAY_003565,Cash,Amex
+PAY_003566,credit card,Amex
+PAY_003567,debit card,PayPal
+PAY_003568,Mobile Payment,MasterCard
+PAY_003569,Mobile Payment,MasterCard
+PAY_003570,Mobile Payment,Amex
+PAY_003571,Cash,Visa
+PAY_003572,credit card,PayPal
+PAY_003573,credit card,MasterCard
+PAY_003574,Cash,Maestro
+PAY_003575,Cash,Amex
+PAY_003576,Mobile Payment,MasterCard
+PAY_003577,Cash,Visa
+PAY_003578,Mobile Payment,MasterCard
+PAY_003579,Cash,Visa
+PAY_003580,debit card,PayPal
+PAY_003581,credit card,PayPal
+PAY_003582,credit card,Amex
+PAY_003583,Cash,MasterCard
+PAY_003584,Mobile Payment,PayPal
+PAY_003585,Cash,Maestro
+PAY_003586,Cash,PayPal
+PAY_003587,Cash,Visa
+PAY_003588,Mobile Payment,MasterCard
+PAY_003589,credit card,Amex
+PAY_003590,debit card,PayPal
+PAY_003591,Mobile Payment,Amex
+PAY_003592,debit card,Amex
+PAY_003593,debit card,Amex
+PAY_003594,credit card,Maestro
+PAY_003595,Mobile Payment,PayPal
+PAY_003596,Cash,PayPal
+PAY_003597,debit card,PayPal
+PAY_003598,debit card,MasterCard
+PAY_003599,debit card,Maestro
+PAY_003600,Mobile Payment,Visa
+PAY_003601,Cash,Maestro
+PAY_003602,Cash,MasterCard
+PAY_003603,debit card,Maestro
+PAY_003604,credit card,MasterCard
+PAY_003605,Cash,PayPal
+PAY_003606,credit card,PayPal
+PAY_003607,Cash,Amex
+PAY_003608,Cash,Maestro
+PAY_003609,Mobile Payment,Maestro
+PAY_003610,credit card,PayPal
+PAY_003611,Mobile Payment,Maestro
+PAY_003612,Cash,MasterCard
+PAY_003613,debit card,Visa
+PAY_003614,Cash,Amex
+PAY_003615,Cash,Amex
+PAY_003616,Mobile Payment,Amex
+PAY_003617,credit card,Visa
+PAY_003618,Mobile Payment,Maestro
+PAY_003619,Cash,PayPal
+PAY_003620,debit card,Maestro
+PAY_003621,debit card,Maestro
+PAY_003622,debit card,MasterCard
+PAY_003623,Cash,Visa
+PAY_003624,credit card,MasterCard
+PAY_003625,credit card,MasterCard
+PAY_003626,credit card,Visa
+PAY_003627,Mobile Payment,PayPal
+PAY_003628,credit card,PayPal
+PAY_003629,Mobile Payment,Amex
+PAY_003630,Cash,Maestro
+PAY_003631,Cash,MasterCard
+PAY_003632,Cash,Visa
+PAY_003633,Cash,MasterCard
+PAY_003634,credit card,Visa
+PAY_003635,Cash,Visa
+PAY_003636,Cash,Amex
+PAY_003637,Cash,Amex
+PAY_003638,Mobile Payment,PayPal
+PAY_003639,debit card,MasterCard
+PAY_003640,Mobile Payment,Amex
+PAY_003641,Cash,PayPal
+PAY_003642,debit card,Maestro
+PAY_003643,Cash,Visa
+PAY_003644,Mobile Payment,PayPal
+PAY_003645,Mobile Payment,MasterCard
+PAY_003646,Cash,Amex
+PAY_003647,Cash,MasterCard
+PAY_003648,Mobile Payment,MasterCard
+PAY_003649,Cash,Visa
+PAY_003650,Cash,Amex
+PAY_003651,debit card,Amex
+PAY_003652,credit card,MasterCard
+PAY_003653,credit card,Visa
+PAY_003654,debit card,Maestro
+PAY_003655,Mobile Payment,Amex
+PAY_003656,Mobile Payment,PayPal
+PAY_003657,credit card,Maestro
+PAY_003658,Cash,Maestro
+PAY_003659,Cash,PayPal
+PAY_003660,Cash,PayPal
+PAY_003661,Cash,Visa
+PAY_003662,debit card,Amex
+PAY_003663,debit card,Amex
+PAY_003664,debit card,MasterCard
+PAY_003665,debit card,Visa
+PAY_003666,Cash,Visa
+PAY_003667,Cash,Visa
+PAY_003668,Mobile Payment,MasterCard
+PAY_003669,Cash,Visa
+PAY_003670,Cash,Amex
+PAY_003671,credit card,Amex
+PAY_003672,debit card,Amex
+PAY_003673,debit card,Maestro
+PAY_003674,Cash,MasterCard
+PAY_003675,credit card,Visa
+PAY_003676,credit card,Amex
+PAY_003677,Mobile Payment,PayPal
+PAY_003678,debit card,Maestro
+PAY_003679,credit card,MasterCard
+PAY_003680,Mobile Payment,Visa
+PAY_003681,Mobile Payment,Amex
+PAY_003682,debit card,Maestro
+PAY_003683,Mobile Payment,Amex
+PAY_003684,Cash,Maestro
+PAY_003685,credit card,Maestro
+PAY_003686,Mobile Payment,PayPal
+PAY_003687,Mobile Payment,Visa
+PAY_003688,Cash,Amex
+PAY_003689,Mobile Payment,Maestro
+PAY_003690,debit card,Amex
+PAY_003691,debit card,Maestro
+PAY_003692,credit card,Maestro
+PAY_003693,debit card,Visa
+PAY_003694,credit card,Maestro
+PAY_003695,Mobile Payment,Amex
+PAY_003696,Cash,Visa
+PAY_003697,Mobile Payment,MasterCard
+PAY_003698,debit card,MasterCard
+PAY_003699,debit card,Visa
+PAY_003700,debit card,Maestro
+PAY_003701,Cash,MasterCard
+PAY_003702,Cash,PayPal
+PAY_003703,credit card,Amex
+PAY_003704,Cash,PayPal
+PAY_003705,Cash,MasterCard
+PAY_003706,Mobile Payment,Visa
+PAY_003707,Mobile Payment,Maestro
+PAY_003708,Cash,Amex
+PAY_003709,debit card,PayPal
+PAY_003710,debit card,Visa
+PAY_003711,Mobile Payment,Visa
+PAY_003712,Cash,MasterCard
+PAY_003713,Mobile Payment,Maestro
+PAY_003714,Cash,Amex
+PAY_003715,debit card,PayPal
+PAY_003716,Mobile Payment,MasterCard
+PAY_003717,debit card,PayPal
+PAY_003718,debit card,MasterCard
+PAY_003719,credit card,Visa
+PAY_003720,credit card,PayPal
+PAY_003721,Mobile Payment,MasterCard
+PAY_003722,debit card,Amex
+PAY_003723,credit card,Maestro
+PAY_003724,debit card,MasterCard
+PAY_003725,credit card,Maestro
+PAY_003726,debit card,PayPal
+PAY_003727,Cash,Amex
+PAY_003728,credit card,MasterCard
+PAY_003729,debit card,PayPal
+PAY_003730,Cash,Amex
+PAY_003731,Cash,Visa
+PAY_003732,Mobile Payment,Amex
+PAY_003733,credit card,Maestro
+PAY_003734,credit card,Visa
+PAY_003735,debit card,PayPal
+PAY_003736,debit card,PayPal
+PAY_003737,debit card,MasterCard
+PAY_003738,debit card,Visa
+PAY_003739,Mobile Payment,Maestro
+PAY_003740,Mobile Payment,PayPal
+PAY_003741,Mobile Payment,Amex
+PAY_003742,Mobile Payment,PayPal
+PAY_003743,Cash,MasterCard
+PAY_003744,credit card,PayPal
+PAY_003745,Cash,Visa
+PAY_003746,credit card,Visa
+PAY_003747,credit card,PayPal
+PAY_003748,credit card,PayPal
+PAY_003749,Mobile Payment,PayPal
+PAY_003750,Mobile Payment,Maestro
+PAY_003751,Mobile Payment,MasterCard
+PAY_003752,credit card,MasterCard
+PAY_003753,credit card,Amex
+PAY_003754,Mobile Payment,Maestro
+PAY_003755,credit card,PayPal
+PAY_003756,debit card,Amex
+PAY_003757,Cash,Amex
+PAY_003758,credit card,MasterCard
+PAY_003759,credit card,PayPal
+PAY_003760,credit card,PayPal
+PAY_003761,Mobile Payment,Amex
+PAY_003762,Cash,Amex
+PAY_003763,Mobile Payment,Amex
+PAY_003764,Mobile Payment,Maestro
+PAY_003765,credit card,PayPal
+PAY_003766,debit card,Visa
+PAY_003767,debit card,Visa
+PAY_003768,debit card,Maestro
+PAY_003769,credit card,MasterCard
+PAY_003770,Cash,Amex
+PAY_003771,Mobile Payment,PayPal
+PAY_003772,Cash,Maestro
+PAY_003773,credit card,MasterCard
+PAY_003774,debit card,Amex
+PAY_003775,credit card,Amex
+PAY_003776,Cash,MasterCard
+PAY_003777,Mobile Payment,Visa
+PAY_003778,credit card,PayPal
+PAY_003779,Mobile Payment,MasterCard
+PAY_003780,Cash,PayPal
+PAY_003781,credit card,PayPal
+PAY_003782,Cash,Maestro
+PAY_003783,debit card,MasterCard
+PAY_003784,Cash,PayPal
+PAY_003785,credit card,Maestro
+PAY_003786,Cash,Amex
+PAY_003787,Mobile Payment,MasterCard
+PAY_003788,credit card,Amex
+PAY_003789,debit card,PayPal
+PAY_003790,debit card,MasterCard
+PAY_003791,Cash,PayPal
+PAY_003792,debit card,Maestro
+PAY_003793,debit card,Maestro
+PAY_003794,credit card,Amex
+PAY_003795,debit card,Maestro
+PAY_003796,Mobile Payment,PayPal
+PAY_003797,Cash,PayPal
+PAY_003798,Mobile Payment,PayPal
+PAY_003799,credit card,Maestro
+PAY_003800,credit card,PayPal
+PAY_003801,debit card,PayPal
+PAY_003802,Cash,Amex
+PAY_003803,credit card,Visa
+PAY_003804,credit card,Maestro
+PAY_003805,credit card,Visa
+PAY_003806,debit card,Maestro
+PAY_003807,credit card,Amex
+PAY_003808,Cash,Visa
+PAY_003809,debit card,MasterCard
+PAY_003810,credit card,Visa
+PAY_003811,debit card,PayPal
+PAY_003812,credit card,Visa
+PAY_003813,Mobile Payment,Maestro
+PAY_003814,credit card,PayPal
+PAY_003815,credit card,PayPal
+PAY_003816,debit card,PayPal
+PAY_003817,debit card,Visa
+PAY_003818,Cash,MasterCard
+PAY_003819,credit card,Visa
+PAY_003820,credit card,MasterCard
+PAY_003821,credit card,PayPal
+PAY_003822,Cash,Amex
+PAY_003823,Cash,MasterCard
+PAY_003824,Cash,MasterCard
+PAY_003825,Cash,Maestro
+PAY_003826,debit card,Visa
+PAY_003827,Cash,Visa
+PAY_003828,debit card,PayPal
+PAY_003829,Cash,Amex
+PAY_003830,debit card,Amex
+PAY_003831,Mobile Payment,Maestro
+PAY_003832,Cash,PayPal
+PAY_003833,Cash,Amex
+PAY_003834,credit card,Amex
+PAY_003835,Cash,PayPal
+PAY_003836,Cash,PayPal
+PAY_003837,Mobile Payment,MasterCard
+PAY_003838,Mobile Payment,Visa
+PAY_003839,Mobile Payment,MasterCard
+PAY_003840,debit card,PayPal
+PAY_003841,credit card,Amex
+PAY_003842,debit card,Visa
+PAY_003843,credit card,Maestro
+PAY_003844,debit card,PayPal
+PAY_003845,Cash,Amex
+PAY_003846,credit card,PayPal
+PAY_003847,Mobile Payment,PayPal
+PAY_003848,debit card,Maestro
+PAY_003849,Cash,PayPal
+PAY_003850,credit card,MasterCard
+PAY_003851,credit card,PayPal
+PAY_003852,Cash,MasterCard
+PAY_003853,Mobile Payment,Amex
+PAY_003854,credit card,Amex
+PAY_003855,Cash,MasterCard
+PAY_003856,Mobile Payment,Visa
+PAY_003857,Cash,PayPal
+PAY_003858,Cash,MasterCard
+PAY_003859,Cash,Amex
+PAY_003860,Cash,MasterCard
+PAY_003861,credit card,Amex
+PAY_003862,credit card,PayPal
+PAY_003863,debit card,Maestro
+PAY_003864,Mobile Payment,MasterCard
+PAY_003865,debit card,Amex
+PAY_003866,Cash,Visa
+PAY_003867,credit card,Maestro
+PAY_003868,Cash,Visa
+PAY_003869,credit card,Visa
+PAY_003870,Mobile Payment,Amex
+PAY_003871,Cash,PayPal
+PAY_003872,credit card,MasterCard
+PAY_003873,debit card,Maestro
+PAY_003874,credit card,Amex
+PAY_003875,credit card,PayPal
+PAY_003876,Cash,Maestro
+PAY_003877,Cash,Visa
+PAY_003878,debit card,Maestro
+PAY_003879,Mobile Payment,PayPal
+PAY_003880,Mobile Payment,Maestro
+PAY_003881,Mobile Payment,Maestro
+PAY_003882,Mobile Payment,Maestro
+PAY_003883,credit card,Maestro
+PAY_003884,debit card,Maestro
+PAY_003885,Cash,MasterCard
+PAY_003886,debit card,PayPal
+PAY_003887,Mobile Payment,MasterCard
+PAY_003888,debit card,Maestro
+PAY_003889,debit card,Amex
+PAY_003890,Mobile Payment,Visa
+PAY_003891,credit card,Visa
+PAY_003892,credit card,Visa
+PAY_003893,Cash,Maestro
+PAY_003894,Cash,Visa
+PAY_003895,debit card,Amex
+PAY_003896,credit card,Amex
+PAY_003897,Mobile Payment,MasterCard
+PAY_003898,credit card,MasterCard
+PAY_003899,debit card,Visa
+PAY_003900,Mobile Payment,Visa
+PAY_003901,credit card,MasterCard
+PAY_003902,Cash,Maestro
+PAY_003903,debit card,Amex
+PAY_003904,Mobile Payment,Visa
+PAY_003905,debit card,Visa
+PAY_003906,debit card,MasterCard
+PAY_003907,Mobile Payment,Visa
+PAY_003908,Cash,Amex
+PAY_003909,credit card,MasterCard
+PAY_003910,Cash,Maestro
+PAY_003911,Mobile Payment,MasterCard
+PAY_003912,Cash,Maestro
+PAY_003913,Cash,PayPal
+PAY_003914,Mobile Payment,Visa
+PAY_003915,Mobile Payment,MasterCard
+PAY_003916,debit card,PayPal
+PAY_003917,credit card,Amex
+PAY_003918,credit card,Amex
+PAY_003919,Mobile Payment,Visa
+PAY_003920,Cash,MasterCard
+PAY_003921,Cash,Visa
+PAY_003922,Cash,MasterCard
+PAY_003923,Cash,PayPal
+PAY_003924,credit card,PayPal
+PAY_003925,Cash,MasterCard
+PAY_003926,debit card,Visa
+PAY_003927,debit card,Visa
+PAY_003928,Cash,PayPal
+PAY_003929,credit card,Visa
+PAY_003930,credit card,MasterCard
+PAY_003931,debit card,Maestro
+PAY_003932,Cash,Visa
+PAY_003933,credit card,Maestro
+PAY_003934,debit card,Visa
+PAY_003935,debit card,Visa
+PAY_003936,Mobile Payment,Amex
+PAY_003937,Cash,Maestro
+PAY_003938,Mobile Payment,Visa
+PAY_003939,credit card,Visa
+PAY_003940,debit card,Visa
+PAY_003941,Mobile Payment,PayPal
+PAY_003942,debit card,Visa
+PAY_003943,Cash,PayPal
+PAY_003944,debit card,Maestro
+PAY_003945,Mobile Payment,Visa
+PAY_003946,Mobile Payment,Amex
+PAY_003947,credit card,Visa
+PAY_003948,debit card,Amex
+PAY_003949,Mobile Payment,Amex
+PAY_003950,Cash,Amex
+PAY_003951,Cash,Maestro
+PAY_003952,Mobile Payment,Maestro
+PAY_003953,Cash,MasterCard
+PAY_003954,Mobile Payment,Maestro
+PAY_003955,Cash,MasterCard
+PAY_003956,Mobile Payment,PayPal
+PAY_003957,credit card,Visa
+PAY_003958,credit card,Amex
+PAY_003959,credit card,Amex
+PAY_003960,Mobile Payment,Visa
+PAY_003961,debit card,Amex
+PAY_003962,debit card,Maestro
+PAY_003963,credit card,Maestro
+PAY_003964,Cash,Maestro
+PAY_003965,Mobile Payment,MasterCard
+PAY_003966,Mobile Payment,Visa
+PAY_003967,credit card,MasterCard
+PAY_003968,debit card,PayPal
+PAY_003969,Cash,MasterCard
+PAY_003970,Cash,MasterCard
+PAY_003971,credit card,Visa
+PAY_003972,Cash,Visa
+PAY_003973,debit card,Visa
+PAY_003974,debit card,PayPal
+PAY_003975,debit card,Amex
+PAY_003976,Mobile Payment,Maestro
+PAY_003977,Mobile Payment,Amex
+PAY_003978,debit card,PayPal
+PAY_003979,Cash,Maestro
+PAY_003980,Mobile Payment,PayPal
+PAY_003981,debit card,PayPal
+PAY_003982,Cash,PayPal
+PAY_003983,debit card,PayPal
+PAY_003984,Mobile Payment,Maestro
+PAY_003985,debit card,MasterCard
+PAY_003986,Mobile Payment,PayPal
+PAY_003987,credit card,Amex
+PAY_003988,Cash,Maestro
+PAY_003989,credit card,Amex
+PAY_003990,debit card,MasterCard
+PAY_003991,Mobile Payment,Visa
+PAY_003992,Mobile Payment,Maestro
+PAY_003993,Mobile Payment,Amex
+PAY_003994,Cash,Amex
+PAY_003995,Mobile Payment,MasterCard
+PAY_003996,credit card,Visa
+PAY_003997,Cash,PayPal
+PAY_003998,debit card,MasterCard
+PAY_003999,credit card,Visa
+PAY_004000,Mobile Payment,Visa
+PAY_004001,credit card,Maestro
+PAY_004002,Mobile Payment,MasterCard
+PAY_004003,debit card,Visa
+PAY_004004,credit card,Amex
+PAY_004005,Mobile Payment,PayPal
+PAY_004006,debit card,Amex
+PAY_004007,debit card,PayPal
+PAY_004008,Cash,PayPal
+PAY_004009,debit card,Visa
+PAY_004010,Cash,PayPal
+PAY_004011,credit card,MasterCard
+PAY_004012,credit card,Visa
+PAY_004013,credit card,PayPal
+PAY_004014,Cash,Amex
+PAY_004015,debit card,MasterCard
+PAY_004016,debit card,Amex
+PAY_004017,credit card,MasterCard
+PAY_004018,Mobile Payment,Visa
+PAY_004019,debit card,Visa
+PAY_004020,debit card,Maestro
+PAY_004021,credit card,PayPal
+PAY_004022,Mobile Payment,PayPal
+PAY_004023,debit card,MasterCard
+PAY_004024,debit card,MasterCard
+PAY_004025,credit card,Visa
+PAY_004026,debit card,Amex
+PAY_004027,Mobile Payment,Maestro
+PAY_004028,Mobile Payment,Visa
+PAY_004029,debit card,Maestro
+PAY_004030,debit card,MasterCard
+PAY_004031,Mobile Payment,PayPal
+PAY_004032,credit card,PayPal
+PAY_004033,Mobile Payment,MasterCard
+PAY_004034,Cash,PayPal
+PAY_004035,Mobile Payment,Amex
+PAY_004036,debit card,Amex
+PAY_004037,debit card,Maestro
+PAY_004038,Cash,PayPal
+PAY_004039,Cash,Amex
+PAY_004040,Cash,PayPal
+PAY_004041,Mobile Payment,Amex
+PAY_004042,credit card,PayPal
+PAY_004043,Mobile Payment,Maestro
+PAY_004044,debit card,Maestro
+PAY_004045,Cash,Maestro
+PAY_004046,credit card,Maestro
+PAY_004047,credit card,Maestro
+PAY_004048,Cash,Amex
+PAY_004049,Cash,Maestro
+PAY_004050,credit card,Amex
+PAY_004051,credit card,Maestro
+PAY_004052,Cash,MasterCard
+PAY_004053,credit card,Visa
+PAY_004054,credit card,MasterCard
+PAY_004055,credit card,PayPal
+PAY_004056,Mobile Payment,PayPal
+PAY_004057,Mobile Payment,Amex
+PAY_004058,Cash,Amex
+PAY_004059,debit card,PayPal
+PAY_004060,debit card,Visa
+PAY_004061,Mobile Payment,PayPal
+PAY_004062,Cash,Amex
+PAY_004063,credit card,Maestro
+PAY_004064,Mobile Payment,Amex
+PAY_004065,Mobile Payment,PayPal
+PAY_004066,credit card,MasterCard
+PAY_004067,debit card,Visa
+PAY_004068,debit card,Amex
+PAY_004069,credit card,Visa
+PAY_004070,credit card,Visa
+PAY_004071,debit card,Visa
+PAY_004072,Cash,Maestro
+PAY_004073,credit card,MasterCard
+PAY_004074,Cash,Amex
+PAY_004075,credit card,Visa
+PAY_004076,Cash,MasterCard
+PAY_004077,credit card,Amex
+PAY_004078,credit card,Visa
+PAY_004079,Cash,PayPal
+PAY_004080,credit card,PayPal
+PAY_004081,Mobile Payment,Amex
+PAY_004082,credit card,Maestro
+PAY_004083,credit card,Maestro
+PAY_004084,Mobile Payment,PayPal
+PAY_004085,debit card,Visa
+PAY_004086,Mobile Payment,MasterCard
+PAY_004087,Mobile Payment,Visa
+PAY_004088,credit card,PayPal
+PAY_004089,Cash,Maestro
+PAY_004090,Mobile Payment,PayPal
+PAY_004091,Cash,MasterCard
+PAY_004092,Mobile Payment,MasterCard
+PAY_004093,credit card,Maestro
+PAY_004094,Cash,MasterCard
+PAY_004095,credit card,PayPal
+PAY_004096,debit card,Amex
+PAY_004097,Mobile Payment,Visa
+PAY_004098,Cash,Maestro
+PAY_004099,Mobile Payment,PayPal
+PAY_004100,Mobile Payment,Visa
+PAY_004101,Cash,MasterCard
+PAY_004102,Cash,PayPal
+PAY_004103,credit card,Amex
+PAY_004104,credit card,Visa
+PAY_004105,debit card,MasterCard
+PAY_004106,debit card,Amex
+PAY_004107,debit card,Maestro
+PAY_004108,Cash,PayPal
+PAY_004109,credit card,PayPal
+PAY_004110,credit card,PayPal
+PAY_004111,debit card,MasterCard
+PAY_004112,debit card,Amex
+PAY_004113,Cash,Amex
+PAY_004114,credit card,MasterCard
+PAY_004115,debit card,Visa
+PAY_004116,Cash,MasterCard
+PAY_004117,Mobile Payment,Amex
+PAY_004118,credit card,MasterCard
+PAY_004119,credit card,Visa
+PAY_004120,Cash,Amex
+PAY_004121,debit card,PayPal
+PAY_004122,debit card,PayPal
+PAY_004123,credit card,Amex
+PAY_004124,Cash,PayPal
+PAY_004125,credit card,Visa
+PAY_004126,credit card,Amex
+PAY_004127,debit card,PayPal
+PAY_004128,Cash,PayPal
+PAY_004129,Mobile Payment,Amex
+PAY_004130,Mobile Payment,Amex
+PAY_004131,Mobile Payment,Maestro
+PAY_004132,credit card,Amex
+PAY_004133,debit card,MasterCard
+PAY_004134,Cash,Maestro
+PAY_004135,Mobile Payment,PayPal
+PAY_004136,Cash,Visa
+PAY_004137,credit card,Visa
+PAY_004138,credit card,PayPal
+PAY_004139,Cash,PayPal
+PAY_004140,debit card,MasterCard
+PAY_004141,Mobile Payment,PayPal
+PAY_004142,Cash,MasterCard
+PAY_004143,Mobile Payment,Visa
+PAY_004144,debit card,Maestro
+PAY_004145,Cash,PayPal
+PAY_004146,debit card,Amex
+PAY_004147,Mobile Payment,Visa
+PAY_004148,Cash,Maestro
+PAY_004149,credit card,Visa
+PAY_004150,Cash,Visa
+PAY_004151,credit card,Amex
+PAY_004152,Mobile Payment,PayPal
+PAY_004153,Mobile Payment,Maestro
+PAY_004154,Cash,Maestro
+PAY_004155,debit card,PayPal
+PAY_004156,Mobile Payment,Amex
+PAY_004157,debit card,MasterCard
+PAY_004158,Mobile Payment,Maestro
+PAY_004159,credit card,Visa
+PAY_004160,Cash,PayPal
+PAY_004161,debit card,Maestro
+PAY_004162,credit card,PayPal
+PAY_004163,Mobile Payment,MasterCard
+PAY_004164,Cash,MasterCard
+PAY_004165,credit card,Visa
+PAY_004166,debit card,MasterCard
+PAY_004167,Mobile Payment,Visa
+PAY_004168,Cash,Amex
+PAY_004169,Mobile Payment,Maestro
+PAY_004170,Cash,Maestro
+PAY_004171,Cash,Amex
+PAY_004172,credit card,Visa
+PAY_004173,Cash,Maestro
+PAY_004174,Mobile Payment,PayPal
+PAY_004175,Cash,Maestro
+PAY_004176,credit card,MasterCard
+PAY_004177,credit card,Visa
+PAY_004178,Cash,PayPal
+PAY_004179,Mobile Payment,Amex
+PAY_004180,debit card,MasterCard
+PAY_004181,Mobile Payment,Visa
+PAY_004182,debit card,PayPal
+PAY_004183,credit card,PayPal
+PAY_004184,Cash,Maestro
+PAY_004185,credit card,PayPal
+PAY_004186,credit card,PayPal
+PAY_004187,Cash,MasterCard
+PAY_004188,Cash,MasterCard
+PAY_004189,Mobile Payment,Visa
+PAY_004190,debit card,Visa
+PAY_004191,Mobile Payment,PayPal
+PAY_004192,debit card,Visa
+PAY_004193,debit card,MasterCard
+PAY_004194,Cash,Amex
+PAY_004195,credit card,Maestro
+PAY_004196,debit card,Amex
+PAY_004197,debit card,MasterCard
+PAY_004198,Mobile Payment,Visa
+PAY_004199,Cash,Amex
+PAY_004200,Cash,MasterCard
+PAY_004201,Cash,MasterCard
+PAY_004202,debit card,PayPal
+PAY_004203,Cash,Visa
+PAY_004204,credit card,PayPal
+PAY_004205,Cash,Maestro
+PAY_004206,Mobile Payment,MasterCard
+PAY_004207,credit card,MasterCard
+PAY_004208,credit card,Visa
+PAY_004209,debit card,MasterCard
+PAY_004210,credit card,MasterCard
+PAY_004211,Cash,Maestro
+PAY_004212,credit card,PayPal
+PAY_004213,debit card,Amex
+PAY_004214,Cash,MasterCard
+PAY_004215,Cash,MasterCard
+PAY_004216,Cash,Visa
+PAY_004217,Cash,PayPal
+PAY_004218,Mobile Payment,PayPal
+PAY_004219,Mobile Payment,MasterCard
+PAY_004220,Cash,Amex
+PAY_004221,debit card,MasterCard
+PAY_004222,debit card,PayPal
+PAY_004223,debit card,MasterCard
+PAY_004224,Mobile Payment,Maestro
+PAY_004225,Mobile Payment,Visa
+PAY_004226,Cash,Maestro
+PAY_004227,Cash,Visa
+PAY_004228,credit card,MasterCard
+PAY_004229,Cash,Amex
+PAY_004230,credit card,PayPal
+PAY_004231,Mobile Payment,Amex
+PAY_004232,Mobile Payment,Visa
+PAY_004233,debit card,PayPal
+PAY_004234,Mobile Payment,PayPal
+PAY_004235,credit card,Maestro
+PAY_004236,Mobile Payment,Maestro
+PAY_004237,credit card,Amex
+PAY_004238,Cash,Visa
+PAY_004239,debit card,MasterCard
+PAY_004240,Mobile Payment,Visa
+PAY_004241,debit card,Maestro
+PAY_004242,Mobile Payment,Visa
+PAY_004243,debit card,PayPal
+PAY_004244,Cash,Visa
+PAY_004245,Cash,MasterCard
+PAY_004246,debit card,PayPal
+PAY_004247,credit card,PayPal
+PAY_004248,credit card,Maestro
+PAY_004249,Cash,PayPal
+PAY_004250,credit card,MasterCard
+PAY_004251,Cash,Maestro
+PAY_004252,debit card,Visa
+PAY_004253,debit card,MasterCard
+PAY_004254,credit card,Visa
+PAY_004255,Cash,Visa
+PAY_004256,Mobile Payment,Amex
+PAY_004257,Cash,Visa
+PAY_004258,Cash,MasterCard
+PAY_004259,Cash,Visa
+PAY_004260,debit card,MasterCard
+PAY_004261,credit card,Amex
+PAY_004262,credit card,PayPal
+PAY_004263,debit card,Maestro
+PAY_004264,debit card,Amex
+PAY_004265,credit card,MasterCard
+PAY_004266,Mobile Payment,Amex
+PAY_004267,credit card,PayPal
+PAY_004268,Mobile Payment,Maestro
+PAY_004269,credit card,Visa
+PAY_004270,credit card,Visa
+PAY_004271,debit card,Maestro
+PAY_004272,Mobile Payment,Visa
+PAY_004273,debit card,MasterCard
+PAY_004274,debit card,Amex
+PAY_004275,Mobile Payment,Amex
+PAY_004276,debit card,Amex
+PAY_004277,credit card,Maestro
+PAY_004278,Cash,Visa
+PAY_004279,Cash,MasterCard
+PAY_004280,Mobile Payment,MasterCard
+PAY_004281,Mobile Payment,Visa
+PAY_004282,debit card,PayPal
+PAY_004283,Mobile Payment,Visa
+PAY_004284,Cash,MasterCard
+PAY_004285,credit card,Amex
+PAY_004286,debit card,Maestro
+PAY_004287,Cash,Maestro
+PAY_004288,credit card,Amex
+PAY_004289,debit card,MasterCard
+PAY_004290,Cash,Amex
+PAY_004291,debit card,Amex
+PAY_004292,Cash,Amex
+PAY_004293,debit card,PayPal
+PAY_004294,Cash,PayPal
+PAY_004295,Cash,Visa
+PAY_004296,debit card,Amex
+PAY_004297,Mobile Payment,Visa
+PAY_004298,Mobile Payment,Amex
+PAY_004299,credit card,Amex
+PAY_004300,debit card,Maestro
+PAY_004301,debit card,Visa
+PAY_004302,credit card,MasterCard
+PAY_004303,credit card,PayPal
+PAY_004304,Cash,Amex
+PAY_004305,Mobile Payment,Amex
+PAY_004306,Mobile Payment,MasterCard
+PAY_004307,credit card,Amex
+PAY_004308,credit card,PayPal
+PAY_004309,Cash,Maestro
+PAY_004310,debit card,PayPal
+PAY_004311,Mobile Payment,Visa
+PAY_004312,credit card,Maestro
+PAY_004313,credit card,Amex
+PAY_004314,credit card,Visa
+PAY_004315,debit card,Visa
+PAY_004316,credit card,MasterCard
+PAY_004317,debit card,MasterCard
+PAY_004318,debit card,PayPal
+PAY_004319,credit card,PayPal
+PAY_004320,debit card,Maestro
+PAY_004321,Mobile Payment,Amex
+PAY_004322,Mobile Payment,MasterCard
+PAY_004323,credit card,PayPal
+PAY_004324,credit card,PayPal
+PAY_004325,Mobile Payment,Visa
+PAY_004326,Mobile Payment,PayPal
+PAY_004327,debit card,PayPal
+PAY_004328,credit card,PayPal
+PAY_004329,credit card,Maestro
+PAY_004330,Mobile Payment,Visa
+PAY_004331,debit card,Amex
+PAY_004332,Cash,MasterCard
+PAY_004333,Cash,PayPal
+PAY_004334,credit card,PayPal
+PAY_004335,credit card,Visa
+PAY_004336,Mobile Payment,PayPal
+PAY_004337,credit card,Visa
+PAY_004338,Cash,Visa
+PAY_004339,Cash,PayPal
+PAY_004340,debit card,MasterCard
+PAY_004341,credit card,Amex
+PAY_004342,credit card,PayPal
+PAY_004343,credit card,Visa
+PAY_004344,Mobile Payment,Amex
+PAY_004345,Mobile Payment,MasterCard
+PAY_004346,Cash,PayPal
+PAY_004347,credit card,PayPal
+PAY_004348,Cash,Visa
+PAY_004349,credit card,MasterCard
+PAY_004350,Cash,Maestro
+PAY_004351,Cash,PayPal
+PAY_004352,debit card,Visa
+PAY_004353,credit card,MasterCard
+PAY_004354,credit card,PayPal
+PAY_004355,debit card,Visa
+PAY_004356,Mobile Payment,MasterCard
+PAY_004357,credit card,Maestro
+PAY_004358,Cash,Visa
+PAY_004359,debit card,Maestro
+PAY_004360,Mobile Payment,MasterCard
+PAY_004361,credit card,Amex
+PAY_004362,Cash,Amex
+PAY_004363,debit card,PayPal
+PAY_004364,credit card,Visa
+PAY_004365,Mobile Payment,Maestro
+PAY_004366,credit card,Amex
+PAY_004367,Mobile Payment,Maestro
+PAY_004368,credit card,Visa
+PAY_004369,debit card,Maestro
+PAY_004370,credit card,MasterCard
+PAY_004371,credit card,MasterCard
+PAY_004372,credit card,Maestro
+PAY_004373,Mobile Payment,MasterCard
+PAY_004374,debit card,Visa
+PAY_004375,Cash,Maestro
+PAY_004376,credit card,Visa
+PAY_004377,Mobile Payment,Visa
+PAY_004378,debit card,Amex
+PAY_004379,debit card,Visa
+PAY_004380,credit card,Visa
+PAY_004381,debit card,PayPal
+PAY_004382,Cash,Amex
+PAY_004383,Cash,PayPal
+PAY_004384,credit card,PayPal
+PAY_004385,Mobile Payment,Maestro
+PAY_004386,credit card,Visa
+PAY_004387,Cash,PayPal
+PAY_004388,Mobile Payment,Visa
+PAY_004389,credit card,Visa
+PAY_004390,debit card,Amex
+PAY_004391,credit card,Visa
+PAY_004392,credit card,MasterCard
+PAY_004393,debit card,MasterCard
+PAY_004394,debit card,Maestro
+PAY_004395,debit card,Maestro
+PAY_004396,credit card,MasterCard
+PAY_004397,Mobile Payment,MasterCard
+PAY_004398,debit card,Amex
+PAY_004399,Mobile Payment,Visa
+PAY_004400,debit card,Maestro
+PAY_004401,Cash,Maestro
+PAY_004402,debit card,Visa
+PAY_004403,debit card,Visa
+PAY_004404,debit card,Visa
+PAY_004405,Mobile Payment,Visa
+PAY_004406,Cash,Visa
+PAY_004407,debit card,MasterCard
+PAY_004408,Mobile Payment,Visa
+PAY_004409,Cash,Maestro
+PAY_004410,credit card,Amex
+PAY_004411,Mobile Payment,Maestro
+PAY_004412,debit card,MasterCard
+PAY_004413,debit card,Maestro
+PAY_004414,debit card,Amex
+PAY_004415,debit card,Visa
+PAY_004416,debit card,Maestro
+PAY_004417,Cash,Maestro
+PAY_004418,Cash,Amex
+PAY_004419,Mobile Payment,Amex
+PAY_004420,Mobile Payment,MasterCard
+PAY_004421,credit card,Maestro
+PAY_004422,Cash,Maestro
+PAY_004423,Mobile Payment,Visa
+PAY_004424,Mobile Payment,Visa
+PAY_004425,credit card,PayPal
+PAY_004426,Mobile Payment,Amex
+PAY_004427,credit card,MasterCard
+PAY_004428,Cash,Visa
+PAY_004429,Cash,Amex
+PAY_004430,debit card,Maestro
+PAY_004431,credit card,Amex
+PAY_004432,credit card,Amex
+PAY_004433,credit card,Amex
+PAY_004434,Mobile Payment,Maestro
+PAY_004435,debit card,MasterCard
+PAY_004436,Cash,MasterCard
+PAY_004437,Cash,PayPal
+PAY_004438,debit card,MasterCard
+PAY_004439,Cash,Amex
+PAY_004440,debit card,Maestro
+PAY_004441,debit card,PayPal
+PAY_004442,Cash,PayPal
+PAY_004443,Cash,Maestro
+PAY_004444,Mobile Payment,MasterCard
+PAY_004445,Cash,Amex
+PAY_004446,Cash,MasterCard
+PAY_004447,debit card,PayPal
+PAY_004448,Mobile Payment,Maestro
+PAY_004449,debit card,MasterCard
+PAY_004450,Cash,MasterCard
+PAY_004451,credit card,Maestro
+PAY_004452,Mobile Payment,Amex
+PAY_004453,Cash,Visa
+PAY_004454,Cash,MasterCard
+PAY_004455,credit card,Maestro
+PAY_004456,Cash,Amex
+PAY_004457,Mobile Payment,MasterCard
+PAY_004458,debit card,Visa
+PAY_004459,Mobile Payment,Amex
+PAY_004460,debit card,Amex
+PAY_004461,debit card,MasterCard
+PAY_004462,credit card,PayPal
+PAY_004463,credit card,Visa
+PAY_004464,debit card,Visa
+PAY_004465,Mobile Payment,Maestro
+PAY_004466,Mobile Payment,Amex
+PAY_004467,debit card,Visa
+PAY_004468,debit card,Visa
+PAY_004469,Cash,PayPal
+PAY_004470,credit card,Amex
+PAY_004471,credit card,PayPal
+PAY_004472,Mobile Payment,Maestro
+PAY_004473,debit card,PayPal
+PAY_004474,credit card,PayPal
+PAY_004475,Cash,MasterCard
+PAY_004476,Cash,Amex
+PAY_004477,Cash,Visa
+PAY_004478,credit card,MasterCard
+PAY_004479,Mobile Payment,Maestro
+PAY_004480,credit card,PayPal
+PAY_004481,credit card,MasterCard
+PAY_004482,credit card,Visa
+PAY_004483,Cash,Maestro
+PAY_004484,debit card,Visa
+PAY_004485,Cash,MasterCard
+PAY_004486,Mobile Payment,Visa
+PAY_004487,Cash,MasterCard
+PAY_004488,Mobile Payment,PayPal
+PAY_004489,debit card,Visa
+PAY_004490,Mobile Payment,Visa
+PAY_004491,debit card,Amex
+PAY_004492,Mobile Payment,PayPal
+PAY_004493,debit card,PayPal
+PAY_004494,debit card,Maestro
+PAY_004495,debit card,MasterCard
+PAY_004496,Cash,Maestro
+PAY_004497,Mobile Payment,Amex
+PAY_004498,Mobile Payment,Amex
+PAY_004499,Mobile Payment,PayPal
+PAY_004500,credit card,Amex
+PAY_004501,Cash,Maestro
+PAY_004502,debit card,MasterCard
+PAY_004503,debit card,Amex
+PAY_004504,Cash,Maestro
+PAY_004505,credit card,PayPal
+PAY_004506,credit card,Maestro
+PAY_004507,debit card,Visa
+PAY_004508,Mobile Payment,Visa
+PAY_004509,Cash,Amex
+PAY_004510,Cash,Maestro
+PAY_004511,debit card,PayPal
+PAY_004512,credit card,PayPal
+PAY_004513,Mobile Payment,Amex
+PAY_004514,Cash,Amex
+PAY_004515,Mobile Payment,Visa
+PAY_004516,credit card,Amex
+PAY_004517,Mobile Payment,Amex
+PAY_004518,Cash,Amex
+PAY_004519,debit card,Amex
+PAY_004520,credit card,MasterCard
+PAY_004521,credit card,MasterCard
+PAY_004522,Mobile Payment,PayPal
+PAY_004523,debit card,PayPal
+PAY_004524,Mobile Payment,MasterCard
+PAY_004525,Mobile Payment,PayPal
+PAY_004526,credit card,MasterCard
+PAY_004527,credit card,Amex
+PAY_004528,Cash,Amex
+PAY_004529,credit card,Amex
+PAY_004530,Cash,Visa
+PAY_004531,debit card,MasterCard
+PAY_004532,Mobile Payment,Maestro
+PAY_004533,credit card,PayPal
+PAY_004534,credit card,PayPal
+PAY_004535,debit card,Amex
+PAY_004536,Mobile Payment,Maestro
+PAY_004537,credit card,Visa
+PAY_004538,Mobile Payment,Visa
+PAY_004539,credit card,Amex
+PAY_004540,Cash,Visa
+PAY_004541,Cash,PayPal
+PAY_004542,credit card,Amex
+PAY_004543,Cash,Visa
+PAY_004544,Mobile Payment,MasterCard
+PAY_004545,Mobile Payment,Amex
+PAY_004546,debit card,Visa
+PAY_004547,credit card,Visa
+PAY_004548,Cash,Visa
+PAY_004549,Mobile Payment,Amex
+PAY_004550,Cash,Visa
+PAY_004551,debit card,Maestro
+PAY_004552,Mobile Payment,MasterCard
+PAY_004553,credit card,Amex
+PAY_004554,credit card,Visa
+PAY_004555,credit card,Maestro
+PAY_004556,Mobile Payment,PayPal
+PAY_004557,Cash,PayPal
+PAY_004558,Mobile Payment,MasterCard
+PAY_004559,Mobile Payment,MasterCard
+PAY_004560,Cash,Visa
+PAY_004561,Mobile Payment,PayPal
+PAY_004562,credit card,Amex
+PAY_004563,debit card,Maestro
+PAY_004564,Cash,Visa
+PAY_004565,credit card,PayPal
+PAY_004566,credit card,Maestro
+PAY_004567,credit card,Maestro
+PAY_004568,Mobile Payment,Amex
+PAY_004569,debit card,MasterCard
+PAY_004570,debit card,Amex
+PAY_004571,Mobile Payment,Visa
+PAY_004572,credit card,Amex
+PAY_004573,credit card,PayPal
+PAY_004574,Cash,PayPal
+PAY_004575,credit card,PayPal
+PAY_004576,Cash,Maestro
+PAY_004577,debit card,MasterCard
+PAY_004578,debit card,MasterCard
+PAY_004579,debit card,Visa
+PAY_004580,Cash,Visa
+PAY_004581,credit card,Maestro
+PAY_004582,Mobile Payment,Amex
+PAY_004583,Mobile Payment,PayPal
+PAY_004584,credit card,MasterCard
+PAY_004585,credit card,Visa
+PAY_004586,credit card,Visa
+PAY_004587,Cash,Amex
+PAY_004588,Cash,PayPal
+PAY_004589,Mobile Payment,MasterCard
+PAY_004590,credit card,Amex
+PAY_004591,credit card,Amex
+PAY_004592,Mobile Payment,Visa
+PAY_004593,Mobile Payment,Visa
+PAY_004594,Mobile Payment,PayPal
+PAY_004595,Mobile Payment,PayPal
+PAY_004596,Mobile Payment,PayPal
+PAY_004597,credit card,Visa
+PAY_004598,Mobile Payment,Amex
+PAY_004599,credit card,MasterCard
+PAY_004600,Cash,MasterCard
+PAY_004601,Cash,Visa
+PAY_004602,Mobile Payment,Visa
+PAY_004603,Mobile Payment,Amex
+PAY_004604,credit card,Visa
+PAY_004605,Cash,Amex
+PAY_004606,debit card,Amex
+PAY_004607,Cash,MasterCard
+PAY_004608,Cash,Amex
+PAY_004609,credit card,Visa
+PAY_004610,credit card,Amex
+PAY_004611,Cash,Amex
+PAY_004612,Cash,Amex
+PAY_004613,debit card,Visa
+PAY_004614,Mobile Payment,Amex
+PAY_004615,debit card,PayPal
+PAY_004616,credit card,MasterCard
+PAY_004617,Mobile Payment,PayPal
+PAY_004618,credit card,Visa
+PAY_004619,Cash,PayPal
+PAY_004620,debit card,PayPal
+PAY_004621,Mobile Payment,PayPal
+PAY_004622,Mobile Payment,Amex
+PAY_004623,credit card,Maestro
+PAY_004624,credit card,PayPal
+PAY_004625,Cash,Amex
+PAY_004626,credit card,MasterCard
+PAY_004627,Cash,Visa
+PAY_004628,Mobile Payment,PayPal
+PAY_004629,Cash,PayPal
+PAY_004630,debit card,Visa
+PAY_004631,credit card,Maestro
+PAY_004632,Cash,MasterCard
+PAY_004633,Mobile Payment,Amex
+PAY_004634,credit card,Maestro
+PAY_004635,credit card,MasterCard
+PAY_004636,Cash,PayPal
+PAY_004637,debit card,Maestro
+PAY_004638,Cash,Visa
+PAY_004639,credit card,Amex
+PAY_004640,Mobile Payment,MasterCard
+PAY_004641,credit card,Amex
+PAY_004642,credit card,MasterCard
+PAY_004643,Cash,Visa
+PAY_004644,debit card,Amex
+PAY_004645,Cash,Maestro
+PAY_004646,Cash,PayPal
+PAY_004647,debit card,Amex
+PAY_004648,Cash,Maestro
+PAY_004649,credit card,Maestro
+PAY_004650,debit card,Amex
+PAY_004651,debit card,PayPal
+PAY_004652,credit card,Visa
+PAY_004653,Cash,Amex
+PAY_004654,debit card,Visa
+PAY_004655,Mobile Payment,Maestro
+PAY_004656,Cash,PayPal
+PAY_004657,Cash,MasterCard
+PAY_004658,credit card,Maestro
+PAY_004659,Mobile Payment,PayPal
+PAY_004660,debit card,MasterCard
+PAY_004661,Cash,Visa
+PAY_004662,Cash,MasterCard
+PAY_004663,Cash,Visa
+PAY_004664,credit card,PayPal
+PAY_004665,debit card,Amex
+PAY_004666,debit card,Amex
+PAY_004667,Mobile Payment,Visa
+PAY_004668,credit card,MasterCard
+PAY_004669,Cash,PayPal
+PAY_004670,Cash,Amex
+PAY_004671,Mobile Payment,Visa
+PAY_004672,Mobile Payment,PayPal
+PAY_004673,Cash,Maestro
+PAY_004674,Mobile Payment,Maestro
+PAY_004675,Cash,Amex
+PAY_004676,Mobile Payment,Maestro
+PAY_004677,Cash,MasterCard
+PAY_004678,Cash,Amex
+PAY_004679,Mobile Payment,Maestro
+PAY_004680,debit card,Visa
+PAY_004681,Cash,Maestro
+PAY_004682,credit card,Visa
+PAY_004683,debit card,Maestro
+PAY_004684,credit card,Visa
+PAY_004685,Mobile Payment,Visa
+PAY_004686,Mobile Payment,Amex
+PAY_004687,debit card,Maestro
+PAY_004688,Mobile Payment,PayPal
+PAY_004689,Mobile Payment,MasterCard
+PAY_004690,Mobile Payment,PayPal
+PAY_004691,Cash,PayPal
+PAY_004692,credit card,Maestro
+PAY_004693,Cash,Maestro
+PAY_004694,credit card,MasterCard
+PAY_004695,debit card,MasterCard
+PAY_004696,credit card,MasterCard
+PAY_004697,debit card,Maestro
+PAY_004698,debit card,PayPal
+PAY_004699,debit card,Amex
+PAY_004700,Cash,PayPal
+PAY_004701,Mobile Payment,Maestro
+PAY_004702,credit card,PayPal
+PAY_004703,debit card,PayPal
+PAY_004704,Cash,PayPal
+PAY_004705,Cash,Maestro
+PAY_004706,Mobile Payment,MasterCard
+PAY_004707,debit card,Maestro
+PAY_004708,debit card,Amex
+PAY_004709,Mobile Payment,Amex
+PAY_004710,Mobile Payment,Visa
+PAY_004711,Mobile Payment,Visa
+PAY_004712,credit card,Visa
+PAY_004713,credit card,PayPal
+PAY_004714,credit card,Visa
+PAY_004715,credit card,MasterCard
+PAY_004716,credit card,PayPal
+PAY_004717,Mobile Payment,Maestro
+PAY_004718,debit card,Maestro
+PAY_004719,credit card,MasterCard
+PAY_004720,Cash,MasterCard
+PAY_004721,credit card,Maestro
+PAY_004722,Cash,PayPal
+PAY_004723,Mobile Payment,PayPal
+PAY_004724,Mobile Payment,Maestro
+PAY_004725,Cash,Maestro
+PAY_004726,Mobile Payment,Amex
+PAY_004727,credit card,PayPal
+PAY_004728,Mobile Payment,Visa
+PAY_004729,credit card,PayPal
+PAY_004730,debit card,Maestro
+PAY_004731,Mobile Payment,Amex
+PAY_004732,credit card,PayPal
+PAY_004733,credit card,Amex
+PAY_004734,credit card,MasterCard
+PAY_004735,debit card,MasterCard
+PAY_004736,debit card,Amex
+PAY_004737,debit card,Visa
+PAY_004738,Mobile Payment,Amex
+PAY_004739,Mobile Payment,Maestro
+PAY_004740,Cash,Amex
+PAY_004741,credit card,Amex
+PAY_004742,debit card,MasterCard
+PAY_004743,Cash,MasterCard
+PAY_004744,Cash,Visa
+PAY_004745,Cash,MasterCard
+PAY_004746,debit card,Visa
+PAY_004747,credit card,Amex
+PAY_004748,debit card,Visa
+PAY_004749,Mobile Payment,Maestro
+PAY_004750,credit card,Visa
+PAY_004751,debit card,Amex
+PAY_004752,debit card,MasterCard
+PAY_004753,Mobile Payment,Visa
+PAY_004754,credit card,PayPal
+PAY_004755,credit card,Visa
+PAY_004756,debit card,PayPal
+PAY_004757,credit card,Visa
+PAY_004758,debit card,Visa
+PAY_004759,Mobile Payment,Visa
+PAY_004760,debit card,Visa
+PAY_004761,Mobile Payment,MasterCard
+PAY_004762,Mobile Payment,MasterCard
+PAY_004763,credit card,Visa
+PAY_004764,credit card,PayPal
+PAY_004765,credit card,Amex
+PAY_004766,Mobile Payment,Maestro
+PAY_004767,debit card,MasterCard
+PAY_004768,credit card,Visa
+PAY_004769,debit card,Amex
+PAY_004770,credit card,Maestro
+PAY_004771,Cash,MasterCard
+PAY_004772,Cash,PayPal
+PAY_004773,credit card,Maestro
+PAY_004774,debit card,Visa
+PAY_004775,Cash,MasterCard
+PAY_004776,Mobile Payment,Visa
+PAY_004777,credit card,PayPal
+PAY_004778,Cash,MasterCard
+PAY_004779,Cash,Amex
+PAY_004780,Cash,MasterCard
+PAY_004781,Cash,Visa
+PAY_004782,debit card,MasterCard
+PAY_004783,Mobile Payment,Visa
+PAY_004784,credit card,PayPal
+PAY_004785,Mobile Payment,Maestro
+PAY_004786,debit card,PayPal
+PAY_004787,Mobile Payment,PayPal
+PAY_004788,Mobile Payment,MasterCard
+PAY_004789,Cash,Amex
+PAY_004790,Cash,Maestro
+PAY_004791,debit card,MasterCard
+PAY_004792,debit card,MasterCard
+PAY_004793,debit card,Amex
+PAY_004794,Mobile Payment,Amex
+PAY_004795,Cash,PayPal
+PAY_004796,debit card,Maestro
+PAY_004797,Cash,Maestro
+PAY_004798,credit card,MasterCard
+PAY_004799,debit card,MasterCard
+PAY_004800,Mobile Payment,Visa
+PAY_004801,debit card,Visa
+PAY_004802,debit card,MasterCard
+PAY_004803,credit card,Visa
+PAY_004804,Cash,Visa
+PAY_004805,Mobile Payment,Amex
+PAY_004806,debit card,Amex
+PAY_004807,Mobile Payment,Visa
+PAY_004808,debit card,Visa
+PAY_004809,Mobile Payment,Visa
+PAY_004810,debit card,PayPal
+PAY_004811,credit card,Visa
+PAY_004812,Cash,Visa
+PAY_004813,Cash,Amex
+PAY_004814,Cash,MasterCard
+PAY_004815,debit card,MasterCard
+PAY_004816,Mobile Payment,MasterCard
+PAY_004817,Cash,PayPal
+PAY_004818,Cash,PayPal
+PAY_004819,debit card,Amex
+PAY_004820,credit card,MasterCard
+PAY_004821,credit card,PayPal
+PAY_004822,Mobile Payment,PayPal
+PAY_004823,Cash,Amex
+PAY_004824,credit card,MasterCard
+PAY_004825,debit card,Visa
+PAY_004826,Mobile Payment,PayPal
+PAY_004827,Cash,Maestro
+PAY_004828,debit card,Visa
+PAY_004829,Mobile Payment,Amex
+PAY_004830,debit card,Maestro
+PAY_004831,Cash,Amex
+PAY_004832,debit card,Amex
+PAY_004833,debit card,Maestro
+PAY_004834,Cash,MasterCard
+PAY_004835,debit card,Amex
+PAY_004836,Mobile Payment,PayPal
+PAY_004837,Mobile Payment,MasterCard
+PAY_004838,credit card,PayPal
+PAY_004839,debit card,PayPal
+PAY_004840,Cash,Visa
+PAY_004841,debit card,MasterCard
+PAY_004842,Cash,Visa
+PAY_004843,Cash,MasterCard
+PAY_004844,Cash,PayPal
+PAY_004845,Cash,Amex
+PAY_004846,Mobile Payment,Visa
+PAY_004847,credit card,PayPal
+PAY_004848,debit card,MasterCard
+PAY_004849,Mobile Payment,Amex
+PAY_004850,debit card,PayPal
+PAY_004851,debit card,Maestro
+PAY_004852,debit card,MasterCard
+PAY_004853,Mobile Payment,MasterCard
+PAY_004854,Mobile Payment,Visa
+PAY_004855,Cash,Amex
+PAY_004856,Mobile Payment,Maestro
+PAY_004857,credit card,MasterCard
+PAY_004858,Mobile Payment,Maestro
+PAY_004859,credit card,Amex
+PAY_004860,Cash,PayPal
+PAY_004861,credit card,Visa
+PAY_004862,debit card,PayPal
+PAY_004863,Mobile Payment,Visa
+PAY_004864,Mobile Payment,Amex
+PAY_004865,Mobile Payment,Visa
+PAY_004866,credit card,Amex
+PAY_004867,Cash,MasterCard
+PAY_004868,credit card,PayPal
+PAY_004869,Mobile Payment,Visa
+PAY_004870,Cash,MasterCard
+PAY_004871,Cash,Visa
+PAY_004872,debit card,Maestro
+PAY_004873,Mobile Payment,Amex
+PAY_004874,credit card,PayPal
+PAY_004875,credit card,Maestro
+PAY_004876,Cash,Visa
+PAY_004877,Mobile Payment,MasterCard
+PAY_004878,Mobile Payment,Maestro
+PAY_004879,Mobile Payment,Amex
+PAY_004880,Mobile Payment,Visa
+PAY_004881,Cash,MasterCard
+PAY_004882,debit card,MasterCard
+PAY_004883,debit card,PayPal
+PAY_004884,Cash,Amex
+PAY_004885,Mobile Payment,Maestro
+PAY_004886,credit card,Visa
+PAY_004887,credit card,Maestro
+PAY_004888,credit card,Amex
+PAY_004889,credit card,Maestro
+PAY_004890,credit card,Amex
+PAY_004891,debit card,PayPal
+PAY_004892,debit card,Visa
+PAY_004893,credit card,Visa
+PAY_004894,Cash,Amex
+PAY_004895,credit card,PayPal
+PAY_004896,credit card,PayPal
+PAY_004897,debit card,Maestro
+PAY_004898,debit card,Maestro
+PAY_004899,debit card,PayPal
+PAY_004900,credit card,Maestro
+PAY_004901,Mobile Payment,MasterCard
+PAY_004902,debit card,PayPal
+PAY_004903,credit card,Maestro
+PAY_004904,Mobile Payment,PayPal
+PAY_004905,Mobile Payment,Visa
+PAY_004906,credit card,Maestro
+PAY_004907,debit card,Amex
+PAY_004908,Mobile Payment,PayPal
+PAY_004909,debit card,Maestro
+PAY_004910,Cash,PayPal
+PAY_004911,credit card,Maestro
+PAY_004912,Mobile Payment,PayPal
+PAY_004913,Mobile Payment,Amex
+PAY_004914,credit card,Amex
+PAY_004915,Mobile Payment,Maestro
+PAY_004916,Cash,Visa
+PAY_004917,Cash,Maestro
+PAY_004918,debit card,Visa
+PAY_004919,credit card,Visa
+PAY_004920,Cash,MasterCard
+PAY_004921,debit card,Maestro
+PAY_004922,Mobile Payment,Visa
+PAY_004923,credit card,Amex
+PAY_004924,Mobile Payment,MasterCard
+PAY_004925,credit card,PayPal
+PAY_004926,debit card,Amex
+PAY_004927,Cash,Maestro
+PAY_004928,Mobile Payment,PayPal
+PAY_004929,debit card,Amex
+PAY_004930,Cash,MasterCard
+PAY_004931,Cash,MasterCard
+PAY_004932,Mobile Payment,PayPal
+PAY_004933,Mobile Payment,PayPal
+PAY_004934,debit card,Maestro
+PAY_004935,credit card,Visa
+PAY_004936,Mobile Payment,Maestro
+PAY_004937,Cash,Amex
+PAY_004938,Mobile Payment,Maestro
+PAY_004939,credit card,MasterCard
+PAY_004940,debit card,PayPal
+PAY_004941,Cash,Maestro
+PAY_004942,credit card,MasterCard
+PAY_004943,Cash,Maestro
+PAY_004944,Mobile Payment,Maestro
+PAY_004945,Cash,MasterCard
+PAY_004946,Mobile Payment,MasterCard
+PAY_004947,credit card,MasterCard
+PAY_004948,Mobile Payment,PayPal
+PAY_004949,Cash,PayPal
+PAY_004950,debit card,PayPal
+PAY_004951,debit card,MasterCard
+PAY_004952,debit card,Maestro
+PAY_004953,Mobile Payment,Visa
+PAY_004954,debit card,Visa
+PAY_004955,Mobile Payment,PayPal
+PAY_004956,credit card,MasterCard
+PAY_004957,Cash,PayPal
+PAY_004958,Mobile Payment,MasterCard
+PAY_004959,Cash,MasterCard
+PAY_004960,debit card,MasterCard
+PAY_004961,credit card,Visa
+PAY_004962,Cash,MasterCard
+PAY_004963,Cash,MasterCard
+PAY_004964,Mobile Payment,Amex
+PAY_004965,Cash,MasterCard
+PAY_004966,credit card,Maestro
+PAY_004967,credit card,Amex
+PAY_004968,Cash,Maestro
+PAY_004969,Mobile Payment,Maestro
+PAY_004970,Cash,PayPal
+PAY_004971,credit card,Visa
+PAY_004972,credit card,MasterCard
+PAY_004973,Cash,Amex
+PAY_004974,debit card,PayPal
+PAY_004975,credit card,MasterCard
+PAY_004976,credit card,PayPal
+PAY_004977,credit card,Amex
+PAY_004978,credit card,Visa
+PAY_004979,debit card,Amex
+PAY_004980,Mobile Payment,MasterCard
+PAY_004981,Cash,MasterCard
+PAY_004982,credit card,Maestro
+PAY_004983,credit card,Maestro
+PAY_004984,Cash,MasterCard
+PAY_004985,debit card,Visa
+PAY_004986,Mobile Payment,PayPal
+PAY_004987,Cash,Amex
+PAY_004988,Cash,MasterCard
+PAY_004989,Cash,Maestro
+PAY_004990,Mobile Payment,Visa
+PAY_004991,Cash,Visa
+PAY_004992,credit card,PayPal
+PAY_004993,debit card,Visa
+PAY_004994,credit card,Amex
+PAY_004995,Mobile Payment,Amex
+PAY_004996,Mobile Payment,Amex
+PAY_004997,Mobile Payment,Amex
+PAY_004998,credit card,Amex
+PAY_004999,Cash,PayPal

@@ -45,7 +45,7 @@ This project demonstrates an end-to-end retail data pipeline that processes, tra
 ### Visualization
 1. A Streamlit dashboard provides interactive visualizations of key metrics, sales trends, top stores, top products, and promotion impacts.
 
-![Data Pipeline](Pipeline.png)
+![Data Pipeline](Dwh.png)
 
 ## Important Directories and Files
 

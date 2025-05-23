@@ -39,7 +39,7 @@ This project demonstrates an end-to-end retail data pipeline that processes, tra
 
 ### Data Storage
 1. Transformed data is stored in a **PostgreSQL** database.
-![Dwh](Dwh.png)
+![Dwh](Dwh.jpeg)
 
 
 ### Visualization
